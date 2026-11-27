@@ -105,3 +105,20 @@ class TestCitations(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestRetry(unittest.TestCase):
+    def test_bad_json_is_retried(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            s = build_store(tmp)
+            for sig in s.signals.values():
+                sig["last_seen"] = "2026-11-25T00:00:00+00:00"
+            rows = score.score_all(s, score.load_profile(), TODAY)
+            sid = rows[0]["signal_ids"][0]
+            good = json.dumps({"why_now": [{"text": "x", "signal_ids": [sid]}], "persona": {"title": "t", "why": "w"},
+                               "brief": "b", "emails": [{"step": 1, "subject": "s", "body": "ok", "signal_ids": [sid]}]})
+            with mock.patch.object(writeups, "DATA", s.dir), \
+                    mock.patch.object(writeups, "call_claude", side_effect=['{"why_now": [ "broken', good]) as m:
+                out = writeups.write_top(s, rows, score.load_profile(), top=1, usage=[], log=lambda *_: None)
+            self.assertEqual(m.call_count, 2)
+            self.assertIn("ledgerly", out)

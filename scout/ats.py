@@ -28,10 +28,14 @@ NOT_INTERNAL = re.compile(
     r"customer success|solutions|implementation|support|recruit|marketing|data scientist)\b", re.I)
 
 
+# Internships and student programs don't signal a finance team being built.
+INTERN = re.compile(r"\b(intern|internship|co-op|summer \d{4}|campus|new grad)\b", re.I)
+
+
 def classify_title(title):
     """Return 'stack', 'finance' or '' for a job title. Day 2 adds a Claude check for ambiguous ones."""
     t = title or ""
-    if NOT_INTERNAL.search(t):
+    if NOT_INTERNAL.search(t) or INTERN.search(t):
         return ""
     if STACK_ROLES.search(t):
         return "stack"

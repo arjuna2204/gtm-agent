@@ -79,7 +79,7 @@ class TestATS(unittest.TestCase):
             "Controller": "stack", "Senior Manager, FP&A": "stack", "Accounts Payable Specialist": "stack",
             "Head of Finance": "stack", "VP, Finance": "stack", "Staff Accountant": "finance",
             "Payroll Specialist": "finance", "Software Engineer, Payments": "", "Account Executive, Finance Vertical": "",
-            "Product Designer": "", "Tax Manager": "finance",
+            "Product Designer": "", "Tax Manager": "finance", "Finance Internship, Summer 2027": "",
         }
         for title, want in cases.items():
             self.assertEqual(ats.classify_title(title), want, title)

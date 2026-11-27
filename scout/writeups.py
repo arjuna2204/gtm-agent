@@ -91,6 +91,7 @@ Hard rules:
 - Never invent product results or statistics (no "close 5 days faster", "save 20%"); describe benefits qualitatively.
 - Every why_now bullet and every email must list the signal ids it relies on, copied exactly.
 - Size and stage are estimates; if you mention them, say "about" or "roughly".
+- Write dates like "Oct 16", never as 2026-10-16. Inside JSON strings, never use unescaped double quotes.
 - Emails: plain text, <= 90 words, one specific signal per email, a clear low-effort ask, no flattery,
   no "I hope this finds you well", no fake familiarity, no em dashes. Sign as "[Your name]".
 - Persona: a job title, never a person's name (even if one appears in the signals).
@@ -155,8 +156,19 @@ def write_top(store, scores, profile, top=100, usage=None, log=print):
             continue
         c = store.companies[cid]
         try:
-            raw = call_claude(WRITER, WRITER_SYSTEM, account_prompt(c, sigs, row, profile), 1800, usage)
-            clean, dropped = check_citations(extract_json(raw), {s["id"] for s in sigs})
+            clean, dropped = None, 0
+            prompt = account_prompt(c, sigs, row, profile)
+            for attempt in range(3):  # retry when the model's JSON doesn't parse
+                raw = call_claude(WRITER, WRITER_SYSTEM, prompt, 2000, usage)
+                try:
+                    clean, dropped = check_citations(extract_json(raw), {s["id"] for s in sigs})
+                    break
+                except (ValueError, json.JSONDecodeError):
+                    if attempt == 2:
+                        raise
+                    prompt = account_prompt(c, sigs, row, profile) + (
+                        "\n\nIMPORTANT: your previous answer was not valid JSON. Return ONLY the JSON object. "
+                        "Escape any double quotes inside strings as \\\" and use \\n for line breaks.")
         except (ClaudeError, ValueError, json.JSONDecodeError) as e:
             log(f"  write-up failed for {cid}: {e}")
             if prev:

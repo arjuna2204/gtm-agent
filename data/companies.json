@@ -1,0 +1,6771 @@
+{
+ "acorns": {
+  "ats": "ashby",
+  "ats_slug": "acorns",
+  "board_url": "https://jobs.ashbyhq.com/acorns",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "acorns",
+  "locations_sample": [
+   "Remote"
+  ],
+  "name": "Acorns",
+  "open_roles": 8,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "addepar1": {
+  "ats": "greenhouse",
+  "ats_slug": "addepar1",
+  "board_url": "https://job-boards.greenhouse.io/addepar1",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "addepar1",
+  "locations_sample": [
+   "DIFC, Dubai, UAE",
+   "Edinburgh, UK",
+   "London, UK",
+   "New York, NY",
+   "New York, NY; Remote, USA"
+  ],
+  "name": "addepar1",
+  "open_roles": 120,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "addition-wealth": {
+  "ats": "lever",
+  "ats_slug": "additionwealth",
+  "board_url": "https://jobs.lever.co/additionwealth",
+  "first_seen": "2026-11-27T04:43:08+00:00",
+  "id": "addition-wealth",
+  "locations_sample": [
+   "Canada",
+   "France",
+   "India",
+   "Mexico",
+   "New York, NY"
+  ],
+  "name": "Addition Wealth",
+  "open_roles": 9,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:08+00:00"
+ },
+ "affirm": {
+  "ats": "greenhouse",
+  "ats_slug": "affirm",
+  "board_url": "https://job-boards.greenhouse.io/affirm",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "affirm",
+  "locations_sample": [
+   "London",
+   "New York, New York, United States",
+   "New York, New York, United States; San Francisco, California, United States",
+   "Remote Canada",
+   "Remote Poland"
+  ],
+  "name": "Affirm",
+  "open_roles": 216,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "after-services": {
+  "ats_checked": "2026-11-27",
+  "cik": "1903504",
+  "city": "Orem",
+  "first_seen": "2026-11-27T04:41:53+00:00",
+  "id": "after-services",
+  "industry": "Other",
+  "legal_name": "After Services, Inc.",
+  "name": "After Services",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "UT",
+  "updated": "2026-11-27T04:41:53+00:00"
+ },
+ "agnitioai-technologies": {
+  "ats_checked": "2026-11-27",
+  "cik": "2167001",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:41:44+00:00",
+  "id": "agnitioai-technologies",
+  "industry": "Other Technology",
+  "legal_name": "AgnitioAI Technologies, Inc.",
+  "name": "AgnitioAI Technologies",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1,000,001 - $5,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:44+00:00",
+  "year_of_inc": "2024"
+ },
+ "airwallex": {
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "airwallex",
+  "name": "Airwallex",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "allica-bank": {
+  "ats": "ashby",
+  "ats_slug": "allica-bank",
+  "board_url": "https://jobs.ashbyhq.com/allica-bank",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "allica-bank",
+  "locations_sample": [
+   "Berkshire",
+   "Birmingham",
+   "Delhi",
+   "Delhi | Karnataka",
+   "Glasgow"
+  ],
+  "name": "Allica Bank",
+  "open_roles": 33,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "alljoined": {
+  "ats": "ashby",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "alljoined",
+  "board_url": "https://jobs.ashbyhq.com/alljoined",
+  "cik": "2166029",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:02+00:00",
+  "id": "alljoined",
+  "industry": "Other Technology",
+  "legal_name": "Alljoined, Inc.",
+  "locations_sample": [
+   "San Francisco"
+  ],
+  "name": "Alljoined",
+  "news_checked": "2026-11-27",
+  "open_roles": 5,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "under 50",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:02+00:00",
+  "year_of_inc": "2023"
+ },
+ "alloy": {
+  "ats": "greenhouse",
+  "ats_slug": "alloy",
+  "board_url": "https://job-boards.greenhouse.io/alloy",
+  "first_seen": "2026-11-27T04:42:50+00:00",
+  "id": "alloy",
+  "locations_sample": [
+   "London, UK",
+   "New York City",
+   "New York City, Remote",
+   "Remote",
+   "Remote, United States"
+  ],
+  "name": "Alloy",
+  "open_roles": 34,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:50+00:00"
+ },
+ "alpaca": {
+  "ats": "greenhouse",
+  "ats_slug": "alpaca",
+  "board_url": "https://job-boards.greenhouse.io/alpaca",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "alpaca",
+  "locations_sample": [
+   "Global Anywhere",
+   "India",
+   "North America - Remote",
+   "North America and Europe",
+   "Remote"
+  ],
+  "name": "Alpaca",
+  "open_roles": 69,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "alphasense": {
+  "ats": "greenhouse",
+  "ats_slug": "alphasense",
+  "board_url": "https://job-boards.greenhouse.io/alphasense",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "alphasense",
+  "locations_sample": [
+   "- Vancouver Office; Remote - Canada",
+   "APAC; Singapore, Central, Singapore",
+   "Bengaluru",
+   "Delhi",
+   "Helsinki, Uusimaa, Finland"
+  ],
+  "name": "AlphaSense",
+  "open_roles": 169,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "altido-therapeutics": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162601",
+  "city": "Waltham",
+  "first_seen": "2026-11-27T04:42:03+00:00",
+  "id": "altido-therapeutics",
+  "industry": "Other Technology",
+  "legal_name": "Altido Therapeutics, Inc.",
+  "name": "Altido Therapeutics",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "MA",
+  "updated": "2026-11-27T04:42:03+00:00",
+  "year_of_inc": "2024"
+ },
+ "altruist": {
+  "ats": "greenhouse",
+  "ats_slug": "altruist",
+  "board_url": "https://job-boards.greenhouse.io/altruist",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "altruist",
+  "locations_sample": [
+   "Dallas, TX",
+   "Los Angeles, CA",
+   "Los Angeles, California ",
+   "Remote",
+   "Remote (Alabama, Georgia, Florida only)"
+  ],
+  "name": "Altruist",
+  "open_roles": 63,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "ampera-inc-ga": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166305",
+  "city": "Atlanta",
+  "first_seen": "2026-11-27T04:42:14+00:00",
+  "id": "ampera-inc-ga",
+  "industry": "Other Technology",
+  "legal_name": "Ampera, Inc. /GA",
+  "name": "Ampera, Inc. /GA",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "GA",
+  "updated": "2026-11-27T04:42:14+00:00",
+  "year_of_inc": "2026"
+ },
+ "amperage-infrastructure": {
+  "ats_checked": "2026-11-27",
+  "cik": "2164621",
+  "city": "Loveland",
+  "first_seen": "2026-11-27T04:42:31+00:00",
+  "id": "amperage-infrastructure",
+  "industry": "Other Technology",
+  "legal_name": "Amperage Infrastructure Corp",
+  "name": "Amperage Infrastructure",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CO",
+  "updated": "2026-11-27T04:42:31+00:00",
+  "year_of_inc": "2022"
+ },
+ "anchorage-digital": {
+  "ats": "lever",
+  "ats_slug": "anchorage",
+  "board_url": "https://jobs.lever.co/anchorage",
+  "first_seen": "2026-11-27T04:43:00+00:00",
+  "id": "anchorage-digital",
+  "locations_sample": [
+   "Cayman Islands | Canada",
+   "Cayman Islands | Singapore | Brazil | Argentina",
+   "Singapore",
+   "United States",
+   "United States | Canada | Cayman Islands | Singapore"
+  ],
+  "name": "Anchorage Digital",
+  "open_roles": 19,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:00+00:00"
+ },
+ "ansa-biotechnologies": {
+  "ats": "greenhouse",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "ansabiotechnologies",
+  "board_url": "https://job-boards.greenhouse.io/ansabiotechnologies",
+  "cik": "1816722",
+  "city": "Emeryville",
+  "first_seen": "2026-11-27T04:42:32+00:00",
+  "id": "ansa-biotechnologies",
+  "industry": "Biotechnology",
+  "legal_name": "Ansa Biotechnologies, Inc.",
+  "locations_sample": [
+   "Emeryville CA",
+   "Emeryville, CA",
+   "Regionally Based - US West"
+  ],
+  "name": "Ansa Biotechnologies",
+  "news_checked": "2026-11-27",
+  "open_roles": 8,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "50-200",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:32+00:00"
+ },
+ "antares-capital": {
+  "ats": "ashby",
+  "ats_slug": "antares",
+  "board_url": "https://jobs.ashbyhq.com/antares",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "antares-capital",
+  "locations_sample": [
+   "DC",
+   "Idaho Falls",
+   "Los Angeles",
+   "Los Angeles | Idaho Falls",
+   "North Carolina"
+  ],
+  "name": "Antares Capital",
+  "open_roles": 84,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "apex-er-iii": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165874",
+  "city": "Round Rock",
+  "first_seen": "2026-11-27T04:42:32+00:00",
+  "id": "apex-er-iii",
+  "industry": "Hospitals and Physicians",
+  "legal_name": "Apex ER III, LLC",
+  "name": "Apex ER III",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:32+00:00",
+  "year_of_inc": "2026"
+ },
+ "apolo-cloud": {
+  "ats_checked": "2026-11-27",
+  "cik": "2047090",
+  "city": "Fort Lauderdale",
+  "first_seen": "2026-11-27T04:42:03+00:00",
+  "id": "apolo-cloud",
+  "industry": "Other Technology",
+  "legal_name": "Apolo Cloud Inc.",
+  "name": "Apolo Cloud",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "FL",
+  "updated": "2026-11-27T04:42:03+00:00",
+  "year_of_inc": "2023"
+ },
+ "apri-foundation": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165616",
+  "city": "Arvada",
+  "first_seen": "2026-11-27T04:42:32+00:00",
+  "id": "apri-foundation",
+  "industry": "Other Banking and Financial Services",
+  "legal_name": "Apri Foundation INC",
+  "name": "Apri Foundation",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1 - $1,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CO",
+  "updated": "2026-11-27T04:42:32+00:00",
+  "year_of_inc": "2026"
+ },
+ "aptevo-therapeutics": {
+  "ats_checked": "2026-11-27",
+  "cik": "1671584",
+  "city": "Seattle",
+  "first_seen": "2026-11-27T04:41:44+00:00",
+  "id": "aptevo-therapeutics",
+  "industry": "Pharmaceuticals",
+  "legal_name": "Aptevo Therapeutics Inc.",
+  "name": "Aptevo Therapeutics",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "WA",
+  "updated": "2026-11-27T04:41:44+00:00"
+ },
+ "arbor-realty": {
+  "ats": "ashby",
+  "ats_slug": "arbor",
+  "board_url": "https://jobs.ashbyhq.com/arbor",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "arbor-realty",
+  "locations_sample": [
+   "Boston | Remote, near Boston | Remote, near DC | Austin"
+  ],
+  "name": "Arbor Realty",
+  "open_roles": 1,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "arca": {
+  "ats": "ashby",
+  "ats_slug": "arca",
+  "board_url": "https://jobs.ashbyhq.com/arca",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "arca",
+  "locations_sample": [
+   "New York"
+  ],
+  "name": "Arca",
+  "open_roles": 14,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "arch": {
+  "ats": "ashby",
+  "ats_slug": "arch",
+  "board_url": "https://jobs.ashbyhq.com/arch",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "arch",
+  "locations_sample": [
+   "San Francisco"
+  ],
+  "name": "Arch",
+  "open_roles": 6,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "arena-investors": {
+  "ats": "ashby",
+  "ats_slug": "arena",
+  "board_url": "https://jobs.ashbyhq.com/arena",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "arena-investors",
+  "locations_sample": [
+   "SF Bay Area",
+   "SF Bay Area | New York"
+  ],
+  "name": "Arena Investors",
+  "open_roles": 21,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "arriba-foods": {
+  "ats_checked": "2026-11-27",
+  "cik": "2023825",
+  "city": "Houston",
+  "first_seen": "2026-11-27T04:42:40+00:00",
+  "id": "arriba-foods",
+  "industry": "Manufacturing",
+  "legal_name": "Arriba Foods, LLC",
+  "name": "Arriba Foods",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$5,000,001 - $25,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:40+00:00",
+  "year_of_inc": "2023"
+ },
+ "atomic-invest": {
+  "ats": "ashby",
+  "ats_slug": "atomic-invest",
+  "board_url": "https://jobs.ashbyhq.com/atomic-invest",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "atomic-invest",
+  "locations_sample": [
+   "Buenos Aires",
+   "LATAM",
+   "United States"
+  ],
+  "name": "Atomic Invest",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "attain": {
+  "ats": "greenhouse",
+  "ats_slug": "attain",
+  "board_url": "https://job-boards.greenhouse.io/attain",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "attain",
+  "locations_sample": [
+   "Boston, MA; Chicago, IL; Los Angeles, CA; New York, NY",
+   "Chicago, IL",
+   "Chicago, IL; New York, NY",
+   "Chicago, IL; New York, NY; Redwood City, CA",
+   "Chicago, IL; Redwood City, CA"
+  ],
+  "name": "Attain",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "aurary-lab": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166436",
+  "city": "Fremont",
+  "first_seen": "2026-11-27T04:42:03+00:00",
+  "id": "aurary-lab",
+  "industry": "Other Technology",
+  "legal_name": "Aurary Lab, Inc",
+  "name": "Aurary Lab",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:03+00:00",
+  "year_of_inc": "2026"
+ },
+ "baron-capital": {
+  "ats": "greenhouse",
+  "ats_slug": "baroncapital",
+  "board_url": "https://job-boards.greenhouse.io/baroncapital",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "baron-capital",
+  "locations_sample": [
+   "New York, New York"
+  ],
+  "name": "Baron Capital",
+  "open_roles": 8,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "baryons": {
+  "ats_checked": "2026-11-27",
+  "cik": "2082177",
+  "city": "Johnstown",
+  "first_seen": "2026-11-27T04:42:23+00:00",
+  "id": "baryons",
+  "industry": "Other Technology",
+  "legal_name": "Baryons Inc.",
+  "name": "Baryons",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "PA",
+  "updated": "2026-11-27T04:42:23+00:00",
+  "year_of_inc": "2024"
+ },
+ "baselayer": {
+  "ats": "greenhouse",
+  "ats_slug": "baselayer",
+  "board_url": "https://job-boards.greenhouse.io/baselayer",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "baselayer",
+  "locations_sample": [
+   "New York",
+   "New York City",
+   "New York, New York",
+   "San Francisco, California"
+  ],
+  "name": "Baselayer",
+  "open_roles": 16,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "bebemos": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166927",
+  "city": "Encinitas",
+  "first_seen": "2026-11-27T04:41:53+00:00",
+  "id": "bebemos",
+  "industry": "Other",
+  "legal_name": "Bebemos Inc.",
+  "name": "Bebemos",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:53+00:00",
+  "year_of_inc": "2024"
+ },
+ "betterment": {
+  "ats": "greenhouse",
+  "ats_slug": "betterment",
+  "board_url": "https://job-boards.greenhouse.io/betterment",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "betterment",
+  "locations_sample": [
+   "Betterment HQ - New York City"
+  ],
+  "name": "Betterment",
+  "open_roles": 23,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "blend": {
+  "ats": "greenhouse",
+  "ats_slug": "blend",
+  "board_url": "https://job-boards.greenhouse.io/blend",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "blend",
+  "locations_sample": [
+   "Raleigh, NC",
+   "United States"
+  ],
+  "name": "Blend",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "blitzoo": {
+  "ats_checked": "2026-11-27",
+  "cik": "2050068",
+  "city": "Minnetonka",
+  "first_seen": "2026-11-27T04:42:14+00:00",
+  "id": "blitzoo",
+  "industry": "Other Technology",
+  "legal_name": "Blitzoo, Inc.",
+  "name": "Blitzoo",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "MN",
+  "updated": "2026-11-27T04:42:14+00:00",
+  "year_of_inc": "2024"
+ },
+ "blockworks": {
+  "ats": "ashby",
+  "ats_slug": "Blockworks",
+  "board_url": "https://jobs.ashbyhq.com/Blockworks",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "blockworks",
+  "locations_sample": [
+   "New York ",
+   "New York  | Remote - US",
+   "Remote - US"
+  ],
+  "name": "Blockworks",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "bloom-surgical": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166666",
+  "city": "Salt Lake City",
+  "first_seen": "2026-11-27T04:41:45+00:00",
+  "id": "bloom-surgical",
+  "industry": "Biotechnology",
+  "legal_name": "Bloom Surgical, Inc.",
+  "name": "Bloom Surgical",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "UT",
+  "updated": "2026-11-27T04:41:45+00:00"
+ },
+ "brex": {
+  "ats": "greenhouse",
+  "ats_slug": "brex",
+  "board_url": "https://job-boards.greenhouse.io/brex",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "brex",
+  "locations_sample": [
+   "New York, New York, United States",
+   "New York, New York, United States; San Francisco, California, United States; United States",
+   "Remote",
+   "Salt Lake City, Utah, United States",
+   "San Francisco, California, United States"
+  ],
+  "name": "Brex",
+  "open_roles": 266,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "bridgewater-associates": {
+  "ats": "greenhouse",
+  "ats_slug": "bridgewater89",
+  "board_url": "https://job-boards.greenhouse.io/bridgewater89",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "bridgewater-associates",
+  "locations_sample": [
+   "New York City",
+   "New York City & Westport, CT",
+   "Singapore",
+   "Westport, CT",
+   "Westport, CT "
+  ],
+  "name": "Bridgewater Associates",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "brightai": {
+  "ats": "greenhouse",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "brightai",
+  "board_url": "https://job-boards.greenhouse.io/brightai",
+  "cik": "2031706",
+  "city": "Palo Alto",
+  "first_seen": "2026-11-27T04:42:14+00:00",
+  "id": "brightai",
+  "industry": "Other Technology",
+  "legal_name": "BrightAI Corp",
+  "locations_sample": [
+   "Palo Alto",
+   "Palo Alto, CA",
+   "San Francisco Bay Area",
+   "United States"
+  ],
+  "name": "BrightAI",
+  "news_checked": "2026-11-27",
+  "open_roles": 4,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "under 50",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:14+00:00"
+ },
+ "brigit": {
+  "ats": "ashby",
+  "ats_slug": "brigit",
+  "board_url": "https://jobs.ashbyhq.com/brigit",
+  "first_seen": "2026-11-27T04:43:08+00:00",
+  "id": "brigit",
+  "locations_sample": [
+   "New York City (Hybrid)",
+   "New York City (Hybrid) | San Francisco (Hybrid) | Remote",
+   "Remote",
+   "Remote | San Francisco (Hybrid) | New York City (Hybrid)",
+   "San Francisco (Hybrid) | New York City (Hybrid) | Remote"
+  ],
+  "name": "Brigit",
+  "open_roles": 14,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:08+00:00"
+ },
+ "broccoli-intelligence": {
+  "ats_checked": "2026-11-27",
+  "cik": "2112989",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:41+00:00",
+  "id": "broccoli-intelligence",
+  "industry": "Other Technology",
+  "legal_name": "Broccoli Intelligence, Inc.",
+  "name": "Broccoli Intelligence",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:41+00:00",
+  "year_of_inc": "2021"
+ },
+ "cadre": {
+  "ats": "ashby",
+  "ats_slug": "cadre",
+  "board_url": "https://jobs.ashbyhq.com/cadre",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "cadre",
+  "name": "Cadre",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "cais": {
+  "ats": "greenhouse",
+  "ats_slug": "cais",
+  "board_url": "https://job-boards.greenhouse.io/cais",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "cais",
+  "locations_sample": [
+   "London, England",
+   "New York",
+   "New York City",
+   "New York, NY",
+   "New York, New York"
+  ],
+  "name": "CAIS",
+  "open_roles": 23,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "campfire": {
+  "ats": "ashby",
+  "ats_slug": "campfire",
+  "board_url": "https://jobs.ashbyhq.com/campfire",
+  "first_seen": "2026-11-27T04:43:00+00:00",
+  "id": "campfire",
+  "locations_sample": [
+   "London",
+   "New York",
+   "New York | Remote",
+   "Remote",
+   "Remote | San Francisco"
+  ],
+  "name": "Campfire",
+  "open_roles": 49,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:00+00:00"
+ },
+ "capchase": {
+  "ats": "ashby",
+  "ats_slug": "capchase",
+  "board_url": "https://jobs.ashbyhq.com/capchase",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "capchase",
+  "locations_sample": [
+   "Argentina | Chile | Spain | Costa Rica | Madrid | Colombia | Latin America | Guatemala",
+   "Austin",
+   "Dallas",
+   "Guatemala | Argentina | Chile | Uruguay | Colombia | Latin America",
+   "Guatemala | Argentina | Mexico | Chile | Costa Rica | Colombia | Latin America"
+  ],
+  "name": "Capchase",
+  "open_roles": 10,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "capi-money": {
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "capi-money",
+  "name": "Capi Money",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "capital-on-tap": {
+  "ats": "greenhouse",
+  "ats_slug": "capitalontap",
+  "board_url": "https://job-boards.greenhouse.io/capitalontap",
+  "first_seen": "2026-11-27T04:43:05+00:00",
+  "id": "capital-on-tap",
+  "locations_sample": [
+   "Brighton",
+   "Cardiff",
+   "Cardiff ",
+   "Lisbon",
+   "London"
+  ],
+  "name": "Capital on Tap",
+  "open_roles": 33,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:05+00:00"
+ },
+ "carta": {
+  "ats": "greenhouse",
+  "ats_slug": "carta",
+  "board_url": "https://job-boards.greenhouse.io/carta",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "carta",
+  "locations_sample": [
+   " Sandy, UT; Denver, CO; Seattle,WA",
+   "Australia, Singapore, Malaysia, Hong Kong, Korea, Japan",
+   "Dallas, TX",
+   "Denver, CO; Sandy, UT; Seattle, WA; Hamilton Township, NJ; Toronto, CA",
+   "Hamilton, NJ; Sandy, Utah; Seattle, Washington"
+  ],
+  "name": "Carta",
+  "open_roles": 81,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "cega-innovations": {
+  "ats_checked": "2026-11-27",
+  "cik": "1752052",
+  "city": "Sioux Falls",
+  "first_seen": "2026-11-27T04:42:41+00:00",
+  "id": "cega-innovations",
+  "industry": "Other Health Care",
+  "legal_name": "CEGA Innovations, Inc.",
+  "name": "CEGA Innovations",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1,000,001 - $5,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "SD",
+  "updated": "2026-11-27T04:42:41+00:00"
+ },
+ "celes-technologies": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165089",
+  "city": "Miami",
+  "first_seen": "2026-11-27T04:41:45+00:00",
+  "id": "celes-technologies",
+  "industry": "Other Technology",
+  "legal_name": "Celes Technologies, Inc.",
+  "name": "Celes Technologies",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "FL",
+  "updated": "2026-11-27T04:41:45+00:00",
+  "year_of_inc": "2022"
+ },
+ "chainalysis-careers": {
+  "ats": "ashby",
+  "ats_slug": "chainalysis-careers",
+  "board_url": "https://jobs.ashbyhq.com/chainalysis-careers",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "chainalysis-careers",
+  "locations_sample": [
+   "Aarhus Office",
+   "Brazil",
+   "California | Washington | Nevada | Oregon | Colorado",
+   "D.C.",
+   "Dubai"
+  ],
+  "name": "chainalysis-careers",
+  "open_roles": 50,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "checkout-com": {
+  "ats": "ashby",
+  "ats_slug": "checkout.com",
+  "board_url": "https://jobs.ashbyhq.com/checkout.com",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "checkout-com",
+  "locations_sample": [
+   "Amsterdam",
+   "Amsterdam | Berlin | Barcelona",
+   "Atlanta",
+   "Atlanta | New York",
+   "Atlanta | San Francisco"
+  ],
+  "name": "checkout.com",
+  "open_roles": 159,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "chime": {
+  "ats": "greenhouse",
+  "ats_slug": "chime",
+  "board_url": "https://job-boards.greenhouse.io/chime",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "chime",
+  "locations_sample": [
+   "Chicago, IL, USA",
+   "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+   "Chicago, IL, USA; San Francisco, CA, USA",
+   "New York, NY, USA",
+   "New York, NY, USA; San Francisco, CA, USA"
+  ],
+  "name": "Chime",
+  "open_roles": 77,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "chronograph": {
+  "ats": "greenhouse",
+  "ats_slug": "chronograph",
+  "board_url": "https://job-boards.greenhouse.io/chronograph",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "chronograph",
+  "locations_sample": [
+   "Brooklyn, New York, United States",
+   "London, England, United Kingdom",
+   "Remote",
+   "Singapore"
+  ],
+  "name": "Chronograph",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "city-light-studios": {
+  "ats_checked": "2026-11-27",
+  "cik": "2161875",
+  "city": "Annapolis",
+  "first_seen": "2026-11-27T04:42:05+00:00",
+  "id": "city-light-studios",
+  "industry": "Other Technology",
+  "legal_name": "City Light Studios, LLC",
+  "name": "City Light Studios",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "MD",
+  "updated": "2026-11-27T04:42:05+00:00",
+  "year_of_inc": "2026"
+ },
+ "claria-medical": {
+  "ats_checked": "2026-11-27",
+  "cik": "1711350",
+  "city": "Mountain View",
+  "first_seen": "2026-11-27T04:41:54+00:00",
+  "id": "claria-medical",
+  "industry": "Other Technology",
+  "legal_name": "Claria Medical, Inc.",
+  "name": "Claria Medical",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:54+00:00"
+ },
+ "clear-street": {
+  "ats": "greenhouse",
+  "ats_slug": "clearstreet",
+  "board_url": "https://job-boards.greenhouse.io/clearstreet",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "clear-street",
+  "locations_sample": [
+   "Chicago, IL",
+   "Chicago, New York City",
+   "Del Mar",
+   "London, UK",
+   "New York Or Chicago"
+  ],
+  "name": "Clear Street",
+  "open_roles": 32,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "clearwater-analytics": {
+  "ats": "greenhouse",
+  "ats_slug": "clearwater",
+  "board_url": "https://job-boards.greenhouse.io/clearwater",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "clearwater-analytics",
+  "locations_sample": [
+   "India",
+   "Pune",
+   "Pune (M.H)",
+   "Pune (MH)",
+   "Pune India "
+  ],
+  "name": "Clearwater Analytics",
+  "open_roles": 16,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "cleo": {
+  "ats": "greenhouse",
+  "ats_slug": "cleo",
+  "board_url": "https://job-boards.greenhouse.io/cleo",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "cleo",
+  "locations_sample": [
+   "Chicago, Illinois",
+   "Chicago, Illinois ",
+   "Remote",
+   "Remote - US",
+   "Remote - USA"
+  ],
+  "name": "Cleo",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "climate-scale": {
+  "ats_checked": "2026-11-27",
+  "cik": "2050269",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:05+00:00",
+  "id": "climate-scale",
+  "industry": "Other Technology",
+  "legal_name": "Climate Scale Inc.",
+  "name": "Climate Scale",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:05+00:00",
+  "year_of_inc": "2024"
+ },
+ "clubhouse-ctv": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163764",
+  "city": "Durham",
+  "first_seen": "2026-11-27T04:42:05+00:00",
+  "id": "clubhouse-ctv",
+  "industry": "Other",
+  "legal_name": "CLUBHOUSE CTV, INC.",
+  "name": "CLUBHOUSE CTV",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NC",
+  "updated": "2026-11-27T04:42:05+00:00",
+  "year_of_inc": "2026"
+ },
+ "coinbase": {
+  "ats": "greenhouse",
+  "ats_slug": "coinbase",
+  "board_url": "https://job-boards.greenhouse.io/coinbase",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "coinbase",
+  "locations_sample": [
+   "Dallas, TX",
+   "Dublin, Ireland",
+   "Hybrid - London, UK",
+   "Hybrid - Luxembourg",
+   "Hybrid - New York, NY"
+  ],
+  "name": "Coinbase",
+  "open_roles": 256,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "coinflow": {
+  "ats": "ashby",
+  "ats_slug": "Coinflow",
+  "board_url": "https://jobs.ashbyhq.com/Coinflow",
+  "first_seen": "2026-11-27T04:43:04+00:00",
+  "id": "coinflow",
+  "locations_sample": [
+   "Chicago",
+   "Europe"
+  ],
+  "name": "Coinflow",
+  "open_roles": 18,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:04+00:00"
+ },
+ "column": {
+  "ats": "ashby",
+  "ats_slug": "column",
+  "board_url": "https://jobs.ashbyhq.com/column",
+  "first_seen": "2026-11-27T04:42:50+00:00",
+  "id": "column",
+  "locations_sample": [
+   "Dubai, UAE",
+   "Remote, USA",
+   "San Francisco, CA",
+   "San Francisco, CA | Remote, USA",
+   "Tashkent, UZ"
+  ],
+  "name": "Column",
+  "open_roles": 23,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:50+00:00"
+ },
+ "compact-medical": {
+  "ats_checked": "2026-11-27",
+  "cik": "1794240",
+  "city": "Indianapolis",
+  "first_seen": "2026-11-27T04:42:14+00:00",
+  "id": "compact-medical",
+  "industry": "Biotechnology",
+  "legal_name": "Compact Medical Inc.",
+  "name": "Compact Medical",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "IN",
+  "updated": "2026-11-27T04:42:14+00:00",
+  "year_of_inc": "2021"
+ },
+ "compound-planning": {
+  "ats": "ashby",
+  "ats_slug": "compound",
+  "board_url": "https://jobs.ashbyhq.com/compound",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "compound-planning",
+  "locations_sample": [
+   "Remote"
+  ],
+  "name": "Compound Planning",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "coral-mountain-opco": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162296",
+  "city": "Santa Monica",
+  "first_seen": "2026-11-27T04:42:05+00:00",
+  "id": "coral-mountain-opco",
+  "industry": "Other",
+  "legal_name": "Coral Mountain OpCo LLC",
+  "name": "Coral Mountain OpCo",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:05+00:00",
+  "year_of_inc": "2026"
+ },
+ "corvita": {
+  "ats_checked": "2026-11-27",
+  "cik": "2051333",
+  "city": "Cincinnati",
+  "first_seen": "2026-11-27T04:41:54+00:00",
+  "id": "corvita",
+  "industry": "Other Health Care",
+  "legal_name": "CorVita, Inc.",
+  "name": "CorVita",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "OH",
+  "updated": "2026-11-27T04:41:54+00:00",
+  "year_of_inc": "2024"
+ },
+ "cosmoserve-space": {
+  "ats_checked": "2026-11-27",
+  "cik": "2091915",
+  "city": "Miami",
+  "first_seen": "2026-11-27T04:42:24+00:00",
+  "id": "cosmoserve-space",
+  "industry": "Other Technology",
+  "legal_name": "Cosmoserve Space Inc.",
+  "name": "Cosmoserve Space",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "FL",
+  "updated": "2026-11-27T04:42:24+00:00",
+  "year_of_inc": "2025"
+ },
+ "counterfact-labs": {
+  "ats_checked": "2026-11-27",
+  "cik": "2167117",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:41:46+00:00",
+  "id": "counterfact-labs",
+  "industry": "Other",
+  "legal_name": "Counterfact Labs, Inc.",
+  "name": "Counterfact Labs",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:46+00:00",
+  "year_of_inc": "2026"
+ },
+ "crypto-insights-group": {
+  "ats_checked": "2026-11-27",
+  "cik": "2164770",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:24+00:00",
+  "id": "crypto-insights-group",
+  "industry": "Other Technology",
+  "legal_name": "Crypto Insights Group Corp.",
+  "name": "Crypto Insights Group",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:24+00:00",
+  "year_of_inc": "2024"
+ },
+ "current": {
+  "ats": "greenhouse",
+  "ats_slug": "current",
+  "board_url": "https://job-boards.greenhouse.io/current",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "current",
+  "locations_sample": [
+   "Remote (US)"
+  ],
+  "name": "Current",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "custom-trucks-nw": {
+  "ats_checked": "2026-11-27",
+  "cik": "2160724",
+  "city": "Puyallup",
+  "first_seen": "2026-11-27T04:42:42+00:00",
+  "id": "custom-trucks-nw",
+  "industry": "Other",
+  "legal_name": "Custom Trucks NW, LLC",
+  "name": "Custom Trucks NW",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "WA",
+  "updated": "2026-11-27T04:42:42+00:00",
+  "year_of_inc": "2025"
+ },
+ "dandelion-health": {
+  "ats": "ashby",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "dandelionhealth",
+  "board_url": "https://jobs.ashbyhq.com/dandelionhealth",
+  "cik": "2015969",
+  "city": "Glen Cove",
+  "first_seen": "2026-11-27T04:42:06+00:00",
+  "id": "dandelion-health",
+  "industry": "Other Health Care",
+  "legal_name": "Dandelion Health Inc.",
+  "locations_sample": [
+   "Remote"
+  ],
+  "name": "Dandelion Health",
+  "news_checked": "2026-11-27",
+  "open_roles": 2,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "under 50",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:06+00:00"
+ },
+ "dandy": {
+  "ats": "ashby",
+  "ats_slug": "Dandy",
+  "board_url": "https://jobs.ashbyhq.com/Dandy",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "dandy",
+  "locations_sample": [
+   "Australia - Sydney",
+   "Canada - Remote",
+   "Canada - Toronto ON",
+   "Egypt - Cairo",
+   "Germany - Berlin"
+  ],
+  "name": "Dandy",
+  "open_roles": 76,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "dave": {
+  "ats": "ashby",
+  "ats_slug": "dave",
+  "board_url": "https://jobs.ashbyhq.com/dave",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "dave",
+  "locations_sample": [
+   "United States"
+  ],
+  "name": "Dave",
+  "open_roles": 9,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "deel": {
+  "ats": "ashby",
+  "ats_slug": "deel",
+  "board_url": "https://jobs.ashbyhq.com/deel",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "deel",
+  "name": "Deel",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "deep-cogito": {
+  "ats_checked": "2026-11-27",
+  "cik": "2128259",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:06+00:00",
+  "id": "deep-cogito",
+  "industry": "Other Technology",
+  "legal_name": "Deep Cogito Inc.",
+  "name": "Deep Cogito",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:06+00:00",
+  "year_of_inc": "2024"
+ },
+ "deepsigma": {
+  "ats_checked": "2026-11-27",
+  "cik": "2167107",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:41:46+00:00",
+  "id": "deepsigma",
+  "industry": "Other Technology",
+  "legal_name": "DeepSigma Inc.",
+  "name": "DeepSigma",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$5,000,001 - $25,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:41:46+00:00",
+  "year_of_inc": "2026"
+ },
+ "doctome": {
+  "ats_checked": "2026-11-27",
+  "cik": "1707127",
+  "city": "Gig Harbor",
+  "first_seen": "2026-11-27T04:41:54+00:00",
+  "id": "doctome",
+  "industry": "Other Technology",
+  "legal_name": "DocToMe, Inc.",
+  "name": "DocToMe",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "WA",
+  "updated": "2026-11-27T04:41:54+00:00"
+ },
+ "ducera-partners": {
+  "ats": "greenhouse",
+  "ats_slug": "ducerapartners",
+  "board_url": "https://job-boards.greenhouse.io/ducerapartners",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "ducera-partners",
+  "locations_sample": [
+   "Los Angeles, California, United States",
+   "New York, New York, United States",
+   "San Francisco, California, United States"
+  ],
+  "name": "Ducera Partners",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "dune-research": {
+  "ats_checked": "2026-11-27",
+  "cik": "2164668",
+  "city": "Palo Alto",
+  "first_seen": "2026-11-27T04:41:55+00:00",
+  "id": "dune-research",
+  "industry": "Other Technology",
+  "legal_name": "Dune Research, Inc.",
+  "name": "Dune Research",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:55+00:00",
+  "year_of_inc": "2026"
+ },
+ "eagle-point-credit": {
+  "ats": "ashby",
+  "ats_slug": "eagle",
+  "board_url": "https://jobs.ashbyhq.com/eagle",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "eagle-point-credit",
+  "locations_sample": [
+   "New York City"
+  ],
+  "name": "Eagle Point Credit",
+  "open_roles": 7,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "earthx": {
+  "ats_checked": "2026-11-27",
+  "cik": "2106302",
+  "city": "North Canton",
+  "first_seen": "2026-11-27T04:42:24+00:00",
+  "id": "earthx",
+  "industry": "Other Technology",
+  "legal_name": "EARTHX Ltd",
+  "name": "EARTHX",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "OH",
+  "updated": "2026-11-27T04:42:24+00:00",
+  "year_of_inc": "2023"
+ },
+ "ebury": {
+  "ats": "greenhouse",
+  "ats_slug": "ebury",
+  "board_url": "https://job-boards.greenhouse.io/ebury",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "ebury",
+  "locations_sample": [
+   "Amsterdam",
+   "Antwerp",
+   "Auckland",
+   "Auckland, New Zealand",
+   "Barcelona"
+  ],
+  "name": "Ebury",
+  "open_roles": 174,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "ecolectro": {
+  "ats_checked": "2026-11-27",
+  "cik": "1905346",
+  "city": "Ithaca",
+  "first_seen": "2026-11-27T04:41:55+00:00",
+  "id": "ecolectro",
+  "industry": "Other Technology",
+  "legal_name": "Ecolectro, Inc.",
+  "name": "Ecolectro",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:41:55+00:00"
+ },
+ "eliseai": {
+  "ats": "ashby",
+  "ats_slug": "EliseAI",
+  "board_url": "https://jobs.ashbyhq.com/EliseAI",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "eliseai",
+  "locations_sample": [
+   "Austin | Boston | San Francisco | Chicago | New York City",
+   "Boston",
+   "New York City",
+   "New York City | Austin",
+   "New York City | Boston"
+  ],
+  "name": "EliseAI",
+  "open_roles": 106,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "elligint-health": {
+  "ats": "greenhouse",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "elliginthealth",
+  "board_url": "https://job-boards.greenhouse.io/elliginthealth",
+  "cik": "2051403",
+  "city": "Edison",
+  "first_seen": "2026-11-27T04:42:25+00:00",
+  "id": "elligint-health",
+  "industry": "Other Technology",
+  "legal_name": "Elligint Health, Inc.",
+  "locations_sample": [
+   "Edison, NJ"
+  ],
+  "name": "Elligint Health",
+  "news_checked": "2026-11-27",
+  "open_roles": 1,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "under 50",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NJ",
+  "updated": "2026-11-27T04:42:25+00:00",
+  "year_of_inc": "2024"
+ },
+ "encord": {
+  "ats": "ashby",
+  "ats_slug": "encord",
+  "board_url": "https://jobs.ashbyhq.com/encord",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "encord",
+  "locations_sample": [
+   "India",
+   "London",
+   "London | New York",
+   "London | San Francisco",
+   "London | San Francisco | New York"
+  ],
+  "name": "Encord",
+  "open_roles": 32,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "endosure": {
+  "ats_checked": "2026-11-27",
+  "cik": "2042877",
+  "city": "Sparks Glencoe",
+  "first_seen": "2026-11-27T04:42:25+00:00",
+  "id": "endosure",
+  "industry": "Other Health Care",
+  "legal_name": "EndoSure, Inc.",
+  "name": "EndoSure",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "MD",
+  "updated": "2026-11-27T04:42:25+00:00",
+  "year_of_inc": "2022"
+ },
+ "engineers-gate": {
+  "ats": "greenhouse",
+  "ats_slug": "engineersgate",
+  "board_url": "https://job-boards.greenhouse.io/engineersgate",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "engineers-gate",
+  "locations_sample": [
+   "Hong Kong",
+   "London",
+   "New York",
+   "Singapore"
+  ],
+  "name": "Engineers Gate",
+  "open_roles": 9,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "ennabl": {
+  "ats_checked": "2026-11-27",
+  "cik": "1886670",
+  "city": "Greenwich",
+  "first_seen": "2026-11-27T04:42:15+00:00",
+  "id": "ennabl",
+  "industry": "Other Technology",
+  "legal_name": "Ennabl, Inc.",
+  "name": "Ennabl",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CT",
+  "updated": "2026-11-27T04:42:15+00:00"
+ },
+ "epb-ii": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163371",
+  "city": "Scottsdale",
+  "first_seen": "2026-11-27T04:42:42+00:00",
+  "id": "epb-ii",
+  "industry": "Other",
+  "legal_name": "EPB II, LLC",
+  "name": "EPB II",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "AZ",
+  "updated": "2026-11-27T04:42:42+00:00",
+  "year_of_inc": "2026"
+ },
+ "epb3": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163377",
+  "city": "Scottsdale",
+  "first_seen": "2026-11-27T04:42:42+00:00",
+  "id": "epb3",
+  "industry": "Other",
+  "legal_name": "EPB3, LLC",
+  "name": "EPB3",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "AZ",
+  "updated": "2026-11-27T04:42:42+00:00",
+  "year_of_inc": "2026"
+ },
+ "epb4": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163613",
+  "city": "Scottsdale",
+  "first_seen": "2026-11-27T04:42:43+00:00",
+  "id": "epb4",
+  "industry": "Other",
+  "legal_name": "EPB4, LLC",
+  "name": "EPB4",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "AZ",
+  "updated": "2026-11-27T04:42:43+00:00",
+  "year_of_inc": "2026"
+ },
+ "esque-collective": {
+  "ats_checked": "2026-11-27",
+  "cik": "2045187",
+  "city": "San Ramon",
+  "first_seen": "2026-11-27T04:41:46+00:00",
+  "id": "esque-collective",
+  "industry": "Other Technology",
+  "legal_name": "Esque Collective, Inc.",
+  "name": "Esque Collective",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:46+00:00",
+  "year_of_inc": "2024"
+ },
+ "ethic": {
+  "ats": "greenhouse",
+  "ats_slug": "ethic",
+  "board_url": "https://job-boards.greenhouse.io/ethic",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "ethic",
+  "locations_sample": [
+   "New York, NY"
+  ],
+  "name": "Ethic",
+  "open_roles": 1,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "evervault": {
+  "ats": "ashby",
+  "ats_slug": "evervault",
+  "board_url": "https://jobs.ashbyhq.com/evervault",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "evervault",
+  "locations_sample": [
+   "London",
+   "New York"
+  ],
+  "name": "Evervault",
+  "open_roles": 6,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "exponential-platform": {
+  "ats_checked": "2026-11-27",
+  "cik": "2167019",
+  "city": "Bergenfield",
+  "first_seen": "2026-11-27T04:41:46+00:00",
+  "id": "exponential-platform",
+  "industry": "Other Technology",
+  "legal_name": "Exponential Platform Inc.",
+  "name": "Exponential Platform",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NJ",
+  "updated": "2026-11-27T04:41:46+00:00",
+  "year_of_inc": "2024"
+ },
+ "extend-enterprises": {
+  "ats_checked": "2026-11-27",
+  "cik": "1721186",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:25+00:00",
+  "id": "extend-enterprises",
+  "industry": "Other Technology",
+  "legal_name": "Extend Enterprises, Inc.",
+  "name": "Extend Enterprises",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:25+00:00"
+ },
+ "facet": {
+  "ats": "ashby",
+  "ats_slug": "facet",
+  "board_url": "https://jobs.ashbyhq.com/facet",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "facet",
+  "name": "Facet",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "fairground-labs": {
+  "ats": "ashby",
+  "ats_slug": "Fairground",
+  "board_url": "https://jobs.ashbyhq.com/Fairground",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "fairground-labs",
+  "locations_sample": [
+   "Hyderabad",
+   "New York City"
+  ],
+  "name": "Fairground Labs",
+  "open_roles": 8,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "fanaty": {
+  "ats_checked": "2026-11-27",
+  "cik": "2143278",
+  "city": "Miami",
+  "first_seen": "2026-11-27T04:42:43+00:00",
+  "id": "fanaty",
+  "industry": "Other Technology",
+  "legal_name": "Fanaty, Inc",
+  "name": "Fanaty",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "FL",
+  "updated": "2026-11-27T04:42:43+00:00"
+ },
+ "fcre-tech-park-i": {
+  "ats_checked": "2026-11-27",
+  "cik": "2145372",
+  "city": "Alpharetta",
+  "first_seen": "2026-11-27T04:42:06+00:00",
+  "id": "fcre-tech-park-i",
+  "industry": "Other",
+  "legal_name": "FCRE Tech Park I, LLC",
+  "name": "FCRE Tech Park I",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "GA",
+  "updated": "2026-11-27T04:42:06+00:00",
+  "year_of_inc": "2026"
+ },
+ "feedback-technologies": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166374",
+  "city": "Menlo Park",
+  "first_seen": "2026-11-27T04:42:07+00:00",
+  "id": "feedback-technologies",
+  "industry": "Other Technology",
+  "legal_name": "Feedback Technologies, Inc.",
+  "name": "Feedback Technologies",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:07+00:00",
+  "year_of_inc": "2026"
+ },
+ "figure": {
+  "ats": "greenhouse",
+  "ats_slug": "figure",
+  "board_url": "https://job-boards.greenhouse.io/figure",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "figure",
+  "locations_sample": [
+   "Charlotte, NC",
+   "Dallas, TX",
+   "New York (Hybrid)",
+   "New York, NY",
+   "New York, NY; San Francisco, CA"
+  ],
+  "name": "Figure",
+  "open_roles": 30,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "finch-legal": {
+  "ats": "ashby",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "finch-legal",
+  "board_url": "https://jobs.ashbyhq.com/finch-legal",
+  "cik": "2073379",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:43+00:00",
+  "id": "finch-legal",
+  "industry": "Other Technology",
+  "legal_name": "Finch Legal Inc.",
+  "locations_sample": [
+   "New York City",
+   "Remote"
+  ],
+  "name": "Finch Legal",
+  "news_checked": "2026-11-27",
+  "open_roles": 30,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "200-500",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:43+00:00",
+  "year_of_inc": "2024"
+ },
+ "finix": {
+  "ats": "lever",
+  "ats_slug": "finix",
+  "board_url": "https://jobs.lever.co/finix",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "finix",
+  "locations_sample": [
+   "Chicago",
+   "San Francisco",
+   "San Francisco | Orlando",
+   "San Francisco | Remote",
+   "San Francisco | Toronto | Vancouver | Orlando | Remote"
+  ],
+  "name": "Finix",
+  "open_roles": 25,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "flex": {
+  "ats": "greenhouse",
+  "ats_slug": "flex",
+  "board_url": "https://job-boards.greenhouse.io/flex",
+  "first_seen": "2026-11-27T04:43:05+00:00",
+  "id": "flex",
+  "locations_sample": [
+   "New York, NY",
+   "New York, NY; New York, United States; Remote - Global; Salt Lake City, UT; San Francisco, CA",
+   "New York, NY; Remote - Global; Salt Lake City, UT; San Francisco, CA",
+   "New York, NY; Salt Lake City, UT; San Francisco, CA",
+   "New York, NY; San Francisco, CA"
+  ],
+  "name": "Flex",
+  "open_roles": 39,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:05+00:00"
+ },
+ "flipturn": {
+  "ats": "ashby",
+  "ats_slug": "flipturn",
+  "board_url": "https://jobs.ashbyhq.com/flipturn",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "flipturn",
+  "locations_sample": [
+   "New York City",
+   "Remote (US) | Austin, TX | New York City"
+  ],
+  "name": "Flipturn",
+  "open_roles": 2,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "flo-technology": {
+  "ats_checked": "2026-11-27",
+  "cik": "1987454",
+  "city": "Las Vegas",
+  "first_seen": "2026-11-27T04:42:07+00:00",
+  "id": "flo-technology",
+  "industry": "Other Technology",
+  "legal_name": "Flo Technology Inc",
+  "name": "Flo Technology",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NV",
+  "updated": "2026-11-27T04:42:07+00:00",
+  "year_of_inc": "2023"
+ },
+ "flourish": {
+  "ats": "greenhouse",
+  "ats_slug": "flourish",
+  "board_url": "https://job-boards.greenhouse.io/flourish",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "flourish",
+  "locations_sample": [
+   "Dallas",
+   "New York",
+   "Remote"
+  ],
+  "name": "Flourish",
+  "open_roles": 7,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "focus-financial": {
+  "ats": "ashby",
+  "ats_slug": "focus",
+  "board_url": "https://jobs.ashbyhq.com/focus",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "focus-financial",
+  "locations_sample": [
+   "Remote"
+  ],
+  "name": "Focus Financial",
+  "open_roles": 3,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "fortitude-gold": {
+  "ats_checked": "2026-11-27",
+  "cik": "1828377",
+  "city": "Colorado Springs",
+  "first_seen": "2026-11-27T04:41:55+00:00",
+  "id": "fortitude-gold",
+  "industry": "Other",
+  "legal_name": "Fortitude Gold Corp",
+  "name": "Fortitude Gold",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$25,000,001 - $100,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CO",
+  "updated": "2026-11-27T04:41:55+00:00"
+ },
+ "fortress-investment-group": {
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "fortress-investment-group",
+  "name": "Fortress Investment Group",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "forward-financing": {
+  "ats": "ashby",
+  "ats_slug": "Forward Financing",
+  "board_url": "https://jobs.ashbyhq.com/Forward Financing",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "forward-financing",
+  "locations_sample": [
+   "Hybrid, Santiago de Los Caballeros, Dominican Republic",
+   "Onsite - Santiago de los Caballeros, Dominican Republic",
+   "Remote - Alberta, Canada | Remote - Ontario, Canada",
+   "Remote - Dominican Republic",
+   "Remote - Ontario | Remote - Alberta, Canada"
+  ],
+  "name": "Forward Financing",
+  "open_roles": 28,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "fourth-day-broadway": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163399",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:07+00:00",
+  "id": "fourth-day-broadway",
+  "industry": "Other",
+  "legal_name": "Fourth Day Broadway LLC",
+  "name": "Fourth Day Broadway",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:07+00:00",
+  "year_of_inc": "2026"
+ },
+ "freemarket": {
+  "first_seen": "2026-11-27T04:43:05+00:00",
+  "id": "freemarket",
+  "name": "Freemarket",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:05+00:00"
+ },
+ "freetrade": {
+  "ats": "ashby",
+  "ats_slug": "freetrade",
+  "board_url": "https://jobs.ashbyhq.com/freetrade",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "freetrade",
+  "locations_sample": [
+   "Budapest",
+   "London "
+  ],
+  "name": "Freetrade",
+  "open_roles": 6,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "from-the-farm": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165589",
+  "city": "Dover",
+  "first_seen": "2026-11-27T04:41:55+00:00",
+  "id": "from-the-farm",
+  "industry": "Manufacturing",
+  "legal_name": "From the Farm Inc.",
+  "name": "From the Farm",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1 - $1,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "DE",
+  "updated": "2026-11-27T04:41:55+00:00",
+  "year_of_inc": "2026"
+ },
+ "frontrace": {
+  "ats_checked": "2026-11-27",
+  "cik": "2022735",
+  "city": "Boca Raton",
+  "first_seen": "2026-11-27T04:42:08+00:00",
+  "id": "frontrace",
+  "industry": "Other",
+  "legal_name": "FrontRace Inc.",
+  "name": "FrontRace",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "FL",
+  "updated": "2026-11-27T04:42:08+00:00",
+  "year_of_inc": "2024"
+ },
+ "ft-partners": {
+  "ats": "greenhouse",
+  "ats_slug": "financialtechnologypartners",
+  "board_url": "https://job-boards.greenhouse.io/financialtechnologypartners",
+  "first_seen": "2026-11-27T04:43:05+00:00",
+  "id": "ft-partners",
+  "locations_sample": [
+   "Gurgaon / New Delhi (Fully Remote)",
+   "London",
+   "New York",
+   "New York, NY",
+   "San Francisco"
+  ],
+  "name": "FT Partners",
+  "open_roles": 23,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:05+00:00"
+ },
+ "fundingcircle": {
+  "ats": "ashby",
+  "ats_slug": "fundingcircle",
+  "board_url": "https://jobs.ashbyhq.com/fundingcircle",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "fundingcircle",
+  "locations_sample": [
+   "London"
+  ],
+  "name": "fundingcircle",
+  "open_roles": 20,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "fundrise": {
+  "ats": "lever",
+  "ats_slug": "fundrise",
+  "board_url": "https://jobs.lever.co/fundrise",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "fundrise",
+  "locations_sample": [
+   "United States"
+  ],
+  "name": "Fundrise",
+  "open_roles": 1,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "fynancial": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166989",
+  "city": "Covington",
+  "first_seen": "2026-11-27T04:41:47+00:00",
+  "id": "fynancial",
+  "industry": "Other Technology",
+  "legal_name": "Fynancial, Inc.",
+  "name": "Fynancial",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "KY",
+  "updated": "2026-11-27T04:41:47+00:00",
+  "year_of_inc": "2026"
+ },
+ "galvanize-therapeutics": {
+  "ats_checked": "2026-11-27",
+  "cik": "1659073",
+  "city": "Redwood City",
+  "first_seen": "2026-11-27T04:42:33+00:00",
+  "id": "galvanize-therapeutics",
+  "industry": "Biotechnology",
+  "legal_name": "Galvanize Therapeutics, Inc.",
+  "name": "Galvanize Therapeutics",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:33+00:00"
+ },
+ "gamow-labs": {
+  "ats_checked": "2026-11-27",
+  "cik": "2150140",
+  "city": "Boulder",
+  "first_seen": "2026-11-27T04:42:43+00:00",
+  "id": "gamow-labs",
+  "industry": "Other",
+  "legal_name": "Gamow Labs, Inc.",
+  "name": "Gamow Labs",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CO",
+  "updated": "2026-11-27T04:42:43+00:00",
+  "year_of_inc": "2026"
+ },
+ "gemini": {
+  "ats": "greenhouse",
+  "ats_slug": "gemini",
+  "board_url": "https://job-boards.greenhouse.io/gemini",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "gemini",
+  "locations_sample": [
+   "New York, New York",
+   "New York, New York; Miami, Florida; Remote (USA)",
+   "Scottsdale, Arizona",
+   "Singapore, Singapore"
+  ],
+  "name": "Gemini",
+  "open_roles": 22,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "general-inference": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165091",
+  "city": "Newark",
+  "first_seen": "2026-11-27T04:42:15+00:00",
+  "id": "general-inference",
+  "industry": "Computers",
+  "legal_name": "General Inference Inc.",
+  "name": "General Inference",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "DE",
+  "updated": "2026-11-27T04:42:15+00:00",
+  "year_of_inc": "2026"
+ },
+ "generate-capital": {
+  "ats": "ashby",
+  "ats_slug": "generate",
+  "board_url": "https://jobs.ashbyhq.com/generate",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "generate-capital",
+  "locations_sample": [
+   "Caldwell County, TX",
+   "New York, NY - Hybrid",
+   "New York, NY - Hybrid | San Francisco, CA - Hybrid",
+   "Remote",
+   "San Francisco, CA - Hybrid"
+  ],
+  "name": "Generate Capital",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "glasshat-ai": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165663",
+  "city": "Brooklyn",
+  "first_seen": "2026-11-27T04:42:33+00:00",
+  "id": "glasshat-ai",
+  "industry": "Other Technology",
+  "legal_name": "GlassHat AI, Inc.",
+  "name": "GlassHat AI",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1 - $1,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:33+00:00",
+  "year_of_inc": "2024"
+ },
+ "gocardless": {
+  "ats": "greenhouse",
+  "ats_slug": "gocardless",
+  "board_url": "https://job-boards.greenhouse.io/gocardless",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "gocardless",
+  "locations_sample": [
+   "Leeds, UK",
+   "Lisbon, Portugal",
+   "London, UK",
+   "Melbourne, Australia",
+   "Riga, Latvia"
+  ],
+  "name": "GoCardless",
+  "open_roles": 23,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "gradies": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166631",
+  "city": "Mine Hill",
+  "first_seen": "2026-11-27T04:41:56+00:00",
+  "id": "gradies",
+  "industry": "Other Technology",
+  "legal_name": "Gradies, Inc.",
+  "name": "Gradies",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NJ",
+  "updated": "2026-11-27T04:41:56+00:00",
+  "year_of_inc": "2026"
+ },
+ "grittgene-therapeutics": {
+  "ats_checked": "2026-11-27",
+  "cik": "2167176",
+  "city": "Pasadena",
+  "first_seen": "2026-11-27T04:41:47+00:00",
+  "id": "grittgene-therapeutics",
+  "industry": "Biotechnology",
+  "legal_name": "GrittGene Therapeutics Inc.",
+  "name": "GrittGene Therapeutics",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:47+00:00",
+  "year_of_inc": "2022"
+ },
+ "guidepoint": {
+  "ats": "greenhouse",
+  "ats_slug": "guidepoint",
+  "board_url": "https://job-boards.greenhouse.io/guidepoint",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "guidepoint",
+  "locations_sample": [
+   "Athina, Αττικη, Greece",
+   "Boston, Massachusetts, United States",
+   "Dubai, Dubai, United Arab Emirates",
+   "Gurugram, Haryana, India",
+   "Gurugram, Haryana, India; Mumbai, Maharashtra, India; Pune, Maharashtra, India"
+  ],
+  "name": "Guidepoint",
+  "open_roles": 105,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "gusto": {
+  "ats": "greenhouse",
+  "ats_slug": "gusto",
+  "board_url": "https://job-boards.greenhouse.io/gusto",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "gusto",
+  "locations_sample": [
+   "Atlanta, GA - Hybrid; Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "Atlanta, GA - Hybrid; Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote",
+   "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+   "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote"
+  ],
+  "name": "Gusto",
+  "open_roles": 86,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "hanover-park": {
+  "ats": "ashby",
+  "ats_slug": "hanover-park",
+  "board_url": "https://jobs.ashbyhq.com/hanover-park",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "hanover-park",
+  "locations_sample": [
+   "New York City"
+  ],
+  "name": "hanover-park",
+  "open_roles": 10,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "highbeam": {
+  "ats": "ashby",
+  "ats_slug": "highbeam",
+  "board_url": "https://jobs.ashbyhq.com/highbeam",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "highbeam",
+  "locations_sample": [
+   "New York",
+   "New York | Toronto"
+  ],
+  "name": "highbeam",
+  "open_roles": 9,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "highnote": {
+  "ats": "greenhouse",
+  "ats_slug": "highnote",
+  "board_url": "https://job-boards.greenhouse.io/highnote",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "highnote",
+  "locations_sample": [
+   "Remote",
+   "San Francisco, California",
+   "San Francisco, California "
+  ],
+  "name": "Highnote",
+  "open_roles": 6,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "hill-country-foodworks": {
+  "ats_checked": "2026-11-27",
+  "cik": "2164817",
+  "city": "Lockhart",
+  "first_seen": "2026-11-27T04:42:44+00:00",
+  "id": "hill-country-foodworks",
+  "industry": "Manufacturing",
+  "legal_name": "HILL COUNTRY FOODWORKS LLC",
+  "name": "HILL COUNTRY FOODWORKS",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$5,000,001 - $25,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:44+00:00"
+ },
+ "honeyhive": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165474",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:44+00:00",
+  "id": "honeyhive",
+  "industry": "Other Technology",
+  "legal_name": "HoneyHive Inc.",
+  "name": "HoneyHive",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:44+00:00",
+  "year_of_inc": "2022"
+ },
+ "hot-steamy": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165338",
+  "city": "Kentfield",
+  "first_seen": "2026-11-27T04:41:56+00:00",
+  "id": "hot-steamy",
+  "industry": "Restaurants",
+  "legal_name": "HOT & STEAMY LLC",
+  "name": "HOT & STEAMY",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:56+00:00",
+  "year_of_inc": "2026"
+ },
+ "hps-investment-partners": {
+  "ats": "greenhouse",
+  "ats_slug": "hpsinvestmentpartners",
+  "board_url": "https://job-boards.greenhouse.io/hpsinvestmentpartners",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "hps-investment-partners",
+  "locations_sample": [
+   "New York"
+  ],
+  "name": "HPS Investment Partners",
+  "open_roles": 1,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "human-biotech": {
+  "ats_checked": "2026-11-27",
+  "cik": "2126389",
+  "city": "Cambridge",
+  "first_seen": "2026-11-27T04:42:44+00:00",
+  "id": "human-biotech",
+  "industry": "Biotechnology",
+  "legal_name": "Human Biotech, Inc.",
+  "name": "Human Biotech",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "MA",
+  "updated": "2026-11-27T04:42:44+00:00",
+  "year_of_inc": "2025"
+ },
+ "iconiq": {
+  "ats": "greenhouse",
+  "ats_slug": "iconiq",
+  "board_url": "https://job-boards.greenhouse.io/iconiq",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "iconiq",
+  "locations_sample": [
+   "New York, New York, United States",
+   "New York, New York, United States; San Francisco, California, United States",
+   "San Francisco, California, United States"
+  ],
+  "name": "ICONIQ",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "iex": {
+  "ats": "greenhouse",
+  "ats_slug": "iex",
+  "board_url": "https://job-boards.greenhouse.io/iex",
+  "first_seen": "2026-11-27T04:43:08+00:00",
+  "id": "iex",
+  "locations_sample": [
+   "Chicago",
+   "Dublin",
+   "New York",
+   "New York ",
+   "Remote - Must reside in California or Oregon"
+  ],
+  "name": "IEX",
+  "open_roles": 8,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:08+00:00"
+ },
+ "increase": {
+  "ats": "lever",
+  "ats_slug": "increase",
+  "board_url": "https://jobs.lever.co/increase",
+  "first_seen": "2026-11-27T04:42:49+00:00",
+  "id": "increase",
+  "name": "Increase",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:49+00:00"
+ },
+ "indranet": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165545",
+  "city": "Carbondale",
+  "first_seen": "2026-11-27T04:42:34+00:00",
+  "id": "indranet",
+  "industry": "Other",
+  "legal_name": "Indranet Inc.",
+  "name": "Indranet",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CO",
+  "updated": "2026-11-27T04:42:34+00:00",
+  "year_of_inc": "2025"
+ },
+ "inflammatix": {
+  "ats": "greenhouse",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "inflammatix",
+  "board_url": "https://job-boards.greenhouse.io/inflammatix",
+  "cik": "1801477",
+  "city": "Sunnyvale",
+  "first_seen": "2026-11-27T04:42:26+00:00",
+  "id": "inflammatix",
+  "industry": "Biotechnology",
+  "legal_name": "INFLAMMATIX, INC.",
+  "name": "INFLAMMATIX",
+  "news_checked": "2026-11-27",
+  "open_roles": 0,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "under 50",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:26+00:00"
+ },
+ "infravana": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165471",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:08+00:00",
+  "id": "infravana",
+  "industry": "Other Technology",
+  "legal_name": "InfraVana Inc",
+  "name": "InfraVana",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:08+00:00",
+  "year_of_inc": "2025"
+ },
+ "inkind-cards": {
+  "ats_checked": "2026-11-27",
+  "cik": "1738975",
+  "city": "Austin",
+  "first_seen": "2026-11-27T04:41:56+00:00",
+  "id": "inkind-cards",
+  "industry": "Other Technology",
+  "legal_name": "INKIND CARDS INC",
+  "name": "INKIND CARDS",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "TX",
+  "updated": "2026-11-27T04:41:56+00:00"
+ },
+ "international-environmental-standards": {
+  "ats_checked": "2026-11-27",
+  "cik": "1825256",
+  "city": "Denver",
+  "first_seen": "2026-11-27T04:42:26+00:00",
+  "id": "international-environmental-standards",
+  "industry": "Other",
+  "legal_name": "International Environmental Standards, PBC",
+  "name": "International Environmental Standards",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CO",
+  "updated": "2026-11-27T04:42:26+00:00"
+ },
+ "jane-street": {
+  "ats": "greenhouse",
+  "ats_slug": "janestreet",
+  "board_url": "https://job-boards.greenhouse.io/janestreet",
+  "first_seen": "2026-11-27T04:43:08+00:00",
+  "id": "jane-street",
+  "locations_sample": [
+   "Austin, Texas, United States",
+   "Chicago",
+   "Hong Kong, Hong Kong",
+   "London, England, United Kingdom",
+   "New York, New York, United States"
+  ],
+  "name": "Jane Street",
+  "open_roles": 219,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:08+00:00"
+ },
+ "january": {
+  "ats": "ashby",
+  "ats_slug": "january",
+  "board_url": "https://jobs.ashbyhq.com/january",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "january",
+  "locations_sample": [
+   "New York City",
+   "New York City | Remote"
+  ],
+  "name": "January",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "jingling-pockets-ltd-liability": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165431",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:08+00:00",
+  "id": "jingling-pockets-ltd-liability",
+  "industry": "Other",
+  "legal_name": "Jingling Pockets Ltd Liability Co",
+  "name": "Jingling Pockets Ltd Liability",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:08+00:00",
+  "year_of_inc": "2026"
+ },
+ "juniper-square": {
+  "ats": "ashby",
+  "ats_slug": "junipersquare",
+  "board_url": "https://jobs.ashbyhq.com/junipersquare",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "juniper-square",
+  "locations_sample": [
+   "Americas (USA or Canada)",
+   "Americas (USA or Canada) | USA",
+   "Bangalore Office",
+   "India",
+   "India | Bangalore Office"
+  ],
+  "name": "Juniper Square",
+  "open_roles": 50,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "kaliber-labs": {
+  "ats_checked": "2026-11-27",
+  "cik": "2120054",
+  "city": "San Mateo",
+  "first_seen": "2026-11-27T04:42:09+00:00",
+  "id": "kaliber-labs",
+  "industry": "Other Health Care",
+  "legal_name": "Kaliber Labs Inc.",
+  "name": "Kaliber Labs",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:09+00:00"
+ },
+ "kalshi": {
+  "ats": "greenhouse",
+  "ats_slug": "kalshi",
+  "board_url": "https://job-boards.greenhouse.io/kalshi",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "kalshi",
+  "locations_sample": [
+   "New York or Remote",
+   "New York or Remote; New York, New York, United States",
+   "New York, New York, United States"
+  ],
+  "name": "Kalshi",
+  "open_roles": 28,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "kapitus": {
+  "ats": "greenhouse",
+  "ats_slug": "kapitus",
+  "board_url": "https://job-boards.greenhouse.io/kapitus",
+  "first_seen": "2026-11-27T04:43:05+00:00",
+  "id": "kapitus",
+  "locations_sample": [
+   "Arlington, VA",
+   "Los Angeles, California",
+   "Remote - Virginia, Arlington, VA, Maryland - Hybrid, Washington DC - Hybrid",
+   "Virginia",
+   "Virginia - Remote, Arlington, VA, Maryland - Hybrid, Washington DC - Hybrid"
+  ],
+  "name": "Kapitus",
+  "open_roles": 27,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:05+00:00"
+ },
+ "keep-warm": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162887",
+  "city": "Plainville",
+  "first_seen": "2026-11-27T04:41:57+00:00",
+  "id": "keep-warm",
+  "industry": "Other Technology",
+  "legal_name": "Keep-Warm Inc.",
+  "name": "Keep-Warm",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CT",
+  "updated": "2026-11-27T04:41:57+00:00",
+  "year_of_inc": "2026"
+ },
+ "knot": {
+  "ats": "ashby",
+  "ats_slug": "knot",
+  "board_url": "https://jobs.ashbyhq.com/knot",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "knot",
+  "locations_sample": [
+   "New York, NY"
+  ],
+  "name": "Knot",
+  "open_roles": 11,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "knowrisk": {
+  "ats_checked": "2026-11-27",
+  "cik": "2055022",
+  "city": "Las Vegas",
+  "first_seen": "2026-11-27T04:42:27+00:00",
+  "id": "knowrisk",
+  "industry": "Other Technology",
+  "legal_name": "KnowRisk, Inc.",
+  "name": "KnowRisk",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NV",
+  "updated": "2026-11-27T04:42:27+00:00",
+  "year_of_inc": "2023"
+ },
+ "kroll-bond-rating-agency-kbra": {
+  "ats": "greenhouse",
+  "ats_slug": "krollbondratingagency",
+  "board_url": "https://job-boards.greenhouse.io/krollbondratingagency",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "kroll-bond-rating-agency-kbra",
+  "locations_sample": [
+   "Chicago, IL",
+   "Chicago, Illinois",
+   "Chicago, Illinois ",
+   "Dresher, Pennsylvania, United States",
+   "Dublin"
+  ],
+  "name": "Kroll Bond Rating Agency (KBRA)",
+  "open_roles": 60,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "kura-oncology": {
+  "ats": "greenhouse",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "kuraoncology",
+  "board_url": "https://job-boards.greenhouse.io/kuraoncology",
+  "cik": "1422143",
+  "city": "San Diego",
+  "first_seen": "2026-11-27T04:42:34+00:00",
+  "id": "kura-oncology",
+  "industry": "Biotechnology",
+  "legal_name": "Kura Oncology, Inc.",
+  "locations_sample": [
+   "Boston, MA",
+   "Field Based",
+   "Field Based: Mid-Atlantic",
+   "Remote",
+   "United States"
+  ],
+  "name": "Kura Oncology",
+  "news_checked": "2026-11-27",
+  "open_roles": 8,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "50-200",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:34+00:00"
+ },
+ "kurd": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165676",
+  "city": "Farmington",
+  "first_seen": "2026-11-27T04:42:27+00:00",
+  "id": "kurd",
+  "industry": "Other",
+  "legal_name": "KURD, Inc.",
+  "name": "KURD",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CT",
+  "updated": "2026-11-27T04:42:27+00:00",
+  "year_of_inc": "2026"
+ },
+ "ladder-capital": {
+  "ats": "ashby",
+  "ats_slug": "ladder",
+  "board_url": "https://jobs.ashbyhq.com/ladder",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "ladder-capital",
+  "locations_sample": [
+   "Austin, Texas",
+   "Austin, Texas (US Remote Available) | United States / Remote"
+  ],
+  "name": "Ladder Capital",
+  "open_roles": 3,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "langchain": {
+  "ats": "ashby",
+  "ats_slug": "langchain",
+  "board_url": "https://jobs.ashbyhq.com/langchain",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "langchain",
+  "locations_sample": [
+   "Amsterdam",
+   "Atlanta, GA",
+   "Austin, TX",
+   "Australia | Singapore",
+   "Boston, MA"
+  ],
+  "name": "LangChain",
+  "open_roles": 100,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "laza-medical": {
+  "ats_checked": "2026-11-27",
+  "cik": "2003996",
+  "city": "Campbell",
+  "first_seen": "2026-11-27T04:42:27+00:00",
+  "id": "laza-medical",
+  "industry": "Biotechnology",
+  "legal_name": "Laza Medical, Inc.",
+  "name": "Laza Medical",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:27+00:00"
+ },
+ "lead-edge-capital": {
+  "ats": "greenhouse",
+  "ats_slug": "leadedgecapitalmanagement",
+  "board_url": "https://job-boards.greenhouse.io/leadedgecapitalmanagement",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "lead-edge-capital",
+  "locations_sample": [
+   "New York, NY or Santa Barbara, CA",
+   "New York, New York"
+  ],
+  "name": "Lead Edge Capital",
+  "open_roles": 2,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "ledge": {
+  "ats": "ashby",
+  "ats_slug": "ledge",
+  "board_url": "https://jobs.ashbyhq.com/ledge",
+  "first_seen": "2026-11-27T04:43:00+00:00",
+  "id": "ledge",
+  "locations_sample": [
+   "New York City - Hybrid",
+   "Tel Aviv"
+  ],
+  "name": "Ledge",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:00+00:00"
+ },
+ "lemfi": {
+  "ats": "ashby",
+  "ats_slug": "lemfi",
+  "board_url": "https://jobs.ashbyhq.com/lemfi",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "lemfi",
+  "locations_sample": [
+   "Australia",
+   "Canada",
+   "Dublin",
+   "France | European Union | United Kingdom",
+   "Italy"
+  ],
+  "name": "LemFi",
+  "open_roles": 32,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "lendable": {
+  "ats": "ashby",
+  "ats_slug": "lendable",
+  "board_url": "https://jobs.ashbyhq.com/lendable",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "lendable",
+  "locations_sample": [
+   "Chatham",
+   "London",
+   "London, United Kingdom",
+   "London/Kent",
+   "Mexico City, Mexico"
+  ],
+  "name": "Lendable",
+  "open_roles": 65,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "lifesci-advisors": {
+  "ats": "lever",
+  "ats_slug": "lifescipartners",
+  "board_url": "https://jobs.lever.co/lifescipartners",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "lifesci-advisors",
+  "locations_sample": [
+   "General Interest",
+   "New York, NY",
+   "New York, NY | Boston, MA | San Diego, CA",
+   "New York, NY | San Diego, CA"
+  ],
+  "name": "LifeSci Advisors",
+  "open_roles": 10,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "lincoln-international": {
+  "ats": "greenhouse",
+  "ats_slug": "lincolninternational",
+  "board_url": "https://job-boards.greenhouse.io/lincolninternational",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "lincoln-international",
+  "locations_sample": [
+   "Atlanta, GA; Dallas, TX; New York City, NY; San Francisco, CA",
+   "Atlanta, GA; Dallas, TX; New York, NY ",
+   "Chicago, IL",
+   "Chicago, IL; New York, NY",
+   "Chicago, IL; New York, NY; Los Angeles, CA"
+  ],
+  "name": "Lincoln International",
+  "open_roles": 40,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "linework-usa": {
+  "ats_checked": "2026-11-27",
+  "cik": "2066228",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:27+00:00",
+  "id": "linework-usa",
+  "industry": "Other Technology",
+  "legal_name": "Linework USA INC.",
+  "name": "Linework USA",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:27+00:00",
+  "year_of_inc": "2023"
+ },
+ "linnaeus-therapeutics": {
+  "ats_checked": "2026-11-27",
+  "cik": "1752026",
+  "city": "Haddonfield",
+  "first_seen": "2026-11-27T04:42:34+00:00",
+  "id": "linnaeus-therapeutics",
+  "industry": "Biotechnology",
+  "legal_name": "Linnaeus Therapeutics, Inc.",
+  "name": "Linnaeus Therapeutics",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NJ",
+  "updated": "2026-11-27T04:42:34+00:00"
+ },
+ "linq": {
+  "ats": "ashby",
+  "ats_slug": "linqapp",
+  "board_url": "https://jobs.ashbyhq.com/linqapp",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "linq",
+  "locations_sample": [
+   "Birmingham | San Francisco",
+   "Birmingham | San Francisco | New York City",
+   "San Francisco",
+   "San Francisco | Birmingham",
+   "San Francisco | New York City"
+  ],
+  "name": "Linq",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "liontree": {
+  "ats": "greenhouse",
+  "ats_slug": "liontree",
+  "board_url": "https://job-boards.greenhouse.io/liontree",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "liontree",
+  "locations_sample": [
+   "New York ",
+   "San Francisco, CA"
+  ],
+  "name": "LionTree",
+  "open_roles": 2,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "lithic": {
+  "ats": "greenhouse",
+  "ats_slug": "lithic",
+  "board_url": "https://job-boards.greenhouse.io/lithic",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "lithic",
+  "locations_sample": [
+   "New York, New York, United States",
+   "New York, New York, United States; San Francisco",
+   "Remote "
+  ],
+  "name": "Lithic",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "loancore": {
+  "ats": "greenhouse",
+  "ats_slug": "loancore",
+  "board_url": "https://job-boards.greenhouse.io/loancore",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "loancore",
+  "name": "LoanCore",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "lunar": {
+  "ats": "ashby",
+  "ats_slug": "lunar",
+  "board_url": "https://jobs.ashbyhq.com/lunar",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "lunar",
+  "locations_sample": [
+   "London",
+   "Newcastle",
+   "Remote",
+   "San Francisco"
+  ],
+  "name": "Lunar",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "lyzr": {
+  "ats": "ashby",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "lyzr",
+  "board_url": "https://jobs.ashbyhq.com/lyzr",
+  "cik": "1994140",
+  "city": "Jersey City",
+  "first_seen": "2026-11-27T04:42:44+00:00",
+  "id": "lyzr",
+  "industry": "Other",
+  "legal_name": "Lyzr, Inc.",
+  "locations_sample": [
+   "Australia",
+   "India",
+   "UK",
+   "USA"
+  ],
+  "name": "Lyzr",
+  "news_checked": "2026-11-27",
+  "open_roles": 40,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "200-500",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "NJ",
+  "updated": "2026-11-27T04:42:44+00:00",
+  "year_of_inc": "2023"
+ },
+ "maine-advanced-systems-group": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166007",
+  "city": "Portland",
+  "first_seen": "2026-11-27T04:42:10+00:00",
+  "id": "maine-advanced-systems-group",
+  "industry": "Other Technology",
+  "legal_name": "Maine Advanced Systems Group Inc.",
+  "name": "Maine Advanced Systems Group",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "ME",
+  "updated": "2026-11-27T04:42:10+00:00",
+  "year_of_inc": "2026"
+ },
+ "manifest-financial": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165942",
+  "city": "Austin",
+  "first_seen": "2026-11-27T04:42:17+00:00",
+  "id": "manifest-financial",
+  "industry": "Other Banking and Financial Services",
+  "legal_name": "Manifest Financial, Inc.",
+  "name": "Manifest Financial",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:17+00:00",
+  "year_of_inc": "2023"
+ },
+ "maple-privacy-labs": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163334",
+  "city": "Austin",
+  "first_seen": "2026-11-27T04:42:17+00:00",
+  "id": "maple-privacy-labs",
+  "industry": "Other Technology",
+  "legal_name": "MAPLE PRIVACY LABS, INC.",
+  "name": "MAPLE PRIVACY LABS",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:17+00:00",
+  "year_of_inc": "2023"
+ },
+ "matchpoint-therapeutics": {
+  "ats_checked": "2026-11-27",
+  "cik": "1950915",
+  "city": "Watertown",
+  "first_seen": "2026-11-27T04:42:17+00:00",
+  "id": "matchpoint-therapeutics",
+  "industry": "Pharmaceuticals",
+  "legal_name": "Matchpoint Therapeutics Inc.",
+  "name": "Matchpoint Therapeutics",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "MA",
+  "updated": "2026-11-27T04:42:17+00:00",
+  "year_of_inc": "2021"
+ },
+ "maven-app": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166588",
+  "city": "Newark",
+  "first_seen": "2026-11-27T04:42:10+00:00",
+  "id": "maven-app",
+  "industry": "Computers",
+  "legal_name": "MAVEN APP, INC",
+  "name": "MAVEN APP",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "DE",
+  "updated": "2026-11-27T04:42:10+00:00",
+  "year_of_inc": "2026"
+ },
+ "melio": {
+  "ats": "greenhouse",
+  "ats_slug": "melio",
+  "board_url": "https://job-boards.greenhouse.io/melio",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "melio",
+  "name": "Melio",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "meow": {
+  "ats": "ashby",
+  "ats_slug": "meow",
+  "board_url": "https://jobs.ashbyhq.com/meow",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "meow",
+  "locations_sample": [
+   "Canada",
+   "New York City"
+  ],
+  "name": "Meow",
+  "open_roles": 11,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "mercury": {
+  "ats": "greenhouse",
+  "ats_slug": "mercury",
+  "board_url": "https://job-boards.greenhouse.io/mercury",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "mercury",
+  "locations_sample": [
+   "New York, NY",
+   "New York, NY or San Francisco, CA",
+   "San Francisco, CA",
+   "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+   "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States"
+  ],
+  "name": "Mercury",
+  "open_roles": 68,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "mesh": {
+  "ats": "greenhouse",
+  "ats_slug": "mesh",
+  "board_url": "https://job-boards.greenhouse.io/mesh",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "mesh",
+  "locations_sample": [
+   "APAC - Remote",
+   "Bangalore, India",
+   "Europe",
+   "Europe - Remote",
+   "LATAM - Remote"
+  ],
+  "name": "Mesh",
+  "open_roles": 25,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "metaview": {
+  "ats": "ashby",
+  "ats_slug": "metaview",
+  "board_url": "https://jobs.ashbyhq.com/metaview",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "metaview",
+  "locations_sample": [
+   "London",
+   "London | San Francisco | New York City",
+   "New York City",
+   "San Francisco",
+   "San Francisco | New York City"
+  ],
+  "name": "Metaview",
+  "open_roles": 38,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "middesk": {
+  "ats": "ashby",
+  "ats_slug": "middesk",
+  "board_url": "https://jobs.ashbyhq.com/middesk",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "middesk",
+  "locations_sample": [
+   "New York",
+   "New York | San Francisco",
+   "San Francisco",
+   "San Francisco | New York"
+  ],
+  "name": "Middesk",
+  "open_roles": 17,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "million-dollar-hot-dog-ltd-liability": {
+  "ats_checked": "2026-11-27",
+  "cik": "2159888",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:35+00:00",
+  "id": "million-dollar-hot-dog-ltd-liability",
+  "industry": "Other",
+  "legal_name": "Million Dollar Hot Dog Ltd Liability Co",
+  "name": "Million Dollar Hot Dog Ltd Liability",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:35+00:00",
+  "year_of_inc": "2023"
+ },
+ "mio-partners": {
+  "ats": "greenhouse",
+  "ats_slug": "miopartners",
+  "board_url": "https://job-boards.greenhouse.io/miopartners",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "mio-partners",
+  "locations_sample": [
+   "New York"
+  ],
+  "name": "MIO Partners",
+  "open_roles": 2,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "mkdc": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162324",
+  "city": "Raleigh",
+  "first_seen": "2026-11-27T04:42:35+00:00",
+  "id": "mkdc",
+  "industry": "Computers",
+  "legal_name": "MKDC LLC",
+  "name": "MKDC",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NC",
+  "updated": "2026-11-27T04:42:35+00:00",
+  "year_of_inc": "2026"
+ },
+ "modern-life": {
+  "ats": "lever",
+  "ats_slug": "modernlife",
+  "board_url": "https://jobs.lever.co/modernlife",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "modern-life",
+  "locations_sample": [
+   "New York, NY (4 days/week in office)",
+   "Remote (US)"
+  ],
+  "name": "Modern Life",
+  "open_roles": 5,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "modern-treasury": {
+  "ats": "ashby",
+  "ats_slug": "moderntreasury",
+  "board_url": "https://jobs.ashbyhq.com/moderntreasury",
+  "first_seen": "2026-11-27T04:42:49+00:00",
+  "id": "modern-treasury",
+  "locations_sample": [
+   "Remote | New York | San Francisco",
+   "San Francisco",
+   "San Francisco | New York",
+   "San Francisco | New York | Remote"
+  ],
+  "name": "Modern Treasury",
+  "open_roles": 6,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:49+00:00"
+ },
+ "modulr-finance": {
+  "ats": "greenhouse",
+  "ats_slug": "modulrfinance",
+  "board_url": "https://job-boards.greenhouse.io/modulrfinance",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "modulr-finance",
+  "locations_sample": [
+   "Amsterdam",
+   "Edinburgh",
+   "London",
+   "Mumbai",
+   "Pune"
+  ],
+  "name": "Modulr Finance",
+  "open_roles": 18,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "molekule-group-inc-de": {
+  "ats_checked": "2026-11-27",
+  "cik": "2073311",
+  "city": "Palm Beach Gardens",
+  "first_seen": "2026-11-27T04:42:28+00:00",
+  "id": "molekule-group-inc-de",
+  "industry": "Retailing",
+  "legal_name": "Molekule Group, Inc./DE",
+  "name": "Molekule Group, Inc./DE",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$25,000,001 - $100,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "FL",
+  "updated": "2026-11-27T04:42:28+00:00",
+  "year_of_inc": "2024"
+ },
+ "moment": {
+  "ats": "ashby",
+  "ats_slug": "moment",
+  "board_url": "https://jobs.ashbyhq.com/moment",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "moment",
+  "locations_sample": [
+   "New York, NY"
+  ],
+  "name": "Moment",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "moneybox": {
+  "ats": "ashby",
+  "ats_slug": "moneybox",
+  "board_url": "https://jobs.ashbyhq.com/moneybox",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "moneybox",
+  "locations_sample": [
+   "Hybrid or Remote within the UK",
+   "London",
+   "Remote"
+  ],
+  "name": "Moneybox",
+  "open_roles": 17,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "monzo": {
+  "ats": "greenhouse",
+  "ats_slug": "monzo",
+  "board_url": "https://job-boards.greenhouse.io/monzo",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "monzo",
+  "locations_sample": [
+   "Barcelona",
+   "Barcelona; Cardiff, London or Remote (UK)",
+   "Barcelona; Cardiff, London or Remote (UK); London",
+   "Cardiff, London or Remote (UK)",
+   "Cardiff, London or Remote (UK); London"
+  ],
+  "name": "Monzo",
+  "open_roles": 58,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "moonfare": {
+  "ats": "greenhouse",
+  "ats_slug": "moonfare",
+  "board_url": "https://job-boards.greenhouse.io/moonfare",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "moonfare",
+  "locations_sample": [
+   "Berlin, Germany",
+   "Frankfurt, Hesse, Germany",
+   "London, United Kingdom",
+   "Luxembourg, Luxembourg",
+   "Munich, Germany"
+  ],
+  "name": "Moonfare",
+  "open_roles": 18,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "mortgage-hawaii": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162396",
+  "city": "Honolulu",
+  "first_seen": "2026-11-27T04:42:35+00:00",
+  "id": "mortgage-hawaii",
+  "industry": "Other Banking and Financial Services",
+  "legal_name": "Mortgage Hawaii LLC",
+  "name": "Mortgage Hawaii",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1,000,001 - $5,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "HI",
+  "updated": "2026-11-27T04:42:35+00:00",
+  "year_of_inc": "2022"
+ },
+ "mosaic": {
+  "ats": "ashby",
+  "ats_slug": "mosaic",
+  "board_url": "https://jobs.ashbyhq.com/mosaic",
+  "first_seen": "2026-11-27T04:42:52+00:00",
+  "id": "mosaic",
+  "locations_sample": [
+   "New York City"
+  ],
+  "name": "Mosaic",
+  "open_roles": 5,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:52+00:00"
+ },
+ "mosaic-biosciences": {
+  "ats_checked": "2026-11-27",
+  "cik": "1526054",
+  "city": "Boulder",
+  "first_seen": "2026-11-27T04:42:28+00:00",
+  "id": "mosaic-biosciences",
+  "industry": "Biotechnology",
+  "legal_name": "Mosaic Biosciences, Inc.",
+  "name": "Mosaic Biosciences",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CO",
+  "updated": "2026-11-27T04:42:28+00:00"
+ },
+ "moss": {
+  "ats": "ashby",
+  "ats_slug": "moss",
+  "board_url": "https://jobs.ashbyhq.com/moss",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "moss",
+  "locations_sample": [
+   "Amsterdam",
+   "Berlin",
+   "Berlin | London",
+   "Berlin | London | Amsterdam | Munich",
+   "Berlin | Warsaw | London | Amsterdam"
+  ],
+  "name": "moss",
+  "open_roles": 32,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "mta-acquisitions": {
+  "ats_checked": "2026-11-27",
+  "cik": "2164709",
+  "city": "Foster City",
+  "first_seen": "2026-11-27T04:42:45+00:00",
+  "id": "mta-acquisitions",
+  "industry": "Other",
+  "legal_name": "MTA Acquisitions, Inc.",
+  "name": "MTA Acquisitions",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:45+00:00",
+  "year_of_inc": "2026"
+ },
+ "mtntough": {
+  "ats_checked": "2026-11-27",
+  "cik": "1928649",
+  "city": "Bozeman",
+  "first_seen": "2026-11-27T04:42:17+00:00",
+  "id": "mtntough",
+  "industry": "Other Technology",
+  "legal_name": "MTNTough Inc.",
+  "name": "MTNTough",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "MT",
+  "updated": "2026-11-27T04:42:17+00:00",
+  "year_of_inc": "2022"
+ },
+ "narmi": {
+  "ats": "lever",
+  "ats_slug": "narmi",
+  "board_url": "https://jobs.lever.co/narmi",
+  "first_seen": "2026-11-27T04:43:08+00:00",
+  "id": "narmi",
+  "name": "Narmi",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:08+00:00"
+ },
+ "natter": {
+  "ats": "ashby",
+  "ats_slug": "Natter",
+  "board_url": "https://jobs.ashbyhq.com/Natter",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "natter",
+  "locations_sample": [
+   "New York",
+   "Remote - GMT */-3hrs",
+   "US - East Coast",
+   "US - East Coast | Chicago | Washington D.C."
+  ],
+  "name": "Natter",
+  "open_roles": 7,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "newton-golf": {
+  "ats_checked": "2026-11-27",
+  "cik": "1934245",
+  "city": "Camarillo",
+  "first_seen": "2026-11-27T04:42:18+00:00",
+  "id": "newton-golf",
+  "industry": "Manufacturing",
+  "legal_name": "Newton Golf Company, Inc.",
+  "name": "Newton Golf",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:18+00:00"
+ },
+ "next-robot": {
+  "ats_checked": "2026-11-27",
+  "cik": "2069196",
+  "city": "Chino Hills",
+  "first_seen": "2026-11-27T04:42:13+00:00",
+  "id": "next-robot",
+  "industry": "Other Technology",
+  "legal_name": "next robot inc",
+  "name": "next robot",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:13+00:00",
+  "year_of_inc": "2023"
+ },
+ "nexus-networks": {
+  "ats_checked": "2026-11-27",
+  "cik": "2152131",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:35+00:00",
+  "id": "nexus-networks",
+  "industry": "Other Technology",
+  "legal_name": "Nexus Networks, Inc.",
+  "name": "Nexus Networks",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:35+00:00",
+  "year_of_inc": "2026"
+ },
+ "nimble-precision": {
+  "ats_checked": "2026-11-27",
+  "cik": "2008251",
+  "city": "Middletown",
+  "first_seen": "2026-11-27T04:42:17+00:00",
+  "id": "nimble-precision",
+  "industry": "Other Technology",
+  "legal_name": "NIMBLE PRECISION, INC.",
+  "name": "NIMBLE PRECISION",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "DE",
+  "updated": "2026-11-27T04:42:17+00:00",
+  "year_of_inc": "2024"
+ },
+ "north-central-florida-surgicenter": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163171",
+  "city": "Dallas",
+  "first_seen": "2026-11-27T04:42:28+00:00",
+  "id": "north-central-florida-surgicenter",
+  "industry": "Other Health Care",
+  "legal_name": "North Central Florida Surgicenter, LLC",
+  "name": "North Central Florida Surgicenter",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:28+00:00",
+  "year_of_inc": "2026"
+ },
+ "nory": {
+  "ats": "ashby",
+  "ats_slug": "nory",
+  "board_url": "https://jobs.ashbyhq.com/nory",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "nory",
+  "locations_sample": [
+   "New York ",
+   "UK - Remote"
+  ],
+  "name": "Nory",
+  "open_roles": 3,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "novapharm-enterprises": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162841",
+  "city": "Miami",
+  "first_seen": "2026-11-27T04:41:49+00:00",
+  "id": "novapharm-enterprises",
+  "industry": "Pharmaceuticals",
+  "legal_name": "NOVAPHARM ENTERPRISES INC",
+  "name": "NOVAPHARM ENTERPRISES",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "FL",
+  "updated": "2026-11-27T04:41:49+00:00",
+  "year_of_inc": "2025"
+ },
+ "novo": {
+  "ats": "ashby",
+  "ats_slug": "novo",
+  "board_url": "https://jobs.ashbyhq.com/novo",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "novo",
+  "locations_sample": [
+   "Bangalore",
+   "New York",
+   "Remote"
+  ],
+  "name": "Novo",
+  "open_roles": 3,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "nphase": {
+  "ats_checked": "2026-11-27",
+  "cik": "1662695",
+  "city": "Atlantic Beach",
+  "first_seen": "2026-11-27T04:42:39+00:00",
+  "id": "nphase",
+  "industry": "Other Technology",
+  "legal_name": "nPhase, Inc.",
+  "name": "nPhase",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "FL",
+  "updated": "2026-11-27T04:42:39+00:00"
+ },
+ "nubank": {
+  "ats": "ashby",
+  "ats_slug": "nubank",
+  "board_url": "https://jobs.ashbyhq.com/nubank",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "nubank",
+  "locations_sample": [
+   "Bogota",
+   "Buenos Aires",
+   "Ciudad de México",
+   "Ciudad de México | Ciudad de México",
+   "Miami"
+  ],
+  "name": "Nubank",
+  "open_roles": 109,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "numeric": {
+  "ats": "ashby",
+  "ats_slug": "numeric",
+  "board_url": "https://jobs.ashbyhq.com/numeric",
+  "first_seen": "2026-11-27T04:43:00+00:00",
+  "id": "numeric",
+  "locations_sample": [
+   "London",
+   "New York",
+   "New York | San Francisco",
+   "San Francisco",
+   "San Francisco | New York"
+  ],
+  "name": "Numeric",
+  "open_roles": 25,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:00+00:00"
+ },
+ "oak-hill-advisors": {
+  "ats": "greenhouse",
+  "ats_slug": "oakhilladvisors",
+  "board_url": "https://job-boards.greenhouse.io/oakhilladvisors",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "oak-hill-advisors",
+  "locations_sample": [
+   "Fort Worth, Texas, United States",
+   "Fort Worth, Texas, United States; London, England, United Kingdom; New York, NY, USA",
+   "New York, NY, USA"
+  ],
+  "name": "Oak Hill Advisors",
+  "open_roles": 6,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "obsidian-sensors": {
+  "ats_checked": "2026-11-27",
+  "cik": "1737271",
+  "city": "San Diego",
+  "first_seen": "2026-11-27T04:42:11+00:00",
+  "id": "obsidian-sensors",
+  "industry": "Other Technology",
+  "legal_name": "Obsidian Sensors, Inc.",
+  "name": "Obsidian Sensors",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:11+00:00"
+ },
+ "ocrolus": {
+  "ats": "greenhouse",
+  "ats_slug": "ocrolusinc",
+  "board_url": "https://job-boards.greenhouse.io/ocrolusinc",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "ocrolus",
+  "locations_sample": [
+   "New York, United States",
+   "Noida, Uttar Pradesh, India",
+   "Remote - US"
+  ],
+  "name": "Ocrolus",
+  "open_roles": 5,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "omnea": {
+  "ats": "ashby",
+  "ats_slug": "omnea",
+  "board_url": "https://jobs.ashbyhq.com/omnea",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "omnea",
+  "locations_sample": [
+   "Copenhagen | Stockholm",
+   "DC",
+   "DC | Seattle | Toronto | New York",
+   "Frankfurt | Munich",
+   "London"
+  ],
+  "name": "Omnea",
+  "open_roles": 67,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "omniloy": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165748",
+  "city": "Rochester",
+  "first_seen": "2026-11-27T04:42:11+00:00",
+  "id": "omniloy",
+  "industry": "Other Technology",
+  "legal_name": "Omniloy, Inc.",
+  "name": "Omniloy",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:11+00:00",
+  "year_of_inc": "2024"
+ },
+ "onrails-technologies": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165459",
+  "city": "Stanford",
+  "first_seen": "2026-11-27T04:42:45+00:00",
+  "id": "onrails-technologies",
+  "industry": "Other Technology",
+  "legal_name": "OnRails Technologies Inc.",
+  "name": "OnRails Technologies",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:46+00:00",
+  "year_of_inc": "2026"
+ },
+ "ophthalmology-surgery-center-of-dallas": {
+  "ats_checked": "2026-11-27",
+  "cik": "1462766",
+  "city": "Dallas",
+  "first_seen": "2026-11-27T04:42:28+00:00",
+  "id": "ophthalmology-surgery-center-of-dallas",
+  "industry": "Other Health Care",
+  "legal_name": "Ophthalmology Surgery Center of Dallas, LLC",
+  "name": "Ophthalmology Surgery Center of Dallas",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:28+00:00"
+ },
+ "orchestra-health-technologies": {
+  "ats_checked": "2026-11-27",
+  "cik": "2104727",
+  "city": "Ny",
+  "first_seen": "2026-11-27T04:41:58+00:00",
+  "id": "orchestra-health-technologies",
+  "industry": "Other Technology",
+  "legal_name": "Orchestra Health Technologies, Inc.",
+  "name": "Orchestra Health Technologies",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NY",
+  "updated": "2026-11-27T04:41:58+00:00",
+  "year_of_inc": "2025"
+ },
+ "oscilar": {
+  "ats": "ashby",
+  "ats_slug": "oscilar",
+  "board_url": "https://jobs.ashbyhq.com/oscilar",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "oscilar",
+  "locations_sample": [
+   "Brazil - Remote",
+   "Brazil - Remote | Remote - India | Remote - UK | Remote - Poland | Remote - Canada",
+   "Oscilar New York  | Oscilar Palo Alto",
+   "Remote",
+   "Remote - India"
+  ],
+  "name": "oscilar",
+  "open_roles": 25,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "otto-dms": {
+  "ats_checked": "2026-11-27",
+  "cik": "2025422",
+  "city": "Coral Gables",
+  "first_seen": "2026-11-27T04:41:50+00:00",
+  "id": "otto-dms",
+  "industry": "Other Technology",
+  "legal_name": "OTTO dms, Inc.",
+  "name": "OTTO dms",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "FL",
+  "updated": "2026-11-27T04:41:50+00:00",
+  "year_of_inc": "2023"
+ },
+ "outpost": {
+  "ats": "ashby",
+  "ats_slug": "outpost",
+  "board_url": "https://jobs.ashbyhq.com/outpost",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "outpost",
+  "locations_sample": [
+   "Austin",
+   "Los Angeles",
+   "Los Angeles | Austin",
+   "Salt Lake City - SLC3",
+   "Seattle"
+  ],
+  "name": "Outpost",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "pacific-thermae-group": {
+  "ats_checked": "2026-11-27",
+  "cik": "2111756",
+  "city": "Seattle",
+  "first_seen": "2026-11-27T04:41:50+00:00",
+  "id": "pacific-thermae-group",
+  "industry": "Other",
+  "legal_name": "Pacific Thermae Group Inc.",
+  "name": "Pacific Thermae Group",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "WA",
+  "updated": "2026-11-27T04:41:50+00:00",
+  "year_of_inc": "2025"
+ },
+ "paddle": {
+  "ats": "ashby",
+  "ats_slug": "paddle",
+  "board_url": "https://jobs.ashbyhq.com/paddle",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "paddle",
+  "locations_sample": [
+   "Austin TX",
+   "Boston",
+   "Singapore",
+   "Toronto",
+   "UK"
+  ],
+  "name": "Paddle",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "palmetto-clean-technology": {
+  "ats": "greenhouse",
+  "ats_slug": "palmettocleantech",
+  "board_url": "https://job-boards.greenhouse.io/palmettocleantech",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "palmetto-clean-technology",
+  "locations_sample": [
+   "1616 Camden Rd Charlotte, NC 28203",
+   "1616 Camden Rd Charlotte, NC 28203; Remote - United States",
+   "Los Angeles, California, United States",
+   "New York, NY, USA",
+   "New York, NY, USA; Remote - United States"
+  ],
+  "name": "Palmetto Clean Technology",
+  "open_roles": 22,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "pantheon": {
+  "ats": "greenhouse",
+  "ats_slug": "pantheonpublic",
+  "board_url": "https://job-boards.greenhouse.io/pantheonpublic",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "pantheon",
+  "locations_sample": [
+   "London, Greater London, England, United Kingdom",
+   "Mumbai, Maharashtra, India",
+   "New York, New York, United States",
+   "Singapore"
+  ],
+  "name": "Pantheon",
+  "open_roles": 10,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "parafin": {
+  "ats": "ashby",
+  "ats_slug": "parafin",
+  "board_url": "https://jobs.ashbyhq.com/parafin",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "parafin",
+  "name": "Parafin",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "pathos-ai": {
+  "ats_checked": "2026-11-27",
+  "cik": "1967854",
+  "city": "Chicago",
+  "first_seen": "2026-11-27T04:42:29+00:00",
+  "id": "pathos-ai",
+  "industry": "Biotechnology",
+  "legal_name": "Pathos AI, Inc.",
+  "name": "Pathos AI",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "IL",
+  "updated": "2026-11-27T04:42:29+00:00"
+ },
+ "pave": {
+  "ats": "greenhouse",
+  "ats_slug": "paveakatroveinformationtechnologies",
+  "board_url": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "pave",
+  "locations_sample": [
+   "Krakow, PL",
+   "Krakow, Poland",
+   "New York, NY",
+   "San Francisco, CA",
+   "San Francisco, CA & New York, NY & Salt Lake City, UT"
+  ],
+  "name": "Pave",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "paxos": {
+  "ats": "ashby",
+  "ats_slug": "paxos",
+  "board_url": "https://jobs.ashbyhq.com/paxos",
+  "first_seen": "2026-11-27T04:43:00+00:00",
+  "id": "paxos",
+  "locations_sample": [
+   "New York - Hybrid",
+   "Remote - India",
+   "Remote - NYC, New York",
+   "Remote - San Francisco, California",
+   "Remote - United States"
+  ],
+  "name": "Paxos",
+  "open_roles": 25,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:00+00:00"
+ },
+ "pdt-partners": {
+  "ats": "greenhouse",
+  "ats_slug": "pdtpartners",
+  "board_url": "https://job-boards.greenhouse.io/pdtpartners",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "pdt-partners",
+  "locations_sample": [
+   "London, UK",
+   "New York",
+   "New York, NY"
+  ],
+  "name": "PDT Partners",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "permutive": {
+  "ats": "ashby",
+  "ats_slug": "permutive",
+  "board_url": "https://jobs.ashbyhq.com/permutive",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "permutive",
+  "locations_sample": [
+   "London, England",
+   "New York, New York, United States"
+  ],
+  "name": "Permutive",
+  "open_roles": 2,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "perpay": {
+  "ats": "greenhouse",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "perpay",
+  "board_url": "https://job-boards.greenhouse.io/perpay",
+  "cik": "1644247",
+  "city": "Philadelphia",
+  "first_seen": "2026-11-27T04:42:18+00:00",
+  "id": "perpay",
+  "industry": "Other Technology",
+  "legal_name": "Perpay, Inc",
+  "locations_sample": [
+   "Philadelphia, Pennsylvania, United States"
+  ],
+  "name": "Perpay",
+  "news_checked": "2026-11-27",
+  "open_roles": 15,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "50-200",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "PA",
+  "updated": "2026-11-27T04:42:18+00:00"
+ },
+ "persona": {
+  "ats": "ashby",
+  "ats_slug": "persona",
+  "board_url": "https://jobs.ashbyhq.com/persona",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "persona",
+  "locations_sample": [
+   "London",
+   "Remote",
+   "San Francisco",
+   "San Francisco | New York"
+  ],
+  "name": "Persona",
+  "open_roles": 13,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "pfdselect-medical-receivables-1024": {
+  "ats_checked": "2026-11-27",
+  "cik": "2160327",
+  "city": "Henderson",
+  "first_seen": "2026-11-27T04:42:18+00:00",
+  "id": "pfdselect-medical-receivables-1024",
+  "industry": "Other Banking and Financial Services",
+  "legal_name": "PFDSELECT MEDICAL RECEIVABLES 1024, LLC",
+  "name": "PFDSELECT MEDICAL RECEIVABLES 1024",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NV",
+  "updated": "2026-11-27T04:42:18+00:00",
+  "year_of_inc": "2026"
+ },
+ "physical-dream": {
+  "ats_checked": "2026-11-27",
+  "cik": "2084046",
+  "city": "Wilton",
+  "first_seen": "2026-11-27T04:41:58+00:00",
+  "id": "physical-dream",
+  "industry": "Manufacturing",
+  "legal_name": "Physical Dream, Inc.",
+  "name": "Physical Dream",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CT",
+  "updated": "2026-11-27T04:41:58+00:00",
+  "year_of_inc": "2024"
+ },
+ "pickup-health": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165419",
+  "city": "Rochester",
+  "first_seen": "2026-11-27T04:42:46+00:00",
+  "id": "pickup-health",
+  "industry": "Other Health Care",
+  "legal_name": "Pickup Health, Inc.",
+  "name": "Pickup Health",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:46+00:00",
+  "year_of_inc": "2026"
+ },
+ "pigment": {
+  "ats": "lever",
+  "ats_slug": "pigment",
+  "board_url": "https://jobs.lever.co/pigment",
+  "first_seen": "2026-11-27T04:42:52+00:00",
+  "id": "pigment",
+  "locations_sample": [
+   "Amsterdam",
+   "Austin, Texas",
+   "Austin, Texas | London",
+   "Austin, Texas | US",
+   "France"
+  ],
+  "name": "Pigment",
+  "open_roles": 130,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:52+00:00"
+ },
+ "pipe17": {
+  "ats": "greenhouse",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "pipe17",
+  "board_url": "https://job-boards.greenhouse.io/pipe17",
+  "cik": "1893309",
+  "city": "Seattle",
+  "first_seen": "2026-11-27T04:41:50+00:00",
+  "id": "pipe17",
+  "industry": "Other",
+  "legal_name": "Pipe17, Inc.",
+  "locations_sample": [
+   "Remote"
+  ],
+  "name": "Pipe17",
+  "news_checked": "2026-11-27",
+  "open_roles": 5,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "under 50",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "WA",
+  "updated": "2026-11-27T04:41:50+00:00"
+ },
+ "plaid": {
+  "ats": "ashby",
+  "ats_slug": "plaid",
+  "board_url": "https://jobs.ashbyhq.com/plaid",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "plaid",
+  "locations_sample": [
+   "DC Office | Seattle Office | Raleigh Office | DC Office | San Francisco HQ",
+   "GBR - LON Metro",
+   "London Office",
+   "New York City Office",
+   "New York City Office | New York City Office"
+  ],
+  "name": "Plaid",
+  "open_roles": 144,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "pleo": {
+  "ats": "ashby",
+  "ats_slug": "pleo",
+  "board_url": "https://jobs.ashbyhq.com/pleo",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "pleo",
+  "locations_sample": [
+   "Amsterdam",
+   "Amsterdam | Berlin | Lisbon | Madrid",
+   "Berlin | Lisbon",
+   "Copenhagen",
+   "Copenhagen | Lisbon | London"
+  ],
+  "name": "Pleo",
+  "open_roles": 32,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "pliant": {
+  "ats": "ashby",
+  "ats_slug": "pliant",
+  "board_url": "https://jobs.ashbyhq.com/pliant",
+  "first_seen": "2026-11-27T04:43:09+00:00",
+  "id": "pliant",
+  "locations_sample": [
+   "Berlin, Germany (Hybrid)",
+   "Berlin, Germany (Hybrid) | Austria (Remote)",
+   "Germany (Remote)",
+   "London, United Kingdom (Hybrid)",
+   "New York, United States (Hybrid)"
+  ],
+  "name": "Pliant",
+  "open_roles": 29,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:09+00:00"
+ },
+ "pointone": {
+  "ats": "ashby",
+  "ats_slug": "PointOne",
+  "board_url": "https://jobs.ashbyhq.com/PointOne",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "pointone",
+  "locations_sample": [
+   "New York City"
+  ],
+  "name": "PointOne",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "pointskash": {
+  "ats_checked": "2026-11-27",
+  "cik": "2018041",
+  "city": "Scottsdale",
+  "first_seen": "2026-11-27T04:42:18+00:00",
+  "id": "pointskash",
+  "industry": "Other Banking and Financial Services",
+  "legal_name": "Pointskash, Inc.",
+  "name": "Pointskash",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "AZ",
+  "updated": "2026-11-27T04:42:18+00:00"
+ },
+ "polymarket": {
+  "ats": "ashby",
+  "ats_slug": "polymarket",
+  "board_url": "https://jobs.ashbyhq.com/polymarket",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "polymarket",
+  "locations_sample": [
+   "New York",
+   "New York | Remote",
+   "Remote"
+  ],
+  "name": "Polymarket",
+  "open_roles": 33,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "population-stewardship-01-06": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166239",
+  "city": "Flower Mound",
+  "first_seen": "2026-11-27T04:42:18+00:00",
+  "id": "population-stewardship-01-06",
+  "industry": "Other Technology",
+  "legal_name": "Population Stewardship 01-06 LLC",
+  "name": "Population Stewardship 01-06",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "TX",
+  "updated": "2026-11-27T04:42:18+00:00",
+  "year_of_inc": "2026"
+ },
+ "power-elements": {
+  "ats_checked": "2026-11-27",
+  "cik": "2163246",
+  "city": "Plano",
+  "first_seen": "2026-11-27T04:41:59+00:00",
+  "id": "power-elements",
+  "industry": "Other",
+  "legal_name": "Power Elements, Inc.",
+  "name": "Power Elements",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "TX",
+  "updated": "2026-11-27T04:41:59+00:00",
+  "year_of_inc": "2026"
+ },
+ "primer": {
+  "ats": "ashby",
+  "ats_slug": "primer",
+  "board_url": "https://jobs.ashbyhq.com/primer",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "primer",
+  "locations_sample": [
+   "Alabama | Birmingham | Montgomery | Dothan, Alabama | Huntsville | Mobile",
+   "Birmingham",
+   "Florida | Fort Lauderdale | Kendall, FL | Milton-Pace | Miami | Tampa | Liberty City | Homestead | Babcock Ranch | Coconut Grove | Miami Shores | Ocala",
+   "Florida, Texas",
+   "Gainesville, Florida"
+  ],
+  "name": "Primer",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "profound": {
+  "ats": "ashby",
+  "ats_slug": "profound",
+  "board_url": "https://jobs.ashbyhq.com/profound",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "profound",
+  "locations_sample": [
+   "Buenos Aires, Argentina | London, England",
+   "London, England",
+   "New York, New York",
+   "New York, New York | Buenos Aires, Argentina",
+   "New York, New York | London, England"
+  ],
+  "name": "Profound",
+  "open_roles": 90,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "project-charlie-holdco": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166454",
+  "city": "Victor",
+  "first_seen": "2026-11-27T04:41:51+00:00",
+  "id": "project-charlie-holdco",
+  "industry": "Other Technology",
+  "legal_name": "Project Charlie Holdco, LLC",
+  "name": "Project Charlie Holdco",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:41:51+00:00",
+  "year_of_inc": "2026"
+ },
+ "public": {
+  "ats": "greenhouse",
+  "ats_slug": "public",
+  "board_url": "https://job-boards.greenhouse.io/public",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "public",
+  "locations_sample": [
+   "New York, New York"
+  ],
+  "name": "Public",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "rad-technologies": {
+  "ats_checked": "2026-11-27",
+  "cik": "1810055",
+  "city": "Venice",
+  "first_seen": "2026-11-27T04:41:59+00:00",
+  "id": "rad-technologies",
+  "industry": "Other Technology",
+  "legal_name": "Rad Technologies Inc.",
+  "name": "Rad Technologies",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1,000,001 - $5,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:59+00:00"
+ },
+ "rain": {
+  "ats": "ashby",
+  "ats_slug": "rain",
+  "board_url": "https://jobs.ashbyhq.com/rain",
+  "first_seen": "2026-11-27T04:43:08+00:00",
+  "id": "rain",
+  "locations_sample": [
+   "District of Columbia",
+   "District of Columbia | New York, NY",
+   "Europe",
+   "Madrid, Spain",
+   "New York, NY"
+  ],
+  "name": "Rain",
+  "open_roles": 47,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:08+00:00"
+ },
+ "raine": {
+  "ats": "lever",
+  "ats_slug": "raine",
+  "board_url": "https://jobs.lever.co/raine",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "raine",
+  "locations_sample": [
+   "Singapore"
+  ],
+  "name": "Raine",
+  "open_roles": 1,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "ramp": {
+  "ats": "ashby",
+  "ats_slug": "ramp",
+  "board_url": "https://jobs.ashbyhq.com/ramp",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "ramp",
+  "locations_sample": [
+   "London, UK",
+   "London, UK | Remote (UK)",
+   "New York, NY (HQ)",
+   "New York, NY (HQ) | Remote (Canada) | Remote (US) | Miami, FL",
+   "New York, NY (HQ) | Remote (Canada) | San Francisco, CA | Remote (US)"
+  ],
+  "name": "Ramp",
+  "open_roles": 183,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "range": {
+  "ats": "greenhouse",
+  "ats_slug": "range",
+  "board_url": "https://job-boards.greenhouse.io/range",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "range",
+  "locations_sample": [
+   "Toronto, ON, Canada"
+  ],
+  "name": "Range",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "reach-neuro": {
+  "cik": "1942277",
+  "city": "Providence",
+  "first_seen": "2026-11-27T04:42:46+00:00",
+  "id": "reach-neuro",
+  "industry": "Other Health Care",
+  "legal_name": "Reach Neuro, Inc.",
+  "name": "Reach Neuro",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "RI",
+  "updated": "2026-11-27T04:42:46+00:00",
+  "year_of_inc": "2021"
+ },
+ "ready-capital": {
+  "ats": "ashby",
+  "ats_slug": "ready",
+  "board_url": "https://jobs.ashbyhq.com/ready",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "ready-capital",
+  "locations_sample": [
+   "FabLab - San Carlos, CA",
+   "Remote"
+  ],
+  "name": "Ready Capital",
+  "open_roles": 2,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "rho": {
+  "ats": "ashby",
+  "ats_slug": "rho",
+  "board_url": "https://jobs.ashbyhq.com/rho",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "rho",
+  "locations_sample": [
+   "Austin",
+   "Belgrade",
+   "Boston",
+   "Los Angeles",
+   "Miami"
+  ],
+  "name": "Rho",
+  "open_roles": 48,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "ridgeline": {
+  "ats": "greenhouse",
+  "ats_slug": "ridgeline",
+  "board_url": "https://job-boards.greenhouse.io/ridgeline",
+  "first_seen": "2026-11-27T04:42:52+00:00",
+  "id": "ridgeline",
+  "locations_sample": [
+   "Charlotte, NC; Raleigh, NC; Washington, DC; Arlington, VA; Charleston, SC",
+   "Dallas, TX; Austin, TX; Atlanta, GA; Miami, FL",
+   "Dublin, Ireland",
+   "New York, NY",
+   "New York, NY; Boston, MA; Washington, DC"
+  ],
+  "name": "Ridgeline",
+  "open_roles": 27,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:52+00:00"
+ },
+ "riemann-computing": {
+  "ats_checked": "2026-11-27",
+  "cik": "1760855",
+  "city": "Troy",
+  "first_seen": "2026-11-27T04:41:59+00:00",
+  "id": "riemann-computing",
+  "industry": "Computers",
+  "legal_name": "Riemann Computing Inc.",
+  "name": "Riemann Computing",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$1 - $1,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "MI",
+  "updated": "2026-11-27T04:41:59+00:00"
+ },
+ "rillet": {
+  "ats": "ashby",
+  "ats_slug": "rillet",
+  "board_url": "https://jobs.ashbyhq.com/rillet",
+  "first_seen": "2026-11-27T04:43:00+00:00",
+  "id": "rillet",
+  "locations_sample": [
+   "London",
+   "New York City",
+   "New York City | Remote | San Francisco",
+   "New York City | Remote | San Francisco | Chicago",
+   "New York City | San Francisco"
+  ],
+  "name": "Rillet",
+  "open_roles": 45,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:00+00:00"
+ },
+ "rise-works": {
+  "ats_checked": "2026-11-27",
+  "cik": "2041377",
+  "city": "Beachwood",
+  "first_seen": "2026-11-27T04:42:12+00:00",
+  "id": "rise-works",
+  "industry": "Other",
+  "legal_name": "Rise Works, Inc.",
+  "name": "Rise Works",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "OH",
+  "updated": "2026-11-27T04:42:12+00:00"
+ },
+ "robinhood": {
+  "ats": "greenhouse",
+  "ats_slug": "robinhood",
+  "board_url": "https://job-boards.greenhouse.io/robinhood",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "robinhood",
+  "locations_sample": [
+   "Bellevue, WA",
+   "Bellevue, WA; Chicago, IL; Menlo Park, CA; New York, NY",
+   "Bellevue, WA; Denver, CO; Menlo Park, CA",
+   "Bellevue, WA; Denver, CO; Menlo Park, CA; New York, NY",
+   "Bellevue, WA; Menlo Park, CA"
+  ],
+  "name": "Robinhood",
+  "open_roles": 161,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "robotic-research-opco": {
+  "ats_checked": "2026-11-27",
+  "cik": "1888781",
+  "city": "Clarksburg",
+  "first_seen": "2026-11-27T04:41:51+00:00",
+  "id": "robotic-research-opco",
+  "industry": "Other",
+  "legal_name": "Robotic Research OpCo, LLC",
+  "name": "Robotic Research OpCo",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series C+",
+  "state": "MD",
+  "updated": "2026-11-27T04:41:51+00:00",
+  "year_of_inc": "2021"
+ },
+ "rocked": {
+  "ats_checked": "2026-11-27",
+  "cik": "1876674",
+  "city": "Fort Lauderdale",
+  "first_seen": "2026-11-27T04:41:51+00:00",
+  "id": "rocked",
+  "industry": "Other",
+  "legal_name": "RockED Co Inc.",
+  "name": "RockED",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "FL",
+  "updated": "2026-11-27T04:41:51+00:00"
+ },
+ "rogo": {
+  "ats": "ashby",
+  "ats_slug": "rogo",
+  "board_url": "https://jobs.ashbyhq.com/rogo",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "rogo",
+  "locations_sample": [
+   "Dubai / Abu Dhabi",
+   "London",
+   "New York City",
+   "New York City or San Francisco",
+   "New York City | London | San Francisco"
+  ],
+  "name": "Rogo",
+  "open_roles": 102,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "runwise": {
+  "ats": "greenhouse",
+  "ats_slug": "runwise",
+  "board_url": "https://job-boards.greenhouse.io/runwise",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "runwise",
+  "locations_sample": [
+   "Boston, MA",
+   "Chicago, Illinois ",
+   "New York, NY",
+   "New York, New York"
+  ],
+  "name": "Runwise",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "safe-oil": {
+  "ats_checked": "2026-11-27",
+  "cik": "1989290",
+  "city": "Columbia",
+  "first_seen": "2026-11-27T04:42:37+00:00",
+  "id": "safe-oil",
+  "industry": "Other Technology",
+  "legal_name": "Safe Oil Corp",
+  "name": "Safe Oil",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "SC",
+  "updated": "2026-11-27T04:42:37+00:00",
+  "year_of_inc": "2023"
+ },
+ "salespatriot": {
+  "ats": "ashby",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "salespatriot",
+  "board_url": "https://jobs.ashbyhq.com/salespatriot",
+  "cik": "2165599",
+  "city": "Wilmington",
+  "first_seen": "2026-11-27T04:42:38+00:00",
+  "id": "salespatriot",
+  "industry": "Other Technology",
+  "legal_name": "SalesPatriot, Inc.",
+  "locations_sample": [
+   "San Francisco",
+   "San Francisco | Miami, FL",
+   "Warsaw Office"
+  ],
+  "name": "SalesPatriot",
+  "news_checked": "2026-11-27",
+  "open_roles": 6,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "50-200",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "DE",
+  "updated": "2026-11-27T04:42:38+00:00",
+  "year_of_inc": "2024"
+ },
+ "same-train-home-ltd-liability": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166331",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:41:51+00:00",
+  "id": "same-train-home-ltd-liability",
+  "industry": "Other",
+  "legal_name": "Same Train Home Ltd Liability Co",
+  "name": "Same Train Home Ltd Liability",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NY",
+  "updated": "2026-11-27T04:41:51+00:00",
+  "year_of_inc": "2026"
+ },
+ "sardine": {
+  "ats": "ashby",
+  "ats_slug": "sardine",
+  "board_url": "https://jobs.ashbyhq.com/sardine",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "sardine",
+  "locations_sample": [
+   "Berkeley, California",
+   "Brazil | Florianópolis | Belo Horizonte | Curitiba | Campinas | São José dos Campos | São Paulo | Rio de Janeiro",
+   "Canada",
+   "Dubai, United Arab Emirates",
+   "Europe | Poland "
+  ],
+  "name": "Sardine",
+  "open_roles": 40,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "savlamar": {
+  "cik": "2164666",
+  "city": "Hudsonville",
+  "first_seen": "2026-11-27T04:42:47+00:00",
+  "id": "savlamar",
+  "industry": "Manufacturing",
+  "legal_name": "Savlamar, Inc.",
+  "name": "Savlamar",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "MI",
+  "updated": "2026-11-27T04:42:47+00:00"
+ },
+ "savvy-wealth": {
+  "ats": "ashby",
+  "ats_slug": "savvy",
+  "board_url": "https://jobs.ashbyhq.com/savvy",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "savvy-wealth",
+  "locations_sample": [
+   "Latin America | Brazil | Mexico",
+   "NYC Office",
+   "NYC Office | Remote - US",
+   "Remote - US"
+  ],
+  "name": "Savvy Wealth",
+  "open_roles": 34,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "schonfeld": {
+  "ats": "greenhouse",
+  "ats_slug": "schonfeld",
+  "board_url": "https://job-boards.greenhouse.io/schonfeld",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "schonfeld",
+  "locations_sample": [
+   "Hong Kong, Hong Kong",
+   "Hong Kong, Hong Kong; Singapore, Central, Singapore",
+   "London, England, United Kingdom",
+   "Miami, Florida, United States",
+   "Miami, Florida, United States; New York, New York, United States"
+  ],
+  "name": "Schonfeld",
+  "open_roles": 67,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "seaboard-assets": {
+  "ats_checked": "2026-11-27",
+  "cik": "2097993",
+  "city": "Costa Mesa",
+  "first_seen": "2026-11-27T04:42:12+00:00",
+  "id": "seaboard-assets",
+  "industry": "Other",
+  "legal_name": "Seaboard Assets Corp.",
+  "name": "Seaboard Assets",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:12+00:00"
+ },
+ "secondappraisal": {
+  "ats_checked": "2026-11-27",
+  "cik": "2116264",
+  "city": "West Jordan",
+  "first_seen": "2026-11-27T04:42:38+00:00",
+  "id": "secondappraisal",
+  "industry": "Other",
+  "legal_name": "SecondAppraisal Inc",
+  "name": "SecondAppraisal",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "UT",
+  "updated": "2026-11-27T04:42:38+00:00",
+  "year_of_inc": "2025"
+ },
+ "sensetics": {
+  "cik": "2159328",
+  "city": "Princeton",
+  "first_seen": "2026-11-27T04:42:47+00:00",
+  "id": "sensetics",
+  "industry": "Other Technology",
+  "legal_name": "Sensetics, Inc.",
+  "name": "Sensetics",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NJ",
+  "updated": "2026-11-27T04:42:47+00:00",
+  "year_of_inc": "2024"
+ },
+ "setpoint": {
+  "ats": "greenhouse",
+  "ats_slug": "setpoint",
+  "board_url": "https://job-boards.greenhouse.io/setpoint",
+  "first_seen": "2026-11-27T04:43:05+00:00",
+  "id": "setpoint",
+  "locations_sample": [
+   "Austin or New York (Hybrid)",
+   "Austin, TX (Hybrid)",
+   "New York, NY (Hybrid)",
+   "Salt Lake City (Hybrid)"
+  ],
+  "name": "Setpoint",
+  "open_roles": 7,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:05+00:00"
+ },
+ "sofi": {
+  "ats": "greenhouse",
+  "ats_slug": "sofi",
+  "board_url": "https://job-boards.greenhouse.io/sofi",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "sofi",
+  "locations_sample": [
+   "CA - San Francisco",
+   "CA - San Francisco HQ; CA-Remote",
+   "CA - San Francisco; NY - New York City",
+   "CA - San Francisco; NY - New York City; WA - Seattle",
+   "CA - San Francisco; NY - New York City; WA- Seattle"
+  ],
+  "name": "SoFi",
+  "open_roles": 58,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "solar-landscape": {
+  "ats": "lever",
+  "ats_slug": "solarlandscape",
+  "board_url": "https://jobs.lever.co/solarlandscape",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "solar-landscape",
+  "locations_sample": [
+   "Asbury Park, NJ",
+   "Asbury Park, NJ | New York, NY",
+   "Asbury Park, NJ | New York, NY | Chicago, IL | Baltimore, MD",
+   "Baltimore, MD",
+   "Chicago, IL"
+  ],
+  "name": "Solar Landscape",
+  "open_roles": 18,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "somewhere-in-the-city-ltd-liability": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162043",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:38+00:00",
+  "id": "somewhere-in-the-city-ltd-liability",
+  "industry": "Other",
+  "legal_name": "Somewhere in the City Ltd Liability Co",
+  "name": "Somewhere in the City Ltd Liability",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:38+00:00",
+  "year_of_inc": "2026"
+ },
+ "soros-fund-management": {
+  "ats": "greenhouse",
+  "ats_slug": "familyoffice",
+  "board_url": "https://job-boards.greenhouse.io/familyoffice",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "soros-fund-management",
+  "locations_sample": [
+   "New York"
+  ],
+  "name": "Soros Fund Management",
+  "open_roles": 7,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "spade": {
+  "ats": "ashby",
+  "ats_slug": "spade",
+  "board_url": "https://jobs.ashbyhq.com/spade",
+  "first_seen": "2026-11-27T04:43:04+00:00",
+  "id": "spade",
+  "locations_sample": [
+   "New York, NY",
+   "Remote (US/Canada)"
+  ],
+  "name": "Spade",
+  "open_roles": 11,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:04+00:00"
+ },
+ "spakl-tech": {
+  "ats_checked": "2026-11-27",
+  "cik": "1995626",
+  "city": "Charlotte",
+  "first_seen": "2026-11-27T04:42:39+00:00",
+  "id": "spakl-tech",
+  "industry": "Other Technology",
+  "legal_name": "Spakl Tech, Inc.",
+  "name": "Spakl Tech",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NC",
+  "updated": "2026-11-27T04:42:39+00:00",
+  "year_of_inc": "2022"
+ },
+ "spencer-investco": {
+  "ats_checked": "2026-11-27",
+  "cik": "2159762",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:29+00:00",
+  "id": "spencer-investco",
+  "industry": "Other Health Care",
+  "legal_name": "Spencer Investco, Inc.",
+  "name": "Spencer Investco",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:29+00:00",
+  "year_of_inc": "2026"
+ },
+ "standard-cognition": {
+  "ats_checked": "2026-11-27",
+  "cik": "1755359",
+  "city": "San Francisco",
+  "first_seen": "2026-11-27T04:42:00+00:00",
+  "id": "standard-cognition",
+  "industry": "Other Technology",
+  "legal_name": "Standard Cognition, Corp.",
+  "name": "Standard Cognition",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:00+00:00"
+ },
+ "stash": {
+  "ats": "ashby",
+  "ats_slug": "stash",
+  "board_url": "https://jobs.ashbyhq.com/stash",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "stash",
+  "name": "Stash",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "stax": {
+  "ats": "lever",
+  "ats_slug": "stax",
+  "board_url": "https://jobs.lever.co/stax",
+  "first_seen": "2026-11-27T04:43:04+00:00",
+  "id": "stax",
+  "name": "Stax",
+  "open_roles": 0,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:04+00:00"
+ },
+ "stensul": {
+  "ats": "ashby",
+  "ats_slug": "stensul",
+  "board_url": "https://jobs.ashbyhq.com/stensul",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "stensul",
+  "locations_sample": [
+   "New York",
+   "New York | New York",
+   "argentina",
+   "argentina | Buenos Aires"
+  ],
+  "name": "Stensul",
+  "open_roles": 8,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "stepstone-group": {
+  "ats": "greenhouse",
+  "ats_slug": "stepstone",
+  "board_url": "https://job-boards.greenhouse.io/stepstone",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "stepstone-group",
+  "locations_sample": [
+   "Baltimore",
+   "Beijing",
+   "Charlotte",
+   "Chicago",
+   "Cleveland"
+  ],
+  "name": "StepStone Group",
+  "open_roles": 65,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "stereotaxis": {
+  "ats_checked": "2026-11-27",
+  "cik": "1289340",
+  "city": "St. Louis",
+  "first_seen": "2026-11-27T04:42:29+00:00",
+  "id": "stereotaxis",
+  "industry": "Other Health Care",
+  "legal_name": "Stereotaxis, Inc.",
+  "name": "Stereotaxis",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "MO",
+  "updated": "2026-11-27T04:42:29+00:00"
+ },
+ "stewards": {
+  "ats_checked": "2026-11-27",
+  "cik": "1795851",
+  "city": "Lauderhill",
+  "first_seen": "2026-11-27T04:42:00+00:00",
+  "id": "stewards",
+  "industry": "Other Banking and Financial Services",
+  "legal_name": "Stewards, Inc.",
+  "name": "Stewards",
+  "news_checked": "2026-11-27",
+  "revenue_range": "$5,000,001 - $25,000,000",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "FL",
+  "updated": "2026-11-27T04:42:00+00:00"
+ },
+ "strake": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166702",
+  "city": "Reno",
+  "first_seen": "2026-11-27T04:42:00+00:00",
+  "id": "strake",
+  "industry": "Other Technology",
+  "legal_name": "Strake, Inc.",
+  "name": "Strake",
+  "news_checked": "2026-11-27",
+  "revenue_range": "No Revenues",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NV",
+  "updated": "2026-11-27T04:42:00+00:00",
+  "year_of_inc": "2026"
+ },
+ "strategic-ai-private-opportunities": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165971",
+  "city": "New York",
+  "first_seen": "2026-11-27T04:42:30+00:00",
+  "id": "strategic-ai-private-opportunities",
+  "industry": "Other",
+  "legal_name": "Strategic AI Private Opportunities LLC",
+  "name": "Strategic AI Private Opportunities",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "NY",
+  "updated": "2026-11-27T04:42:30+00:00",
+  "year_of_inc": "2026"
+ },
+ "stripe": {
+  "ats": "greenhouse",
+  "ats_slug": "stripe",
+  "board_url": "https://job-boards.greenhouse.io/stripe",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "stripe",
+  "locations_sample": [
+   "AMER",
+   "Amsterdam",
+   "Atlanta, GA; Chicago, IL ",
+   "Auckland",
+   "Auckland, New Zealand"
+  ],
+  "name": "Stripe",
+  "open_roles": 767,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "summit-brewing": {
+  "ats_checked": "2026-11-27",
+  "cik": "767254",
+  "city": "Saint Paul",
+  "first_seen": "2026-11-27T04:41:59+00:00",
+  "id": "summit-brewing",
+  "industry": "Manufacturing",
+  "legal_name": "SUMMIT BREWING CO",
+  "name": "SUMMIT BREWING",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "MN",
+  "updated": "2026-11-27T04:41:59+00:00"
+ },
+ "summit-wold-investment": {
+  "ats_checked": "2026-11-27",
+  "cik": "2162666",
+  "city": "Des Moines",
+  "first_seen": "2026-11-27T04:42:30+00:00",
+  "id": "summit-wold-investment",
+  "industry": "Other",
+  "legal_name": "Summit-Wold Investment, LLC",
+  "name": "Summit-Wold Investment",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "IA",
+  "updated": "2026-11-27T04:42:30+00:00",
+  "year_of_inc": "2026"
+ },
+ "sunnydata": {
+  "ats_checked": "2026-11-27",
+  "cik": "2117148",
+  "city": "Minneapolis",
+  "first_seen": "2026-11-27T04:41:52+00:00",
+  "id": "sunnydata",
+  "industry": "Other Technology",
+  "legal_name": "Sunnydata Inc.",
+  "name": "Sunnydata",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "MN",
+  "updated": "2026-11-27T04:41:52+00:00",
+  "year_of_inc": "2023"
+ },
+ "swarmia": {
+  "ats": "ashby",
+  "ats_slug": "swarmia",
+  "board_url": "https://jobs.ashbyhq.com/swarmia",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "swarmia",
+  "locations_sample": [
+   "Helsinki",
+   "Helsinki | Dublin",
+   "New York"
+  ],
+  "name": "Swarmia",
+  "open_roles": 6,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "synctera": {
+  "ats": "ashby",
+  "ats_slug": "synctera",
+  "board_url": "https://jobs.ashbyhq.com/synctera",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "synctera",
+  "locations_sample": [
+   "United States (Remote) | Canada (Remote)"
+  ],
+  "name": "Synctera",
+  "open_roles": 1,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "szns-labs": {
+  "cik": "1864504",
+  "city": "Reston",
+  "first_seen": "2026-11-27T04:42:47+00:00",
+  "id": "szns-labs",
+  "industry": "Other Technology",
+  "legal_name": "SZNS Labs, Inc.",
+  "name": "SZNS Labs",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "VA",
+  "updated": "2026-11-27T04:42:47+00:00"
+ },
+ "tabs": {
+  "ats": "ashby",
+  "ats_slug": "tabs",
+  "board_url": "https://jobs.ashbyhq.com/tabs",
+  "first_seen": "2026-11-27T04:43:00+00:00",
+  "id": "tabs",
+  "locations_sample": [
+   "New York City, NY"
+  ],
+  "name": "Tabs",
+  "open_roles": 25,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:00+00:00"
+ },
+ "tempo-xyz": {
+  "ats": "ashby",
+  "ats_slug": "tempo-xyz",
+  "board_url": "https://jobs.ashbyhq.com/tempo-xyz",
+  "first_seen": "2026-11-27T04:43:10+00:00",
+  "id": "tempo-xyz",
+  "locations_sample": [
+   "Global",
+   "NYC Office",
+   "New York",
+   "New York, San Francisco",
+   "San Francisco Office"
+  ],
+  "name": "tempo-xyz",
+  "open_roles": 11,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:10+00:00"
+ },
+ "tendrils-compute": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166325",
+  "city": "Banks",
+  "first_seen": "2026-11-27T04:42:19+00:00",
+  "id": "tendrils-compute",
+  "industry": "Other",
+  "legal_name": "Tendrils Compute Corp",
+  "name": "Tendrils Compute",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "OR",
+  "updated": "2026-11-27T04:42:19+00:00",
+  "year_of_inc": "2025"
+ },
+ "thoro": {
+  "ats_checked": "2026-11-27",
+  "cik": "1848714",
+  "city": "Pittsburgh",
+  "first_seen": "2026-11-27T04:42:30+00:00",
+  "id": "thoro",
+  "industry": "Other",
+  "legal_name": "THORO, INC.",
+  "name": "THORO",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "PA",
+  "updated": "2026-11-27T04:42:30+00:00"
+ },
+ "thought-machine": {
+  "ats": "ashby",
+  "ats_slug": "thought-machine",
+  "board_url": "https://jobs.ashbyhq.com/thought-machine",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "thought-machine",
+  "locations_sample": [
+   "Portugal, Lisbon",
+   "Singapore",
+   "United Kingdom, London",
+   "United States, New York, New York City"
+  ],
+  "name": "Thought Machine",
+  "open_roles": 34,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "tide": {
+  "ats": "greenhouse",
+  "ats_slug": "tide",
+  "board_url": "https://job-boards.greenhouse.io/tide",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "tide",
+  "locations_sample": [
+   "Berlin, Germany",
+   "Bulgaria",
+   "India, Bengaluru",
+   "India, Bengaluru; India, Delhi NCR; India, Hyderabad",
+   "India, Delhi NCR"
+  ],
+  "name": "Tide",
+  "open_roles": 92,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "tiger-global": {
+  "ats": "ashby",
+  "ats_slug": "tiger",
+  "board_url": "https://jobs.ashbyhq.com/tiger",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "tiger-global",
+  "locations_sample": [
+   "San Francisco"
+  ],
+  "name": "Tiger Global",
+  "open_roles": 4,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "titan": {
+  "ats": "ashby",
+  "ats_slug": "titan",
+  "board_url": "https://jobs.ashbyhq.com/titan",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "titan",
+  "locations_sample": [
+   "New York "
+  ],
+  "name": "Titan",
+  "open_roles": 7,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "toast": {
+  "ats": "greenhouse",
+  "ats_slug": "toast",
+  "board_url": "https://job-boards.greenhouse.io/toast",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "toast",
+  "locations_sample": [
+   "Alaska",
+   "Albuquerque, NM",
+   "Alexandria, VA",
+   "Ann Arbor, MI",
+   "Arlington, TX "
+  ],
+  "name": "Toast",
+  "open_roles": 301,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "tracksuit": {
+  "ats": "ashby",
+  "ats_slug": "Tracksuit",
+  "board_url": "https://jobs.ashbyhq.com/Tracksuit",
+  "first_seen": "2026-11-27T04:43:11+00:00",
+  "id": "tracksuit",
+  "locations_sample": [
+   "Auckland",
+   "Auckland | Sydney, Australia",
+   "Auckland, New Zealand",
+   "London, United Kingdom",
+   "New York, United States"
+  ],
+  "name": "Tracksuit",
+  "open_roles": 19,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:11+00:00"
+ },
+ "trading-212": {
+  "ats": "ashby",
+  "ats_slug": "trading212",
+  "board_url": "https://jobs.ashbyhq.com/trading212",
+  "first_seen": "2026-11-27T04:43:02+00:00",
+  "id": "trading-212",
+  "locations_sample": [
+   "Berlin",
+   "Bulgaria | Germany | United Kingdom | Spain | Romania | Poland",
+   "Dublin",
+   "Limassol",
+   "London"
+  ],
+  "name": "Trading 212",
+  "open_roles": 42,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:02+00:00"
+ },
+ "treasury-prime": {
+  "ats": "greenhouse",
+  "ats_slug": "treasuryprime",
+  "board_url": "https://job-boards.greenhouse.io/treasuryprime",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "treasury-prime",
+  "locations_sample": [
+   "San Francisco, California",
+   "San Francisco, California / Remote US / Remote Canada"
+  ],
+  "name": "Treasury Prime",
+  "open_roles": 3,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "truelayer": {
+  "ats": "ashby",
+  "ats_slug": "truelayer",
+  "board_url": "https://jobs.ashbyhq.com/truelayer",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "truelayer",
+  "locations_sample": [
+   "Ireland",
+   "Italy",
+   "United Kingdom"
+  ],
+  "name": "TrueLayer",
+  "open_roles": 5,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "tydal-technologies": {
+  "ats_checked": "2026-11-27",
+  "cik": "2164404",
+  "city": "Cambridge",
+  "first_seen": "2026-11-27T04:42:19+00:00",
+  "id": "tydal-technologies",
+  "industry": "Other Technology",
+  "legal_name": "TYDAL TECHNOLOGIES, INC.",
+  "name": "TYDAL TECHNOLOGIES",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "MA",
+  "updated": "2026-11-27T04:42:19+00:00",
+  "year_of_inc": "2025"
+ },
+ "unit": {
+  "ats": "ashby",
+  "ats_slug": "unit",
+  "board_url": "https://jobs.ashbyhq.com/unit",
+  "first_seen": "2026-11-27T04:42:50+00:00",
+  "id": "unit",
+  "locations_sample": [
+   "Tel Aviv Office"
+  ],
+  "name": "Unit",
+  "open_roles": 1,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:50+00:00"
+ },
+ "univital": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165138",
+  "city": "Woodland Hills",
+  "first_seen": "2026-11-27T04:42:30+00:00",
+  "id": "univital",
+  "industry": "Biotechnology",
+  "legal_name": "Univital Inc",
+  "name": "Univital",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:42:30+00:00",
+  "year_of_inc": "2025"
+ },
+ "upgrade": {
+  "ats": "greenhouse",
+  "ats_slug": "upgrade",
+  "board_url": "https://job-boards.greenhouse.io/upgrade",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "upgrade",
+  "locations_sample": [
+   "Argentina (Remote)",
+   "Atlanta",
+   "Atlanta; Montreal; San Francisco",
+   "Atlanta; San Francisco; United States (Remote)",
+   "Canada (Remote)"
+  ],
+  "name": "Upgrade",
+  "open_roles": 30,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "upwell-cosmetics": {
+  "ats_checked": "2026-11-27",
+  "cik": "2159576",
+  "city": "Falmouth",
+  "first_seen": "2026-11-27T04:42:19+00:00",
+  "id": "upwell-cosmetics",
+  "industry": "Manufacturing",
+  "legal_name": "Upwell Cosmetics, PBC",
+  "name": "Upwell Cosmetics",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "MA",
+  "updated": "2026-11-27T04:42:19+00:00"
+ },
+ "valon": {
+  "ats": "ashby",
+  "ats_slug": "valon",
+  "board_url": "https://jobs.ashbyhq.com/valon",
+  "first_seen": "2026-11-27T04:42:51+00:00",
+  "id": "valon",
+  "locations_sample": [
+   "New York",
+   "New York | Remote",
+   "New York | San Francisco",
+   "New York | San Francisco | Remote",
+   "Remote"
+  ],
+  "name": "Valon",
+  "open_roles": 29,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:51+00:00"
+ },
+ "valor-scientific": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165977",
+  "city": "Madison",
+  "first_seen": "2026-11-27T04:41:52+00:00",
+  "id": "valor-scientific",
+  "industry": "Biotechnology",
+  "legal_name": "Valor Scientific, Inc.",
+  "name": "Valor Scientific",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "AL",
+  "updated": "2026-11-27T04:41:52+00:00",
+  "year_of_inc": "2025"
+ },
+ "vanta": {
+  "ats": "ashby",
+  "ats_slug": "vanta",
+  "board_url": "https://jobs.ashbyhq.com/vanta",
+  "first_seen": "2026-11-27T04:42:52+00:00",
+  "id": "vanta",
+  "locations_sample": [
+   "Dublin, Ireland",
+   "London, UK",
+   "Remote - Canada",
+   "Remote - Ireland | Dublin, Ireland",
+   "Remote - UK | London, UK"
+  ],
+  "name": "Vanta",
+  "open_roles": 61,
+  "size_est": "500+",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:52+00:00"
+ },
+ "visaic": {
+  "ats_checked": "2026-11-27",
+  "cik": "2159946",
+  "city": "San Diego",
+  "first_seen": "2026-11-27T04:41:52+00:00",
+  "id": "visaic",
+  "industry": "Other Technology",
+  "legal_name": "Visaic, Inc.",
+  "name": "Visaic",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "CA",
+  "updated": "2026-11-27T04:41:52+00:00"
+ },
+ "vise": {
+  "ats": "ashby",
+  "ats_slug": "vise",
+  "board_url": "https://jobs.ashbyhq.com/vise",
+  "first_seen": "2026-11-27T04:43:03+00:00",
+  "id": "vise",
+  "locations_sample": [
+   "New York, NY"
+  ],
+  "name": "Vise",
+  "open_roles": 15,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:03+00:00"
+ },
+ "warp": {
+  "ats": "ashby",
+  "ats_slug": "warp",
+  "board_url": "https://jobs.ashbyhq.com/warp",
+  "first_seen": "2026-11-27T04:43:12+00:00",
+  "id": "warp",
+  "locations_sample": [
+   "New York"
+  ],
+  "name": "Warp",
+  "open_roles": 19,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:12+00:00"
+ },
+ "wealthfront": {
+  "ats": "lever",
+  "ats_slug": "wealthfront",
+  "board_url": "https://jobs.lever.co/wealthfront",
+  "first_seen": "2026-11-27T04:42:48+00:00",
+  "id": "wealthfront",
+  "locations_sample": [
+   "Las Vegas, NV | Reno, NV",
+   "New York City, NY | Boston, MA | Palo Alto, CA | San Francisco, CA",
+   "New York City, NY | Palo Alto, CA | San Francisco, CA",
+   "Palo Alto, CA (Open to US-based Remote)",
+   "Palo Alto, CA (Open to US-based Remote) | Austin, TX | San Antonio, TX"
+  ],
+  "name": "Wealthfront",
+  "open_roles": 19,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:42:48+00:00"
+ },
+ "wealthsimple": {
+  "ats": "ashby",
+  "ats_slug": "wealthsimple",
+  "board_url": "https://jobs.ashbyhq.com/wealthsimple",
+  "first_seen": "2026-11-27T04:43:05+00:00",
+  "id": "wealthsimple",
+  "locations_sample": [
+   "Remote (Canada)",
+   "Remote (Canada) | Remote (US)",
+   "Remote (Canada) | Toronto, Canada ",
+   "Remote (US)",
+   "Toronto Headquarters"
+  ],
+  "name": "Wealthsimple",
+  "open_roles": 36,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:05+00:00"
+ },
+ "william-blair": {
+  "ats": "greenhouse",
+  "ats_slug": "williamblair",
+  "board_url": "https://job-boards.greenhouse.io/williamblair",
+  "first_seen": "2026-11-27T04:43:13+00:00",
+  "id": "william-blair",
+  "locations_sample": [
+   "Amsterdam, Netherlands",
+   "Atlanta, Georgia; Boston, Massachusetts; Charlotte, North Carolina; Chicago, Illinois, United States; Los Angeles, California; San Francisco, California",
+   "Atlanta, Georgia; Chicago, Illinois, United States",
+   "Baltimore, Maryland; Pennsylvania - Remote",
+   "Boston, Massachusetts"
+  ],
+  "name": "William Blair",
+  "open_roles": 48,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:13+00:00"
+ },
+ "wise": {
+  "ats": "greenhouse",
+  "ats_slug": "wise",
+  "board_url": "https://job-boards.greenhouse.io/wise",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "wise",
+  "locations_sample": [
+   "Cleveland, Ohio",
+   "Dallas - Fort Worth, TX",
+   "Dallas, TX",
+   "Denver, CO",
+   "Detroit, Michigan"
+  ],
+  "name": "Wise",
+  "open_roles": 18,
+  "size_est": "50-200",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ },
+ "xatek": {
+  "ats_checked": "2026-11-27",
+  "cik": "2166010",
+  "city": "Hudson",
+  "first_seen": "2026-11-27T04:42:13+00:00",
+  "id": "xatek",
+  "industry": "Biotechnology",
+  "legal_name": "XaTek, Inc.",
+  "name": "XaTek",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series A",
+  "state": "OH",
+  "updated": "2026-11-27T04:42:13+00:00"
+ },
+ "zamorak": {
+  "ats_checked": "2026-11-27",
+  "cik": "2165684",
+  "city": "Philadelphia",
+  "first_seen": "2026-11-27T04:42:13+00:00",
+  "id": "zamorak",
+  "industry": "Other Technology",
+  "legal_name": "Zamorak Inc.",
+  "name": "Zamorak",
+  "news_checked": "2026-11-27",
+  "revenue_range": "Decline to Disclose",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Seed",
+  "state": "PA",
+  "updated": "2026-11-27T04:42:13+00:00",
+  "year_of_inc": "2026"
+ },
+ "zeely": {
+  "ats": "ashby",
+  "ats_checked": "2026-11-27",
+  "ats_slug": "zeely",
+  "board_url": "https://jobs.ashbyhq.com/zeely",
+  "cik": "2155182",
+  "city": "Wilmington",
+  "first_seen": "2026-11-27T04:42:20+00:00",
+  "id": "zeely",
+  "industry": "Other Technology",
+  "legal_name": "Zeely, Inc.",
+  "locations_sample": [
+   "Remote",
+   "Remote | Ukraine",
+   "Ukraine"
+  ],
+  "name": "Zeely",
+  "news_checked": "2026-11-27",
+  "open_roles": 24,
+  "revenue_range": "Decline to Disclose",
+  "size_est": "200-500",
+  "sources": [
+   "formd"
+  ],
+  "stage_est": "Series B",
+  "state": "DE",
+  "updated": "2026-11-27T04:42:20+00:00",
+  "year_of_inc": "2021"
+ },
+ "zip-security": {
+  "ats": "ashby",
+  "ats_slug": "Zip Security",
+  "board_url": "https://jobs.ashbyhq.com/Zip Security",
+  "first_seen": "2026-11-27T04:43:14+00:00",
+  "id": "zip-security",
+  "locations_sample": [
+   "New York City",
+   "New York City | Washington, D.C.",
+   "New York City | Washington, D.C. | Remote",
+   "Washington, D.C. | New York City"
+  ],
+  "name": "Zip Security",
+  "open_roles": 5,
+  "size_est": "under 50",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:14+00:00"
+ },
+ "zopa": {
+  "ats": "lever",
+  "ats_slug": "zopa",
+  "board_url": "https://jobs.lever.co/zopa",
+  "first_seen": "2026-11-27T04:43:01+00:00",
+  "id": "zopa",
+  "locations_sample": [
+   "London",
+   "Manchester",
+   "Manchester | London"
+  ],
+  "name": "Zopa",
+  "open_roles": 32,
+  "size_est": "200-500",
+  "sources": [
+   "watchlist"
+  ],
+  "updated": "2026-11-27T04:43:01+00:00"
+ }
+}

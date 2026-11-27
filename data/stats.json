@@ -1,0 +1,11 @@
+{
+ "run_at": "2026-11-27",
+ "seconds": 1035,
+ "companies": 351,
+ "companies_with_signals": 248,
+ "signals": {
+  "raise": 162,
+  "hiring": 332,
+  "leader": 2
+ }
+}

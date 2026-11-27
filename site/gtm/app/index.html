@@ -52,7 +52,7 @@ details.key{margin-top:14px;font-size:14px}details.key summary{cursor:pointer;fo
 <script type="module">
 import { PRESETS, DEFAULT_BUYER, TEAM_LABELS, BANDS, rankAll, scoreCompany, sizeOf, WRITER_SYSTEM, buildPrompt, extractJson, checkCitations, validProduct } from "/gtm/assets/scout.js";
 
-const DATA_URL = "/gtm/data/app.json";
+const DATA_URL = "/gtm/data/app.json?v=" + Math.floor(Date.now() / 3e5); // new URL every 5 minutes: never stuck on a stale cache
 const API_URL = "/api/gtm/writeup";
 const store = {  // browser storage can be unavailable (private mode, embedded views): fail quietly
   get(k, s = localStorage) { try { return JSON.parse(s.getItem(k)); } catch { return null; } },

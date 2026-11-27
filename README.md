@@ -31,7 +31,7 @@ python -m unittest discover -s tests          # tests use saved sample data
 SEC_USER_AGENT="Pipeline Scout you@example.com" python -m scout.collect all --days 5
 ```
 
-`SEC_USER_AGENT` is required by the SEC's fair-access policy. In GitHub, set it as a repository **variable**.
+`SEC_USER_AGENT` is required by the SEC's fair-access policy. In GitHub, set it as a repository **secret** so it stays masked in public logs.
 
 ## Data
 

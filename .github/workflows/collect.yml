@@ -24,8 +24,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 75
     env:
-      # Repo variable (Settings > Secrets and variables > Actions > Variables), e.g. "Pipeline Scout you@example.com".
-      SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+      # Repo SECRET (masked in public logs), e.g. "Pipeline Scout you@example.com".
+      SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
     steps:
       - uses: actions/checkout@v4
 
@@ -36,7 +36,7 @@ jobs:
       - name: Check SEC contact is set
         run: |
           if [ -z "$SEC_USER_AGENT" ]; then
-            echo "::error::Set the SEC_USER_AGENT repo variable (a name and contact email) before running."
+            echo "::error::Set the SEC_USER_AGENT repo secret (a name and contact email) before running."
             exit 1
           fi
 

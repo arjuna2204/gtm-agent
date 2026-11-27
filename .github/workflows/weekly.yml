@@ -12,6 +12,10 @@ on:
         description: "Scores only, no API calls"
         type: boolean
         default: false
+  push:
+    # Pushing a change to this file starts a run. File format: TOP=100 and NO_AI=0 on separate lines.
+    branches: [main]
+    paths: [".github/run-now/weekly"]
 
 permissions:
   contents: write
@@ -31,24 +35,48 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Unit tests
-        run: python -m unittest discover -s tests
-      - name: Score and write
-        run: |
-          if [ "${{ inputs.no_ai }}" = "true" ] || [ -z "$ANTHROPIC_API_KEY" ]; then
-            echo "Running scores only (no API key or no_ai set)"
-            python -m scout.weekly --no-ai
-          else
-            python -m scout.weekly --top "${{ inputs.top || '100' }}"
-          fi
-      - name: Export site data
-        run: python -m scout.export
 
-      - name: Commit data
+      - name: Settings
         run: |
+          TOP="${{ inputs.top || '100' }}"; NO_AI="${{ inputs.no_ai && '1' || '0' }}"
+          if [ "${{ github.event_name }}" = "push" ] && [ -f .github/run-now/weekly ]; then
+            eval "$(grep -E '^(TOP|NO_AI)=[0-9]+$' .github/run-now/weekly)"
+          fi
+          echo "TOP=$TOP" >> "$GITHUB_ENV"; echo "NO_AI=$NO_AI" >> "$GITHUB_ENV"
+
+      - name: Tests, scoring and write-ups
+        run: |
+          set -o pipefail
+          {
+            git pull --rebase -q || true
+            python -m unittest discover -s tests
+            if [ "$NO_AI" = "1" ] || [ -z "$ANTHROPIC_API_KEY" ]; then
+              echo "Scores only (no API key or NO_AI=1)"
+              python -m scout.weekly --no-ai
+            else
+              python -m scout.weekly --top "$TOP"
+            fi
+            python -m scout.export
+          } 2>&1 | tee run.log
+
+      - name: Save status and data
+        if: always()
+        env:
+          JOB_STATUS: ${{ job.status }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          mkdir -p data/run_status
+          python - <<'EOF'
+          import json, os, datetime
+          log = open("run.log").read().splitlines()[-40:] if os.path.exists("run.log") else []
+          json.dump({"workflow": "weekly-score-and-write", "status": os.environ["JOB_STATUS"],
+                     "finished_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+                     "top": os.environ.get("TOP"), "run_url": os.environ["RUN_URL"], "log_tail": log},
+                    open("data/run_status/weekly.json", "w"), indent=1)
+          EOF
           git config user.name "pipeline-scout-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/ site/gtm/data/
-          git diff --cached --quiet || git commit -m "data: weekly scores and write-ups $(date -u +%F)"
+          git diff --cached --quiet || git commit -m "data: weekly scores and write-ups $(date -u +%F) (${JOB_STATUS})"
           git pull --rebase
           git push

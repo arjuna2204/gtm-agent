@@ -11,6 +11,11 @@ on:
       detect:
         description: "Max Form D companies to probe for job boards"
         default: "150"
+  push:
+    # Pushing a change to this file starts a run (lets automation trigger runs without the Actions API).
+    # File format: DAYS=30 and DETECT=150 on separate lines.
+    branches: [main]
+    paths: [".github/run-now/collect"]
 
 permissions:
   contents: write
@@ -33,27 +38,44 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Check SEC contact is set
+      - name: Settings
         run: |
-          if [ -z "$SEC_USER_AGENT" ]; then
-            echo "::error::Set the SEC_USER_AGENT repo secret (a name and contact email) before running."
-            exit 1
+          DAYS="${{ inputs.days || '5' }}"; DETECT="${{ inputs.detect || '150' }}"
+          if [ "${{ github.event_name }}" = "push" ] && [ -f .github/run-now/collect ]; then
+            eval "$(grep -E '^(DAYS|DETECT)=[0-9]+$' .github/run-now/collect)"
           fi
+          echo "DAYS=$DAYS" >> "$GITHUB_ENV"; echo "DETECT=$DETECT" >> "$GITHUB_ENV"
 
-      - name: Unit tests
-        run: python -m unittest discover -s tests
-
-      - name: Collect signals
-        run: python -m scout.collect all --days "${{ inputs.days || '5' }}" --detect "${{ inputs.detect || '150' }}"
-
-      - name: Export site data
-        run: python -m scout.export
-
-      - name: Commit data
+      - name: Tests and collection
         run: |
+          set -o pipefail
+          {
+            if [ -z "$SEC_USER_AGENT" ]; then
+              echo "ERROR: Set the SEC_USER_AGENT repo secret (a name and contact email) before running."; exit 1
+            fi
+            python -m unittest discover -s tests
+            python -m scout.collect all --days "$DAYS" --detect "$DETECT"
+            python -m scout.export
+          } 2>&1 | tee run.log
+
+      - name: Save status and data
+        if: always()
+        env:
+          JOB_STATUS: ${{ job.status }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          mkdir -p data/run_status
+          python - <<'EOF'
+          import json, os, datetime
+          log = open("run.log").read().splitlines()[-40:] if os.path.exists("run.log") else []
+          json.dump({"workflow": "collect-signals", "status": os.environ["JOB_STATUS"],
+                     "finished_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+                     "days": os.environ.get("DAYS"), "run_url": os.environ["RUN_URL"], "log_tail": log},
+                    open("data/run_status/collect.json", "w"), indent=1)
+          EOF
           git config user.name "pipeline-scout-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/ site/gtm/data/
-          git diff --cached --quiet || git commit -m "data: daily signal collection $(date -u +%F)"
+          git diff --cached --quiet || git commit -m "data: signal collection $(date -u +%F) (${JOB_STATUS})"
           git pull --rebase
           git push

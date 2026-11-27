@@ -1,4 +1,187 @@
 {
+ "finch-legal": {
+  "why_now": [
+   {
+    "text": "A Form D shows Finch Legal raised $75.5M of an $85.0M equity round, with first sale on Nov 4 and filing on Nov 17. New capital usually means headcount and vendor spend grow quickly, and card policies and approvals tend to lag behind.",
+    "signal_ids": [
+     "109a646cbb66e68a"
+    ]
+   },
+   {
+    "text": "Finch Legal posted an Assistant Controller role in New York City on Nov 9. That suggests the accounting team is growing, and close, AP and expense workload may be outpacing manual processes.",
+    "signal_ids": [
+     "73d15f451b9478f9"
+    ]
+   },
+   {
+    "text": "The new funding and the finance hire land close together. That makes this a natural window to set up spend controls and accounting automation before the next growth phase.",
+    "signal_ids": [
+     "109a646cbb66e68a",
+     "73d15f451b9478f9"
+    ]
+   }
+  ],
+  "persona": {
+   "title": "Controller",
+   "why": "The Assistant Controller opening points to a team that owns close, AP and expense processes, and a Controller would likely feel the manual workload and also be the one to evaluate and own a spend platform."
+  },
+  "brief": "Finch Legal is likely a legal-focused technology company of about 200-500 people, though the exact product is not clear from the data. With a fresh Form D raise and an Assistant Controller opening, the likely pain is spend and headcount growing faster than card policies, AP workflows and month-end close can handle. The talk track is that one platform for cards, expenses, bill pay and accounting automation gives the finance team a real-time view of spend and less manual work as they scale.",
+  "emails": [
+   {
+    "step": 1,
+    "subject": "After the Form D",
+    "body": "Hi,\n\nI saw Finch Legal's Form D showing $75.5M raised of an $85.0M round, with first sale on Nov 4. After a raise, headcount and vendor spend often grow faster than card policies and approvals do.\n\nWe put corporate cards, expenses, bill pay and accounting automation in one place, so finance keeps a live view of spend.\n\nWorth a 15 minute look at how that could fit?\n\n[Your name]",
+    "signal_ids": [
+     "109a646cbb66e68a"
+    ]
+   },
+   {
+    "step": 2,
+    "subject": "Assistant Controller hire",
+    "body": "Hi,\n\nI noticed Finch Legal is hiring an Assistant Controller in New York City. When an accounting team grows, receipt chasing, manual bill pay and coding to the ledger can eat a lot of that new capacity.\n\nOur platform automates much of that work, so the team can spend its time on review and close instead.\n\nOpen to a short call, or would a two minute overview be easier?\n\n[Your name]",
+    "signal_ids": [
+     "73d15f451b9478f9"
+    ]
+   },
+   {
+    "step": 3,
+    "subject": "Spend setup as you scale",
+    "body": "Hi,\n\nLast note from me. With Finch Legal's recent $75.5M Form D filing, I imagine spend will ramp across teams over the coming months.\n\nWe help finance set cards, limits and approval policies up front, so controls scale with headcount and nobody has to chase receipts later.\n\nWho on your team owns this? I can send a short overview to them.\n\n[Your name]",
+    "signal_ids": [
+     "109a646cbb66e68a"
+    ]
+   }
+  ],
+  "company_id": "finch-legal",
+  "signal_key": "109a646cbb66e68a,73d15f451b9478f9",
+  "model": "claude-sonnet-5-5",
+  "written_at": "2026-11-27T05:17:38+00:00",
+  "dropped_claims": 0
+ },
+ "kura-oncology": {
+  "why_now": [
+   {
+    "text": "A Form D shows about $5.0M raised so far of a $25.0M round, with first sale on Nov 9 and filing on Nov 18. New capital coming in usually means spend controls need to be in place before the rest of the round is deployed.",
+    "signal_ids": [
+     "a56229c267b99700"
+    ]
+   },
+   {
+    "text": "Kura Oncology appointed a new Chief Financial Officer, reported Sep 8. New finance leaders often review the finance stack, card programs and close process in their first months.",
+    "signal_ids": [
+     "b46dd1b983d749cd"
+    ]
+   },
+   {
+    "text": "The new CFO and the open round overlap. A leader who is new and has fresh capital to manage is a natural moment to set up spend policy and visibility.",
+    "signal_ids": [
+     "b46dd1b983d749cd",
+     "a56229c267b99700"
+    ]
+   }
+  ],
+  "persona": {
+   "title": "Chief Financial Officer",
+   "why": "The CFO was recently appointed, so they are likely to own decisions on the finance stack, spend policy and close process. They are also accountable for how newly raised capital is tracked and controlled."
+  },
+  "brief": "Kura Oncology is likely a clinical-stage biotech based in San Diego, roughly 50-200 people, with some roles listed as field based or remote. The likely spend pain now is putting card controls, expense policy and real-time spend visibility in place for a distributed team while new capital comes in, without adding finance headcount (no open finance roles are listed). The talk track: with a new CFO and an open round, offer a single place for cards, expenses, bill pay and accounting automation so spend stays controlled and the close stays fast as the team grows.",
+  "emails": [
+   {
+    "step": 1,
+    "subject": "Finance setup after the CFO appointment",
+    "body": "Hello,\n\nI saw the Sep 8 report on Kura Oncology's new CFO appointment. New finance leaders often revisit how cards, expenses and bill pay work before the team grows further.\n\nWe offer corporate cards, expense management, bill pay and accounting automation in one platform, so finance gets a real-time view of spend and a faster close.\n\nWould a 15 minute call next week be useful?\n\n[Your name]",
+    "signal_ids": [
+     "b46dd1b983d749cd"
+    ]
+   },
+   {
+    "step": 2,
+    "subject": "Spend controls alongside the new round",
+    "body": "Hello,\n\nA Form D shows Kura Oncology has raised about $5.0M of a $25.0M round, with first sale on Nov 9. As capital comes in, teams often want spend policies and visibility in place early.\n\nOur platform sets card limits and policies by team, captures receipts automatically and syncs to the accounting system, so finance is not chasing expense reports.\n\nOpen to a short walkthrough?\n\n[Your name]",
+    "signal_ids": [
+     "a56229c267b99700"
+    ]
+   },
+   {
+    "step": 3,
+    "subject": "Should I close the loop?",
+    "body": "Hello,\n\nLast note from me. With a new CFO in place since the Sep 8 report, the finance stack may be up for review. If it is, we can show how cards, expenses, bill pay and month-end close work in one place.\n\nIf timing is off, tell me and I will check back later. If someone else owns this, a pointer would help.\n\n[Your name]",
+    "signal_ids": [
+     "b46dd1b983d749cd"
+    ]
+   }
+  ],
+  "company_id": "kura-oncology",
+  "signal_key": "a56229c267b99700,b46dd1b983d749cd",
+  "model": "claude-sonnet-5-5",
+  "written_at": "2026-11-27T05:17:50+00:00",
+  "dropped_claims": 0
+ },
+ "perpay": {
+  "why_now": [
+   {
+    "text": "Form D shows $21.7M raised of a $65.0M round, with first sale on Nov 5. New capital with more of the round possibly still to close usually means spend and headcount grow faster than finance processes do.",
+    "signal_ids": [
+     "6f4437a434cceed6"
+    ]
+   },
+   {
+    "text": "A Junior Financial Analyst role is open in Philadelphia (listed Nov 6). Adding analyst capacity suggests finance workload is growing, and manual expense and AP work often lands on junior staff.",
+    "signal_ids": [
+     "527b21dccc465d78"
+    ]
+   },
+   {
+    "text": "A Finance Internship for Summer 2027 is on their job board. Finance is building a pipeline of junior talent, which raises the cost of receipt chasing and manual reconciliation.",
+    "signal_ids": [
+     "0de9680b53a7ec87"
+    ]
+   },
+   {
+    "text": "The company has about 15 open roles at roughly 50-200 people. Fast hiring means more new cards, new spenders and more policy exceptions to manage.",
+    "signal_ids": [
+     "527b21dccc465d78",
+     "0de9680b53a7ec87"
+    ]
+   }
+  ],
+  "persona": {
+   "title": "VP Finance or Head of Finance",
+   "why": "They own spend controls, close speed and finance headcount planning. They are the person most likely to feel the strain as a fresh raise and a hiring push add spenders and transactions, and no new finance leader has been spotted, so the existing finance owner is the likely buyer."
+  },
+  "brief": "Perpay is a Philadelphia technology company, roughly 50-200 people and possibly late stage, though the exact business model is not confirmed here. The likely pain now is that fresh capital and active hiring (about 15 open roles, including finance analyst and intern positions) add cards, expenses and bills faster than manual receipt chasing, AP and month-end close can absorb. The talk track: as you grow, put cards, expenses, bill pay and accounting in one place so a lean finance team keeps real-time visibility and control without adding manual work.",
+  "emails": [
+   {
+    "step": 1,
+    "subject": "Spend controls after the raise",
+    "body": "Hi,\n\nI saw a Form D showing about $21.7M raised of a $65.0M round, with first sale on Nov 5. Growth after a raise usually means more cards, more expenses and more bills landing on a small finance team.\n\nWe offer corporate cards, expense management, bill pay and accounting automation in one platform, so spend stays visible and the close stays manageable.\n\nWorth a 15 minute look next week?\n\n[Your name]",
+    "signal_ids": [
+     "6f4437a434cceed6"
+    ]
+   },
+   {
+    "step": 2,
+    "subject": "Junior Financial Analyst role",
+    "body": "Hi,\n\nI noticed Perpay has a Junior Financial Analyst role open in Philadelphia. When a team adds analyst capacity, receipt chasing and manual bill entry often take a lot of that time.\n\nOur platform automates expense capture, bill pay and accounting sync, so new finance hires can spend their time on analysis instead.\n\nWould it be useful if I sent a short overview of how finance teams set this up?\n\n[Your name]",
+    "signal_ids": [
+     "527b21dccc465d78"
+    ]
+   },
+   {
+    "step": 3,
+    "subject": "Finance team growing, process next?",
+    "body": "Hi,\n\nLast note. Your job board lists a Finance Internship for Summer 2027, which suggests the finance team is growing. Policies and approvals that work for a small team often get harder to enforce as more people spend.\n\nWe help finance teams set card limits, policies and approvals once and see spend in real time.\n\nIf this is on your radar, who on your team should I speak with?\n\n[Your name]",
+    "signal_ids": [
+     "0de9680b53a7ec87"
+    ]
+   }
+  ],
+  "company_id": "perpay",
+  "signal_key": "0de9680b53a7ec87,527b21dccc465d78,6f4437a434cceed6",
+  "model": "claude-sonnet-5-5",
+  "written_at": "2026-11-27T05:18:04+00:00",
+  "dropped_claims": 0
+ },
  "ansa-biotechnologies": {
   "why_now": [
    {
@@ -1022,6 +1205,64 @@
   "signal_key": "d2f8bd5774acb87a",
   "model": "claude-sonnet-5-5",
   "written_at": "2026-11-27T05:03:33+00:00",
+  "dropped_claims": 0
+ },
+ "rho": {
+  "why_now": [
+   {
+    "text": "Rho listed a Treasury Advisor role on Jul 13, tagged GTM and Treasury and based in NYC. It is a customer-facing treasury hire, so it points to growth in treasury more than a finance-team buildout. It is a light but real sign that the business is adding headcount in a new location.",
+    "signal_ids": [
+     "f598ca32bf801b83"
+    ]
+   },
+   {
+    "text": "The job board shows about 48 open roles, and the sampled locations span Austin, Belgrade, Boston, Los Angeles and Miami. Hiring across several cities and time zones usually strains card policies, expense reporting and month-end close. This comes from the same board posting and is inferred, not confirmed.",
+    "signal_ids": [
+     "f598ca32bf801b83"
+    ]
+   },
+   {
+    "text": "Caveat for the AE: this is the only signal. There is no funding event or new finance leader on record, so lead with a hypothesis about scaling spend and avoid presuming a known problem.",
+    "signal_ids": [
+     "f598ca32bf801b83"
+    ]
+   }
+  ],
+  "persona": {
+   "title": "Head of Finance",
+   "why": "This person owns card policy, expense workflows, AP and the close, which are the areas that strain as headcount and locations grow. If the title does not exist at a company of roughly 200-500 people, a Controller or VP Finance is the next best entry point."
+  },
+  "brief": "Rho is likely a financial services or fintech-style company with a treasury offering, though the industry is unconfirmed, and it appears to be roughly 200-500 people with about 48 open roles across several US cities and Belgrade. The likely spend pain is keeping card controls, receipt collection, bill pay and month-end close in step with fast hiring across locations. The talk track is to ask how finance handles spend visibility and close as the team grows, then show cards, expenses, bill pay and accounting automation in one workflow.",
+  "emails": [
+   {
+    "step": 1,
+    "subject": "Spend controls as Rho keeps hiring",
+    "body": "Hi,\n\nI noticed Rho has about 48 open roles across Austin, Belgrade, Boston, Los Angeles and Miami, including a Treasury Advisor listed Jul 13. Teams hiring across locations often find card policies and receipt chasing don't scale with headcount. We bring cards, expenses, bill pay and accounting automation into one place so finance keeps a real-time view of spend.\n\nWorth a 15 minute look?\n\n[Your name]",
+    "signal_ids": [
+     "f598ca32bf801b83"
+    ]
+   },
+   {
+    "step": 2,
+    "subject": "Month-end close and a growing team",
+    "body": "Hi,\n\nFollowing up on my note. With Rho adding a Treasury Advisor role (listed Jul 13) and more hiring behind it, I'd guess more spend is flowing through more hands. That can mean more missing receipts and manual coding at close. Our platform automates receipt capture and accounting sync so the close stays predictable. Happy to send a short walkthrough if that's easier than a call.\n\n[Your name]",
+    "signal_ids": [
+     "f598ca32bf801b83"
+    ]
+   },
+   {
+    "step": 3,
+    "subject": "Should I close the loop?",
+    "body": "Hi,\n\nLast note from me. Rho's Treasury Advisor listing from Jul 13 suggests the team is still growing, and spend processes tend to get harder to manage as that happens. If cards, expenses or bill pay are already handled, tell me and I'll stop. If not, who on the finance team would be best to talk to?\n\n[Your name]",
+    "signal_ids": [
+     "f598ca32bf801b83"
+    ]
+   }
+  ],
+  "company_id": "rho",
+  "signal_key": "f598ca32bf801b83",
+  "model": "claude-sonnet-5-5",
+  "written_at": "2026-11-27T05:18:20+00:00",
   "dropped_claims": 0
  },
  "rillet": {
@@ -2404,6 +2645,64 @@
   "signal_key": "d5684258df6c3fdd",
   "model": "claude-sonnet-5-5",
   "written_at": "2026-11-27T05:08:07+00:00",
+  "dropped_claims": 0
+ },
+ "ecolectro": {
+  "why_now": [
+   {
+    "text": "Ecolectro reported a Form D showing $6.0M raised of a $7.1M equity round, with first sale on Nov 12 and filing on Nov 24. Fresh capital usually means spend starts to grow and finance needs controls early.",
+    "signal_ids": [
+     "a4fb0bcd45dece85"
+    ]
+   },
+   {
+    "text": "The round looks to be about $1.1M short of its stated total, so the company may still be raising. Investor reporting and a clean view of spend tend to matter more in that period.",
+    "signal_ids": [
+     "a4fb0bcd45dece85"
+    ]
+   },
+   {
+    "text": "At roughly Series A stage, finance processes are often still run by hand through spreadsheets, shared cards and emailed receipts. A new raise is a natural moment to replace them before headcount grows.",
+    "signal_ids": [
+     "a4fb0bcd45dece85"
+    ]
+   }
+  ],
+  "persona": {
+   "title": "Head of Finance",
+   "why": "At a roughly Series A company there may be no CFO yet, so the senior finance owner likely handles cards, AP and close and would feel the benefit of one platform directly. A Controller or CFO is a good alternate if one exists."
+  },
+  "brief": "Ecolectro is an Ithaca, NY company in the broad 'Other Technology' category, and we are not sure exactly what it sells. With a Form D showing $6.0M raised, spend is likely about to rise while finance is still lean, which puts pressure on receipt chasing, manual bill pay and visibility into spend. The talk track is that the new capital is the right moment to set up cards, expense, bill pay and accounting automation in one place, so controls and a fast close scale without adding finance headcount.",
+  "emails": [
+   {
+    "step": 1,
+    "subject": "Setting up spend controls after the raise",
+    "body": "Hi,\n\nI saw Ecolectro filed a Form D showing $6.0M raised of a $7.1M round, with first sale on Nov 12. Growth money often means more cards, more vendors and more receipts landing on a small finance team.\n\nWe combine corporate cards, expense management, bill pay and accounting automation in one place, so spend stays visible and the close doesn't slow down.\n\nWorth a 15 minute look this week?\n\n[Your name]",
+    "signal_ids": [
+     "a4fb0bcd45dece85"
+    ]
+   },
+   {
+    "step": 2,
+    "subject": "Re: Setting up spend controls after the raise",
+    "body": "Hi,\n\nFollowing up on my note about Ecolectro's recent round. Teams at this stage often run on spreadsheets and emailed receipts, which gets harder as spending ramps after funding.\n\nI can show how cards, receipts and bill pay flow into the books automatically, without extra finance headcount.\n\nWould a short walkthrough be useful, or is someone else better to talk to?\n\n[Your name]",
+    "signal_ids": [
+     "a4fb0bcd45dece85"
+    ]
+   },
+   {
+    "step": 3,
+    "subject": "Close the loop?",
+    "body": "Hi,\n\nLast note from me. With Ecolectro's Form D filed on Nov 24, I assumed finance may be planning how to handle spend as the company grows.\n\nIf now isn't the time, no problem. If it helps, I can send a short overview of how teams set up cards and approval policies before headcount grows.\n\nShall I send it over?\n\n[Your name]",
+    "signal_ids": [
+     "a4fb0bcd45dece85"
+    ]
+   }
+  ],
+  "company_id": "ecolectro",
+  "signal_key": "a4fb0bcd45dece85",
+  "model": "claude-sonnet-5-5",
+  "written_at": "2026-11-27T05:18:33+00:00",
   "dropped_claims": 0
  },
  "endosure": {

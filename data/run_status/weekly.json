@@ -1,25 +1,19 @@
 {
  "workflow": "weekly-score-and-write",
  "status": "success",
- "finished_at": "2026-11-27T05:16:11+00:00",
+ "finished_at": "2026-11-27T05:18:33+00:00",
  "top": "100",
- "run_url": "https://github.com/arjuna2204/gtm-agent/actions/runs/45943081508",
+ "run_url": "https://github.com/arjuna2204/gtm-agent/actions/runs/45944899589",
  "log_tail": [
-  ".................",
+  "..................",
   "----------------------------------------------------------------------",
-  "Ran 17 tests in 0.007s",
+  "Ran 18 tests in 0.007s",
   "",
   "OK",
-  "  leader check failed for 57d4350d442d4ead: no JSON object in model output",
-  "Leader checks: 2 headlines checked",
+  "Leader checks: 1 headlines checked",
   "Scored 239 accounts with at least one timing signal",
-  "  write-up failed for finch-legal: Expecting ',' delimiter: line 1 column 2660 (char 2659)",
-  "  write-up failed for kura-oncology: Expecting ',' delimiter: line 1 column 971 (char 970)",
-  "  write-up failed for perpay: Expecting ',' delimiter: line 10 column 510 (char 2412)",
-  "  write-up failed for rho: Expecting ',' delimiter: line 1 column 2511 (char 2510)",
-  "  write-up failed for ecolectro: Expecting ',' delimiter: line 4 column 990 (char 2347)",
-  "Write-ups: 95 new, 95 total, 0 claims dropped by citation check",
-  "API calls: 102, approx cost $2.0687",
+  "Write-ups: 5 new, 100 total, 0 claims dropped by citation check",
+  "API calls: 6, approx cost $0.1477",
   "Exported 239 accounts to site/gtm/data/app.json"
  ]
 }

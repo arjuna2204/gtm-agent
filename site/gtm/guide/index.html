@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pipeline Scout · Guide</title>
+<meta name="description" content="How to use Pipeline Scout: describe your product, read the score, work an account, and a 30-minute weekly prospecting routine.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/gtm/assets/site.css">
+<style>
+.layout{display:grid;grid-template-columns:220px 1fr;gap:48px;padding:56px 0 80px}
+@media (max-width:900px){.layout{grid-template-columns:1fr}.toc{display:none}}
+.toc{position:sticky;top:88px;align-self:start;font-size:14px}
+.toc a{display:block;text-decoration:none;color:var(--body);padding:5px 0}.toc a:hover{color:var(--accent)}
+article section{padding:8px 0 40px;border-bottom:1px solid var(--line);margin-bottom:40px;scroll-margin-top:88px}
+article section:last-child{border-bottom:0}
+article h2{font-size:34px}
+article ol,article ul{padding-left:22px}article li{margin-bottom:8px}
+.example{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:12px 0;font-size:15px}
+.example .bad{color:var(--bad)}.example .good{color:var(--accent)}
+.day{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:14px 0;border-top:1px solid var(--line)}
+.day b{color:var(--ink)}
+@media (max-width:640px){.day{grid-template-columns:1fr;gap:4px}}
+code{background:var(--sand);padding:1px 6px;border-radius:6px;font-size:14px}
+</style>
+</head>
+<body>
+<header class="top"><nav>
+  <a class="logo" href="/gtm"><i>P</i>Pipeline Scout</a>
+  <div class="links"><a href="/gtm" class="hide-sm">Overview</a><a href="/gtm/app">Find accounts</a><a href="/gtm/guide" class="on">Guide</a></div>
+</nav></header>
+
+<main class="wrap"><div class="layout">
+<nav class="toc" aria-label="On this page">
+  <a href="#start">Quick start</a><a href="#product">Describe your product</a><a href="#buyer">Choose your buyer</a><a href="#score">Read the score</a>
+  <a href="#account">Work an account</a><a href="#routine">Weekly routine</a><a href="#own-key">Write-ups and API keys</a><a href="#share">Share and export</a>
+  <a href="#data">Data and limits</a><a href="#rules">Outreach ground rules</a><a href="#self-host">Run your own copy</a>
+</nav>
+<article>
+  <div class="eyebrow">Guide</div>
+  <h1 style="font-size:52px">How to use Pipeline Scout</h1>
+  <p class="lede">Five minutes to set up, about 30 minutes a week to run. Everything below works in the browser with no account.</p>
+
+  <section id="start">
+    <h2>Quick start</h2>
+    <ol>
+      <li><b style="color:var(--ink)">Open <a href="/gtm/app">Find accounts</a></b> and pick the starting template closest to what you sell, or choose <i>Custom product</i>.</li>
+      <li><b style="color:var(--ink)">Edit the product and buyer</b> so they match your real ideal customer, then press <i>Find accounts</i>. The list re-ranks instantly.</li>
+      <li><b style="color:var(--ink)">Open the top accounts</b>, check the sources, and press <i>Write brief and emails</i> to get a sourced draft you can edit and send.</li>
+    </ol>
+    <p>Your setup is saved in this browser, so next time you open the app it's ready to go.</p>
+  </section>
+
+  <section id="product">
+    <h2>Describe your product</h2>
+    <p>The product description does two jobs. The <b style="color:var(--ink)">buying team</b> decides which hiring counts as a signal. The <b style="color:var(--ink)">name, one-liner and problems</b> shape the drafted emails.</p>
+    <ul>
+      <li><b style="color:var(--ink)">What you sell:</b> a short category phrase, such as "an AP automation platform". It's used as "we sell…" in drafts.</li>
+      <li><b style="color:var(--ink)">One-line description:</b> what it does and the outcome. Be specific, but don't include numbers you can't back up. The writer is told never to invent results.</li>
+      <li><b style="color:var(--ink)">Who usually buys it:</b> 2 to 4 job titles. The draft picks one as the person to target.</li>
+      <li><b style="color:var(--ink)">Buying team:</b> the team whose growth creates the need. Spend tools: Finance. Dev tools: Engineering and Data. Payroll: People & HR and Finance. Pick one or two; picking everything makes every company look like a fit.</li>
+      <li><b style="color:var(--ink)">Problems it solves:</b> optional, but it makes drafts sharper. Use the words your customers use.</li>
+    </ul>
+    <div class="example"><div class="bad"><b>Too vague:</b> "Software that helps businesses grow."</div><div class="good" style="margin-top:6px"><b>Better:</b> "Automates invoice capture, approvals and vendor payments so finance teams stop keying bills by hand."</div></div>
+  </section>
+
+  <section id="buyer">
+    <h2>Choose your buyer</h2>
+    <ul>
+      <li><b style="color:var(--ink)">Company size:</b> estimated from the number of open roles or, when there's no job board, from the size of the raise. Pick the bands you actually close; none selected means any size.</li>
+      <li><b style="color:var(--ink)">Raised money within:</b> 90 days is a good default. New money gets spent fast, and the first 30 days are the strongest.</li>
+      <li><b style="color:var(--ink)">US states:</b> leave blank for the whole US, or enter state codes like <code>NY, NJ, CT</code> for a territory.</li>
+      <li><b style="color:var(--ink)">Must be hiring on the buying team:</b> turn this on for a short, high-intent list. Leave it off to also see companies that only just raised.</li>
+    </ul>
+  </section>
+
+  <section id="score">
+    <h2>Read the score</h2>
+    <p>Every company gets a score out of 100. Open an account to see the reason behind each part.</p>
+    <div class="card" style="padding:0;overflow-x:auto"><table><thead><tr><th>Part</th><th>Points</th><th>How it's earned</th></tr></thead><tbody>
+      <tr><td>Industry</td><td>15</td><td>In your chosen industry (or any, if none chosen). Unknown industry gets 8.</td></tr>
+      <tr><td>Size</td><td>15</td><td>In your size range 15, the next band over 8.</td></tr>
+      <tr><td>Region</td><td>10</td><td>US-based and in your chosen states.</td></tr>
+      <tr><td>Recent raise</td><td>20</td><td>Under 30 days 20, 30 to 90 days 14, older but in your window 6.</td></tr>
+      <tr><td>Hiring on the buying team</td><td>15</td><td>A key role open (a team leader, or the person who runs that team's tools and processes) 15. Any role on the team 8.</td></tr>
+      <tr><td>New finance leader</td><td>10</td><td>A new CFO or VP Finance in the last 120 days. Counts only when Finance is a buying team.</td></tr>
+      <tr><td>Signal strength</td><td>15</td><td>5 points for each independent signal type that lines up.</td></tr>
+    </tbody></table></div>
+    <p style="margin-top:16px"><b style="color:var(--ink)">How to use it:</b> 70 and up usually means a fresh raise plus hiring on your buying team. Work those first. 50 to 69 is worth a look. Below 50 is mostly fit with weak timing.</p>
+  </section>
+
+  <section id="account">
+    <h2>Work an account</h2>
+    <ol>
+      <li><b style="color:var(--ink)">Check the sources.</b> Click the filing, job post or article behind each signal. If a job is gone or the match looks wrong, move on.</li>
+      <li><b style="color:var(--ink)">Write the brief and emails.</b> The draft cites the signals it used. Anything it couldn't back up has already been removed.</li>
+      <li><b style="color:var(--ink)">Find the person yourself.</b> The draft names a job title. Look the person up on the company site or LinkedIn. Pipeline Scout doesn't collect personal contact details.</li>
+      <li><b style="color:var(--ink)">Make it yours.</b> Add the first name, one line only you could write (a mutual connection, a product detail), and your signature.</li>
+      <li><b style="color:var(--ink)">Send from your own tools</b> and log it in your CRM.</li>
+    </ol>
+  </section>
+
+  <section id="routine">
+    <h2>A 30-minute weekly routine</h2>
+    <p>Data refreshes every morning, so a weekly rhythm keeps your list current without living in the tool.</p>
+    <div class="day"><b>Monday, 15 min</b><span>Open the app. Sort by score. Pick the 10 accounts you'll work this week: the best scores with signals from the last 30 days. Export the CSV for your CRM.</span></div>
+    <div class="day"><b>Monday, 15 min</b><span>For each of the 10: check sources, write the brief and emails, find the person, personalize, and send email 1.</span></div>
+    <div class="day"><b>Thursday, 5 min</b><span>Send email 2 to anyone who hasn't replied. Check the app for big new signals (a raise this week) and add them to the list.</span></div>
+    <div class="day" style="border-bottom:1px solid var(--line)"><b>Next Monday</b><span>Send email 3 (the close-the-loop note) to last week's list, then pick the next 10.</span></div>
+    <p style="margin-top:16px"><b style="color:var(--ink)">For a team:</b> one person sets up the product and buyer and shares the link (see below). Split the top accounts by territory or alphabetically so nobody double-contacts.</p>
+  </section>
+
+  <section id="own-key">
+    <h2>Write-ups and API keys</h2>
+    <p>Ranking and research are free and unlimited. AI write-ups are free up to a few a day per visitor, with a daily cap across the site. For unlimited write-ups, use your own Anthropic API key:</p>
+    <ol>
+      <li>Create an account at <a href="https://console.anthropic.com" rel="noopener">console.anthropic.com</a> and add a small amount of credit under Billing. Each write-up costs a few cents.</li>
+      <li>Open <b style="color:var(--ink)">API Keys</b>, create a key, and copy it. It starts with <code>sk-ant-</code>.</li>
+      <li>Optional but smart: set a monthly spend limit under <b style="color:var(--ink)">Limits</b>.</li>
+      <li>In Pipeline Scout, open any account, expand <i>Use your own Anthropic API key</i>, paste it, and press <i>Use this key</i>.</li>
+    </ol>
+    <p>Your key stays in that browser tab only and is sent straight to Anthropic, never to this site's server. Closing the tab forgets it.</p>
+  </section>
+
+  <section id="share">
+    <h2>Share and export</h2>
+    <ul>
+      <li><b style="color:var(--ink)">Copy link to this search</b> creates a link with your product and buyer setup built in. Teammates who open it see the same ranking.</li>
+      <li><b style="color:var(--ink)">Export CSV</b> downloads every ranked account with its score and source links, ready to import into a CRM or spreadsheet.</li>
+      <li>Drafts you generate are saved in your browser, so reopening an account shows them again.</li>
+    </ul>
+  </section>
+
+  <section id="data">
+    <h2>Data and limits</h2>
+    <ul>
+      <li><b style="color:var(--ink)">Raises:</b> SEC Form D filings, which private US companies file within 15 days of a fundraise. Funds, real estate and raises under $1M are filtered out. Some companies never file, or file late.</li>
+      <li><b style="color:var(--ink)">Hiring:</b> public Greenhouse, Lever and Ashby job boards, classified into 10 teams. Companies on other job systems won't show hiring signals. Roles stop counting three weeks after they leave the board.</li>
+      <li><b style="color:var(--ink)">New leaders:</b> news headlines about new CFOs and VPs of Finance, each confirmed by Claude. Other kinds of leaders aren't tracked yet.</li>
+      <li><b style="color:var(--ink)">Estimates:</b> company size and stage are estimates and are always labelled that way.</li>
+      <li><b style="color:var(--ink)">Coverage:</b> US companies. This is a focused first pass, not a complete market map.</li>
+    </ul>
+  </section>
+
+  <section id="rules">
+    <h2>Outreach ground rules</h2>
+    <p>Pipeline Scout drafts; you're the sender. A few basics keep outreach effective and on the right side of email rules like CAN-SPAM (this isn't legal advice):</p>
+    <ul>
+      <li>Use honest subject lines and say who you are and where you work.</li>
+      <li>Include a simple way to opt out, and honor it.</li>
+      <li>Write to people about their role at their company, and keep the volume human. Don't blast the whole list.</li>
+      <li>Check every fact before you send it. The sources are one click away.</li>
+    </ul>
+  </section>
+
+  <section id="self-host">
+    <h2>Run your own copy</h2>
+    <p>The code is open at <a href="https://github.com/arjuna2204/gtm-agent">github.com/arjuna2204/gtm-agent</a>. To run it for your team:</p>
+    <ol>
+      <li>Fork the repository on GitHub.</li>
+      <li>In the fork's <b style="color:var(--ink)">Settings → Secrets and variables → Actions</b>, add <code>SEC_USER_AGENT</code> (your name and email, which the SEC requires) and <code>ANTHROPIC_API_KEY</code>.</li>
+      <li>Edit <code>config/profile.json</code> to describe your product for the weekly pre-written write-ups, and <code>data/seed_watchlist.csv</code> to add companies you already target.</li>
+      <li>In the <b style="color:var(--ink)">Actions</b> tab, enable workflows and run <i>collect-signals</i> once with 30 days, then <i>weekly-score-and-write</i>.</li>
+      <li>Import the repository into Vercel and add <code>ANTHROPIC_API_KEY</code> there too if you want the free write-up button. The site is served from <code>/gtm</code>.</li>
+    </ol>
+  </section>
+</article>
+</div></main>
+
+<footer class="site"><div class="wrap"><span>© Pipeline Scout</span><div><a href="/">Arjun Agarwal</a><a href="https://www.linkedin.com/in/arjun-agarwal22/">LinkedIn</a><a href="https://github.com/arjuna2204/gtm-agent">GitHub</a></div></div></footer>
+</body>
+</html>

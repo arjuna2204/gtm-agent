@@ -44,6 +44,49 @@ def classify_title(title):
     return ""
 
 
+# ---------------------------------------------------------------- hiring by team (any product)
+# Order matters: the first team whose pattern matches wins.
+TEAMS = [
+    ("legal", re.compile(r"\b(counsel|legal|paralegal|attorney|lawyer|contracts manager)\b", re.I)),
+    ("people", re.compile(r"\b(recruit\w*|talent|people|human resources|\bhr\b|hrbp|benefits|total rewards|"
+                          r"compensation|payroll)\b", re.I)),
+    ("security_it", re.compile(r"\b(security|ciso|\bit\b|information technology|helpdesk|help desk|"
+                               r"sysadmin|systems administrator|endpoint|identity|iam|grc)\b", re.I)),
+    ("data", re.compile(r"\b(data|analytics|machine learning|\bml\b|\bai\b|bi developer|business intelligence)\b", re.I)),
+    ("customer", re.compile(r"\b(customer success|customer support|support|implementation|onboarding|"
+                            r"customer experience|\bcx\b|solutions consultant|technical account manager)\b", re.I)),
+    ("sales", re.compile(r"\b(sales|account executive|\bae\b|business development|\bbdr\b|\bsdr\b|"
+                         r"partnerships?|account manager|revenue operations|revops|channel)\b", re.I)),
+    ("marketing", re.compile(r"\b(marketing|growth|demand gen\w*|brand|content|seo|communications|"
+                             r"\bpr\b|product marketing|lifecycle|social media|events)\b", re.I)),
+    ("engineering", re.compile(r"\b(engineer\w*|developer|\bsre\b|devops|platform|infrastructure|architect|"
+                               r"software|firmware|frontend|backend|full[- ]stack|mobile|qa)\b", re.I)),
+    ("operations", re.compile(r"\b(operations|bizops|business operations|strategy|chief of staff|"
+                              r"procurement|supply chain|logistics|facilities|workplace)\b", re.I)),
+]
+TEAM_LABELS = {"finance": "Finance", "sales": "Sales", "marketing": "Marketing", "engineering": "Engineering",
+               "data": "Data", "security_it": "Security & IT", "people": "People & HR", "customer": "Customer success",
+               "operations": "Operations", "legal": "Legal"}
+LEAD = re.compile(r"\b(head of|vp|v\.p\.|vice president|director|chief|lead|manager|principal|staff|founding|first)\b", re.I)
+TEAM_KEY = re.compile(r"\b(operations|ops|enablement|platform|infrastructure|devops|sre|security|people ops|"
+                      r"benefits|demand gen\w*|data engineer|analytics engineer|procurement)\b", re.I)
+
+
+def classify_team(title):
+    """Return (team, is_key_role) or (None, False). Key roles = leaders and the people who
+    run a team's tools and processes: the hires that come right before a team buys software."""
+    t = title or ""
+    if INTERN.search(t):
+        return None, False
+    fin = classify_title(t)
+    if fin:
+        return "finance", fin == "stack"
+    for team, pat in TEAMS:
+        if pat.search(t):
+            return team, bool(LEAD.search(t) or TEAM_KEY.search(t))
+    return None, False
+
+
 def _url(ats, slug):
     url = board_url(ats, slug)
     return url.replace("?content=true", "") if ats == "greenhouse" else url
@@ -112,17 +155,36 @@ def record_board(store, cid, ats, slug, jobs, today_iso):
     locs = [j["location"] for j in jobs if j.get("location")]
     if locs and not c.get("locations_sample"):
         c["locations_sample"] = sorted(set(locs))[:5]
-    stack, fin = hiring_summary(jobs)
-    new = 0
-    for j in stack + fin:
-        strength = "stack" if j in stack else "finance"
+    # Classify every open role by team. Keep all finance roles (the demo product's buyer) and, for other
+    # teams, up to 3 key roles (leaders, ops/platform owners) or 1 regular role, to keep the dataset small.
+    by_team, counts = {}, {}
+    for j in jobs:
+        team, key = classify_team(j["title"])
+        if not team:
+            continue
+        counts[team] = counts.get(team, 0) + 1
+        by_team.setdefault(team, []).append((j, key))
+    c["team_counts"] = counts
+    keep = []
+    for team, items in by_team.items():
+        if team == "finance":
+            keep += [(team, j, key) for j, key in items]
+            continue
+        keys = [(team, j, True) for j, key in items if key][:3]
+        keep += keys or [(team, items[0][0], False)]
+    new = n_stack = n_fin = 0
+    for team, j, key in keep:
+        role_class = ("stack" if key else "finance") if team == "finance" else ""
+        n_stack += role_class == "stack"
+        n_fin += role_class == "finance"
         posted = (j.get("posted") or "")[:10] or today_iso
         _s, is_new = store.add_signal(
             cid, "hiring", j["id"], posted, f"Hiring: {j['title']}", j.get("url") or c["board_url"],
             detail=f"{j.get('location') or 'location n/a'}; {j.get('department') or 'team n/a'}",
-            data={"role_class": strength, "title": j["title"], "ats": ats, "job_id": j["id"]})
+            data={"role_class": role_class, "team": team, "key": key, "title": j["title"], "ats": ats,
+                  "job_id": j["id"]})
         new += is_new
-    return len(stack), len(fin), new
+    return n_stack, n_fin, new
 
 
 def collect(store, seed_rows, max_detect=150, today_iso="", log=print):

@@ -1,6 +1,0 @@
-{
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "redirects": [{ "source": "/", "destination": "/gtm", "permanent": false }],
-  "headers": [{ "source": "/gtm/data/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=300" }] }]
-}

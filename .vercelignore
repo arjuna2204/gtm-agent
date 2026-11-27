@@ -1,0 +1,6 @@
+data/
+tests/
+scout/
+config/
+*.py
+.github/

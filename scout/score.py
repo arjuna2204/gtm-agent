@@ -16,6 +16,7 @@ from datetime import date, datetime, timedelta
 from .store import DATA, ROOT
 
 BANDS = ["under 50", "50-200", "200-500", "500+"]
+STAGE_TO_BAND = {"Seed": "under 50", "Series A": "50-200", "Series B": "50-200", "Series C+": "200-500"}
 US_STATES = set("AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY "
                 "NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY".split())
 US_LOC = re.compile(r"\b(united states|usa|u\.s\.|remote[ -]?(us|usa)|new york|san francisco|los angeles|chicago|boston|"
@@ -48,11 +49,13 @@ def score_company(c, sigs, profile, today=None):
     else:
         parts["industry"], reasons["industry"] = 0, f"{ind} is outside the target industries"
 
-    size = c.get("size_est", "")
+    size, how = c.get("size_est", ""), "estimated from open roles"
+    if not size and c.get("stage_est") in STAGE_TO_BAND:
+        size, how = STAGE_TO_BAND[c["stage_est"]], "estimated from raise size"
     if size in buyer["size_bands"]:
-        parts["size"], reasons["size"] = 15, f"About {size} people (estimated from open roles)"
+        parts["size"], reasons["size"] = 15, f"About {size} people ({how})"
     elif size and any(abs(BANDS.index(size) - BANDS.index(b)) == 1 for b in buyer["size_bands"] if size in BANDS):
-        parts["size"], reasons["size"] = 8, f"About {size} people, next to the target range (estimate)"
+        parts["size"], reasons["size"] = 8, f"About {size} people, next to the target range ({how})"
     else:
         parts["size"], reasons["size"] = 0, "Size unknown or outside range"
 

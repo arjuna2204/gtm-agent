@@ -2,7 +2,7 @@
 
 An AI agent that finds companies that need a product **this week**, shows why with sourced signals, and drafts the outreach.
 
-Built by Arjun Agarwal as a demo of how I'd build pipeline in a GTM role. Live at iamarjunagarwal.com/gtm (coming soon).
+Built by Arjun Agarwal as a demo of how I'd build pipeline in a GTM role. Live at [iamarjunagarwal.com/gtm](https://iamarjunagarwal.com/gtm). How to use it: [the guide](https://iamarjunagarwal.com/gtm/guide).
 
 ## How it works
 

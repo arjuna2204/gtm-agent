@@ -84,6 +84,18 @@ class TestATS(unittest.TestCase):
         for title, want in cases.items():
             self.assertEqual(ats.classify_title(title), want, title)
 
+    def test_teams(self):
+        cases = {"Controller": ("finance", True), "Staff Accountant": ("finance", False),
+                 "VP of Sales": ("sales", True), "Account Executive": ("sales", False),
+                 "Senior Software Engineer": ("engineering", False), "Head of Platform Engineering": ("engineering", True),
+                 "Director, Demand Generation": ("marketing", True), "Recruiter": ("people", False),
+                 "Head of People": ("people", True), "Security Engineer": ("security_it", True),
+                 "Data Engineer": ("data", True), "Customer Success Manager": ("customer", True),
+                 "General Counsel": ("legal", False), "Sales Engineer": ("sales", False),
+                 "Software Engineering Intern": (None, False), "Chef": (None, False)}
+        for title, want in cases.items():
+            self.assertEqual(ats.classify_team(title), want, title)
+
     def test_slugs(self):
         self.assertEqual(ats.candidate_slugs("Ledgerly, Inc.", strict=True), ["ledgerly"])
         self.assertEqual(ats.candidate_slugs("Northwind Robotics Inc", strict=True), ["northwindrobotics", "northwind-robotics"])
@@ -98,12 +110,14 @@ class TestATS(unittest.TestCase):
             s = Store(tmp)
             s.upsert_company("Ledgerly, Inc.")
             n_stack, n_fin, new = ats.record_board(s, "ledgerly", "ashby", "ledgerly", jobs, "2026-11-26")
-            self.assertEqual((n_stack, n_fin, new), (1, 0, 1))
+            self.assertEqual((n_stack, n_fin, new), (1, 0, 2))
             c = s.companies["ledgerly"]
             self.assertEqual((c["open_roles"], c["size_est"]), (2, "under 50"))
-            sig = s.signals_for("ledgerly", "hiring")[0]
+            sig = [x for x in s.signals_for("ledgerly", "hiring") if x["data"]["team"] == "finance"][0]
             self.assertEqual(sig["date"], "2026-11-20")
             self.assertEqual(sig["data"]["role_class"], "stack")
+            self.assertEqual(sig["data"]["team"], "finance")
+            self.assertEqual(c["team_counts"], {"finance": 1, "engineering": 1})
 
 
 class TestNews(unittest.TestCase):

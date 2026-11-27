@@ -1,0 +1,11 @@
+Description:           Daily Index of EDGAR Dissemination Feed by Form Type
+Last Data Received:    November 24, 2026
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+
+Form Type   Company Name                                                  CIK         Date Filed  File Name
+---------------------------------------------------------------------------------------------------------------------------------------------
+10-Q        ACME INDUSTRIES INC                                           1000001     20261124    edgar/data/1000001/0001000001-26-000010.txt
+D           Ledgerly, Inc.                                                1987654     20261124    edgar/data/1987654/0001987654-26-000001.txt
+D           Blue Harbor Fund II, L.P.                                     1987655     20261124    edgar/data/1987655/0001987655-26-000001.txt
+D/A         Old Startup Inc                                               1887656     20261124    edgar/data/1887656/0001887656-26-000002.txt

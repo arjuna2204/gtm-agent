@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+  <schemaVersion>X0708</schemaVersion>
+  <submissionType>D</submissionType>
+  <testOrLive>LIVE</testOrLive>
+  <primaryIssuer>
+    <cik>0001987654</cik>
+    <entityName>Ledgerly, Inc.</entityName>
+    <issuerAddress>
+      <street1>100 Broadway</street1>
+      <city>NEW YORK</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <stateOrCountryDescription>NEW YORK</stateOrCountryDescription>
+      <zipCode>10005</zipCode>
+    </issuerAddress>
+    <issuerPhoneNumber>2125550100</issuerPhoneNumber>
+    <jurisdictionOfInc>DELAWARE</jurisdictionOfInc>
+    <issuerPreviousNameList><value>None</value></issuerPreviousNameList>
+    <edgarPreviousNameList><value>None</value></edgarPreviousNameList>
+    <entityType>Corporation</entityType>
+    <yearOfInc><withinFiveYears>true</withinFiveYears><value>2023</value></yearOfInc>
+  </primaryIssuer>
+  <relatedPersonsList>
+    <relatedPersonInfo>
+      <relatedPersonName><firstName>Dana</firstName><lastName>Example</lastName></relatedPersonName>
+      <relatedPersonRelationshipList><relationship>Executive Officer</relationship><relationship>Director</relationship></relatedPersonRelationshipList>
+      <relationshipClarification>CEO</relationshipClarification>
+    </relatedPersonInfo>
+  </relatedPersonsList>
+  <offeringData>
+    <industryGroup><industryGroupType>Other Technology</industryGroupType></industryGroup>
+    <issuerSize><revenueRange>Decline to Disclose</revenueRange></issuerSize>
+    <federalExemptionsExclusions><item>06b</item></federalExemptionsExclusions>
+    <typeOfFiling>
+      <newOrAmendment><isAmendment>false</isAmendment></newOrAmendment>
+      <dateOfFirstSale><value>2026-11-12</value></dateOfFirstSale>
+    </typeOfFiling>
+    <durationOfOffering><moreThanOneYear>false</moreThanOneYear></durationOfOffering>
+    <typesOfSecuritiesOffered><isEquityType>true</isEquityType><isPooledInvestmentFundType>false</isPooledInvestmentFundType></typesOfSecuritiesOffered>
+    <offeringSalesAmounts>
+      <totalOfferingAmount>25000000</totalOfferingAmount>
+      <totalAmountSold>22500000</totalAmountSold>
+      <totalRemaining>2500000</totalRemaining>
+    </offeringSalesAmounts>
+  </offeringData>
+</edgarSubmission>

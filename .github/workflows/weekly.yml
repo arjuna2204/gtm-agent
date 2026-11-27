@@ -41,11 +41,14 @@ jobs:
           else
             python -m scout.weekly --top "${{ inputs.top || '100' }}"
           fi
+      - name: Export site data
+        run: python -m scout.export
+
       - name: Commit data
         run: |
           git config user.name "pipeline-scout-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/
+          git add data/ site/gtm/data/
           git diff --cached --quiet || git commit -m "data: weekly scores and write-ups $(date -u +%F)"
           git pull --rebase
           git push

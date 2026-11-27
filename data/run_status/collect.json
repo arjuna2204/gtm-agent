@@ -1,13 +1,13 @@
 {
  "workflow": "collect-signals",
  "status": "success",
- "finished_at": "2026-11-27T18:47:24+00:00",
+ "finished_at": "2026-11-27T19:34:03+00:00",
  "days": "5",
- "run_url": "https://github.com/arjuna2204/gtm-agent/actions/runs/46051720101",
+ "run_url": "https://github.com/arjuna2204/gtm-agent/actions/runs/46057335979",
  "log_tail": [
-  "...................",
+  "....................",
   "----------------------------------------------------------------------",
-  "Ran 19 tests in 0.010s",
+  "Ran 20 tests in 0.008s",
   "",
   "OK",
   "  index 2026-11-26: HTTP 403",
@@ -16,9 +16,9 @@
   "  index 2026-11-23: 158 Form D filings",
   "  index 2026-11-20: 155 Form D filings",
   "Form D: 683 filings scanned, 96 operating companies kept, 0 new raise signals",
-  "Job boards: 193 seed boards polled, 0 new boards found for Form D companies, 1502 new hiring signals",
-  "News: 150 companies checked, 84 new finance-leader signals",
-  "{\"run_at\": \"2026-11-27\", \"seconds\": 155, \"companies\": 351, \"companies_with_signals\": 330, \"signals\": {\"hiring\": 1834, \"raise\": 162, \"leader\": 86}}",
-  "Exported 330 companies (954 KB) to site/gtm/data/app.json"
+  "Job boards: 193 seed boards polled, 0 new boards found for Form D companies, 15 new hiring signals",
+  "News: 150 companies checked, 7 new finance-leader signals",
+  "{\"run_at\": \"2026-11-27\", \"seconds\": 129, \"companies\": 351, \"companies_with_signals\": 330, \"signals\": {\"hiring\": 1849, \"leader\": 93, \"raise\": 162}}",
+  "Exported 330 companies (958 KB) to site/gtm/data/app.json"
  ]
 }

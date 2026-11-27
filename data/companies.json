@@ -20,7 +20,7 @@
    "finance": 1,
    "marketing": 4
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "addepar1": {
   "ats": "greenhouse",
@@ -53,7 +53,7 @@
    "sales": 12,
    "security_it": 3
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "addition-wealth": {
   "ats": "lever",
@@ -78,7 +78,7 @@
   "team_counts": {
    "engineering": 1
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "affirm": {
   "ats": "greenhouse",
@@ -112,7 +112,7 @@
    "sales": 7,
    "security_it": 17
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "after-services": {
   "ats_checked": "2026-11-27",
@@ -130,7 +130,7 @@
   ],
   "stage_est": "Seed",
   "state": "UT",
-  "updated": "2026-11-27T18:44:59+00:00"
+  "updated": "2026-11-27T19:32:23+00:00"
  },
  "agnitioai-technologies": {
   "ats_checked": "2026-11-27",
@@ -148,7 +148,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:44:51+00:00",
+  "updated": "2026-11-27T19:32:00+00:00",
   "year_of_inc": "2024"
  },
  "airwallex": {
@@ -158,7 +158,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "allica-bank": {
   "ats": "ashby",
@@ -187,7 +187,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "alljoined": {
   "ats": "ashby",
@@ -213,7 +213,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T18:45:09+00:00",
+  "updated": "2026-11-27T19:32:40+00:00",
   "year_of_inc": "2023"
  },
  "alloy": {
@@ -239,12 +239,12 @@
   "team_counts": {
    "customer": 2,
    "data": 3,
-   "engineering": 11,
-   "operations": 1,
+   "engineering": 10,
+   "operations": 2,
    "sales": 6,
    "security_it": 4
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "alpaca": {
   "ats": "greenhouse",
@@ -276,7 +276,7 @@
    "sales": 1,
    "security_it": 6
   },
-  "updated": "2026-11-27T18:45:27+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "alphasense": {
   "ats": "greenhouse",
@@ -310,7 +310,7 @@
    "sales": 54,
    "security_it": 7
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "altido-therapeutics": {
   "ats_checked": "2026-11-27",
@@ -328,7 +328,7 @@
   ],
   "stage_est": "Series B",
   "state": "MA",
-  "updated": "2026-11-27T18:45:09+00:00",
+  "updated": "2026-11-27T19:32:41+00:00",
   "year_of_inc": "2024"
  },
  "altruist": {
@@ -359,7 +359,7 @@
    "sales": 9,
    "security_it": 7
   },
-  "updated": "2026-11-27T18:45:27+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "ampera-inc-ga": {
   "ats_checked": "2026-11-27",
@@ -377,7 +377,7 @@
   ],
   "stage_est": "Seed",
   "state": "GA",
-  "updated": "2026-11-27T18:45:19+00:00",
+  "updated": "2026-11-27T19:32:50+00:00",
   "year_of_inc": "2026"
  },
  "amperage-infrastructure": {
@@ -426,7 +426,7 @@
    "operations": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:32+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "ansa-biotechnologies": {
   "ats": "greenhouse",
@@ -485,7 +485,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "apex-er-iii": {
   "ats_checked": "2026-11-27",
@@ -522,7 +522,7 @@
   ],
   "stage_est": "Seed",
   "state": "FL",
-  "updated": "2026-11-27T18:45:09+00:00",
+  "updated": "2026-11-27T19:32:41+00:00",
   "year_of_inc": "2023"
  },
  "apri-foundation": {
@@ -560,7 +560,7 @@
   ],
   "stage_est": "Seed",
   "state": "WA",
-  "updated": "2026-11-27T18:44:51+00:00"
+  "updated": "2026-11-27T19:32:00+00:00"
  },
  "arbor-realty": {
   "ats": "ashby",
@@ -581,7 +581,7 @@
   "team_counts": {
    "engineering": 1
   },
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "arca": {
   "ats": "ashby",
@@ -605,7 +605,7 @@
    "marketing": 4,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "arch": {
   "ats": "ashby",
@@ -628,7 +628,7 @@
    "engineering": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "arena-investors": {
   "ats": "ashby",
@@ -655,7 +655,7 @@
    "people": 2,
    "security_it": 4
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "arriba-foods": {
   "ats_checked": "2026-11-27",
@@ -702,7 +702,7 @@
    "operations": 3,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:27+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "attain": {
   "ats": "greenhouse",
@@ -732,7 +732,7 @@
    "people": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "aurary-lab": {
   "ats_checked": "2026-11-27",
@@ -750,7 +750,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:45:10+00:00",
+  "updated": "2026-11-27T19:32:41+00:00",
   "year_of_inc": "2026"
  },
  "baron-capital": {
@@ -773,7 +773,7 @@
    "marketing": 1,
    "operations": 1
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "baryons": {
   "ats_checked": "2026-11-27",
@@ -821,7 +821,7 @@
    "sales": 5,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "bebemos": {
   "ats_checked": "2026-11-27",
@@ -839,7 +839,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T18:45:00+00:00",
+  "updated": "2026-11-27T19:32:24+00:00",
   "year_of_inc": "2024"
  },
  "betterment": {
@@ -868,7 +868,7 @@
    "sales": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:26+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "blend": {
   "ats": "greenhouse",
@@ -895,7 +895,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "blitzoo": {
   "ats_checked": "2026-11-27",
@@ -913,7 +913,7 @@
   ],
   "stage_est": "Series A",
   "state": "MN",
-  "updated": "2026-11-27T18:45:19+00:00",
+  "updated": "2026-11-27T19:32:51+00:00",
   "year_of_inc": "2024"
  },
  "blockworks": {
@@ -938,7 +938,7 @@
    "data": 1,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "bloom-surgical": {
   "ats_checked": "2026-11-27",
@@ -956,7 +956,7 @@
   ],
   "stage_est": "Seed",
   "state": "UT",
-  "updated": "2026-11-27T18:44:51+00:00"
+  "updated": "2026-11-27T19:32:02+00:00"
  },
  "brex": {
   "ats": "greenhouse",
@@ -990,7 +990,7 @@
    "sales": 54,
    "security_it": 9
   },
-  "updated": "2026-11-27T18:45:25+00:00"
+  "updated": "2026-11-27T19:33:00+00:00"
  },
  "bridgewater-associates": {
   "ats": "greenhouse",
@@ -1017,7 +1017,7 @@
    "operations": 2,
    "people": 2
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "brightai": {
   "ats": "greenhouse",
@@ -1046,7 +1046,7 @@
   ],
   "stage_est": "Series C+",
   "state": "CA",
-  "updated": "2026-11-27T18:45:19+00:00"
+  "updated": "2026-11-27T19:32:51+00:00"
  },
  "brigit": {
   "ats": "ashby",
@@ -1075,7 +1075,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:42+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "broccoli-intelligence": {
   "ats_checked": "2026-11-27",
@@ -1109,7 +1109,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "cais": {
   "ats": "greenhouse",
@@ -1140,7 +1140,7 @@
    "sales": 1,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "campfire": {
   "ats": "ashby",
@@ -1173,7 +1173,7 @@
    "sales": 14,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:32+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "capchase": {
   "ats": "ashby",
@@ -1201,7 +1201,7 @@
    "operations": 3,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "capi-money": {
   "first_seen": "2026-11-27T04:43:09+00:00",
@@ -1210,7 +1210,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "capital-on-tap": {
   "ats": "greenhouse",
@@ -1239,7 +1239,7 @@
    "operations": 2,
    "sales": 5
   },
-  "updated": "2026-11-27T18:45:39+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "carta": {
   "ats": "greenhouse",
@@ -1271,7 +1271,7 @@
    "people": 1,
    "sales": 13
   },
-  "updated": "2026-11-27T18:45:26+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "cega-innovations": {
   "ats_checked": "2026-11-27",
@@ -1307,7 +1307,7 @@
   ],
   "stage_est": "Series A",
   "state": "FL",
-  "updated": "2026-11-27T18:44:52+00:00",
+  "updated": "2026-11-27T19:32:02+00:00",
   "year_of_inc": "2022"
  },
  "chainalysis-careers": {
@@ -1340,7 +1340,7 @@
    "sales": 9,
    "security_it": 3
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "checkout-com": {
   "ats": "ashby",
@@ -1365,16 +1365,16 @@
   "team_counts": {
    "customer": 7,
    "data": 5,
-   "engineering": 26,
+   "engineering": 25,
    "finance": 7,
    "legal": 8,
    "marketing": 12,
-   "operations": 6,
+   "operations": 7,
    "people": 9,
    "sales": 21,
    "security_it": 6
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "chime": {
   "ats": "greenhouse",
@@ -1406,7 +1406,7 @@
    "people": 4,
    "security_it": 4
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "chronograph": {
   "ats": "greenhouse",
@@ -1433,7 +1433,7 @@
    "engineering": 1,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "city-light-studios": {
   "ats_checked": "2026-11-27",
@@ -1451,7 +1451,7 @@
   ],
   "stage_est": "Series A",
   "state": "MD",
-  "updated": "2026-11-27T18:45:11+00:00",
+  "updated": "2026-11-27T19:32:43+00:00",
   "year_of_inc": "2026"
  },
  "claria-medical": {
@@ -1470,7 +1470,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T18:45:00+00:00"
+  "updated": "2026-11-27T19:32:26+00:00"
  },
  "clear-street": {
   "ats": "greenhouse",
@@ -1501,7 +1501,7 @@
    "operations": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "clearwater-analytics": {
   "ats": "greenhouse",
@@ -1526,7 +1526,7 @@
   "team_counts": {
    "engineering": 8
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "cleo": {
   "ats": "greenhouse",
@@ -1555,7 +1555,7 @@
    "sales": 5,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:35+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  },
  "climate-scale": {
   "ats_checked": "2026-11-27",
@@ -1573,7 +1573,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:45:11+00:00",
+  "updated": "2026-11-27T19:32:43+00:00",
   "year_of_inc": "2024"
  },
  "clubhouse-ctv": {
@@ -1592,7 +1592,7 @@
   ],
   "stage_est": "Seed",
   "state": "NC",
-  "updated": "2026-11-27T18:45:11+00:00",
+  "updated": "2026-11-27T19:32:42+00:00",
   "year_of_inc": "2026"
  },
  "coinbase": {
@@ -1627,7 +1627,7 @@
    "sales": 8,
    "security_it": 15
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "coinflow": {
   "ats": "ashby",
@@ -1654,7 +1654,7 @@
    "operations": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:38+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "column": {
   "ats": "ashby",
@@ -1684,7 +1684,7 @@
    "operations": 3,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:27+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "compact-medical": {
   "ats_checked": "2026-11-27",
@@ -1702,7 +1702,7 @@
   ],
   "stage_est": "Seed",
   "state": "IN",
-  "updated": "2026-11-27T18:45:20+00:00",
+  "updated": "2026-11-27T19:32:51+00:00",
   "year_of_inc": "2021"
  },
  "compound-planning": {
@@ -1725,7 +1725,7 @@
    "marketing": 1,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "coral-mountain-opco": {
   "ats_checked": "2026-11-27",
@@ -1743,7 +1743,7 @@
   ],
   "stage_est": "Series C+",
   "state": "CA",
-  "updated": "2026-11-27T18:45:11+00:00",
+  "updated": "2026-11-27T19:32:43+00:00",
   "year_of_inc": "2026"
  },
  "corvita": {
@@ -1762,7 +1762,7 @@
   ],
   "stage_est": "Seed",
   "state": "OH",
-  "updated": "2026-11-27T18:45:01+00:00",
+  "updated": "2026-11-27T19:32:27+00:00",
   "year_of_inc": "2024"
  },
  "cosmoserve-space": {
@@ -1800,7 +1800,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:44:52+00:00",
+  "updated": "2026-11-27T19:32:03+00:00",
   "year_of_inc": "2026"
  },
  "crypto-insights-group": {
@@ -1842,7 +1842,7 @@
    "engineering": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "custom-trucks-nw": {
   "ats_checked": "2026-11-27",
@@ -1887,7 +1887,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T18:45:11+00:00"
+  "updated": "2026-11-27T19:32:43+00:00"
  },
  "dandy": {
   "ats": "ashby",
@@ -1920,7 +1920,7 @@
    "people": 1,
    "sales": 29
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "dave": {
   "ats": "ashby",
@@ -1943,7 +1943,7 @@
    "engineering": 1,
    "legal": 2
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "deel": {
   "ats": "ashby",
@@ -1958,7 +1958,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "deep-cogito": {
   "ats_checked": "2026-11-27",
@@ -1976,7 +1976,7 @@
   ],
   "stage_est": "Series C+",
   "state": "CA",
-  "updated": "2026-11-27T18:45:12+00:00",
+  "updated": "2026-11-27T19:32:43+00:00",
   "year_of_inc": "2024"
  },
  "deepsigma": {
@@ -1995,7 +1995,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T18:44:52+00:00",
+  "updated": "2026-11-27T19:32:04+00:00",
   "year_of_inc": "2026"
  },
  "doctome": {
@@ -2014,7 +2014,7 @@
   ],
   "stage_est": "Series A",
   "state": "WA",
-  "updated": "2026-11-27T18:45:01+00:00"
+  "updated": "2026-11-27T19:32:28+00:00"
  },
  "ducera-partners": {
   "ats": "greenhouse",
@@ -2034,7 +2034,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "dune-research": {
   "ats_checked": "2026-11-27",
@@ -2052,7 +2052,7 @@
   ],
   "stage_est": "Series B",
   "state": "CA",
-  "updated": "2026-11-27T18:45:01+00:00",
+  "updated": "2026-11-27T19:32:28+00:00",
   "year_of_inc": "2026"
  },
  "eagle-point-credit": {
@@ -2075,7 +2075,7 @@
    "engineering": 3,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "earthx": {
   "ats_checked": "2026-11-27",
@@ -2127,7 +2127,7 @@
    "sales": 50,
    "security_it": 9
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  },
  "ecolectro": {
   "ats_checked": "2026-11-27",
@@ -2145,7 +2145,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T18:45:01+00:00"
+  "updated": "2026-11-27T19:32:28+00:00"
  },
  "eliseai": {
   "ats": "ashby",
@@ -2179,7 +2179,7 @@
    "sales": 22,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "elligint-health": {
   "ats": "greenhouse",
@@ -2236,7 +2236,7 @@
    "sales": 5,
    "security_it": 4
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "endosure": {
   "ats_checked": "2026-11-27",
@@ -2281,7 +2281,7 @@
    "engineering": 3,
    "finance": 1
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "ennabl": {
   "ats_checked": "2026-11-27",
@@ -2299,7 +2299,7 @@
   ],
   "stage_est": "Seed",
   "state": "CT",
-  "updated": "2026-11-27T18:45:20+00:00"
+  "updated": "2026-11-27T19:32:52+00:00"
  },
  "epb-ii": {
   "ats_checked": "2026-11-27",
@@ -2374,7 +2374,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:44:53+00:00",
+  "updated": "2026-11-27T19:32:05+00:00",
   "year_of_inc": "2024"
  },
  "ethic": {
@@ -2393,7 +2393,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "evervault": {
   "ats": "ashby",
@@ -2418,7 +2418,7 @@
    "sales": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "exponential-platform": {
   "ats_checked": "2026-11-27",
@@ -2436,7 +2436,7 @@
   ],
   "stage_est": "Series A",
   "state": "NJ",
-  "updated": "2026-11-27T18:44:53+00:00",
+  "updated": "2026-11-27T19:32:05+00:00",
   "year_of_inc": "2024"
  },
  "extend-enterprises": {
@@ -2470,7 +2470,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "fairground-labs": {
   "ats": "ashby",
@@ -2496,7 +2496,7 @@
    "operations": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "fanaty": {
   "ats_checked": "2026-11-27",
@@ -2532,7 +2532,7 @@
   ],
   "stage_est": "Series C+",
   "state": "GA",
-  "updated": "2026-11-27T18:45:12+00:00",
+  "updated": "2026-11-27T19:32:44+00:00",
   "year_of_inc": "2026"
  },
  "feedback-technologies": {
@@ -2551,7 +2551,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:45:12+00:00",
+  "updated": "2026-11-27T19:32:44+00:00",
   "year_of_inc": "2026"
  },
  "figure": {
@@ -2584,7 +2584,7 @@
    "people": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "finch-legal": {
   "ats": "ashby",
@@ -2642,7 +2642,7 @@
    "sales": 7,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "flex": {
   "ats": "greenhouse",
@@ -2674,7 +2674,7 @@
    "people": 1,
    "sales": 7
   },
-  "updated": "2026-11-27T18:45:39+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "flipturn": {
   "ats": "ashby",
@@ -2697,7 +2697,7 @@
    "engineering": 1,
    "marketing": 1
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "flo-technology": {
   "ats_checked": "2026-11-27",
@@ -2715,7 +2715,7 @@
   ],
   "stage_est": "Seed",
   "state": "NV",
-  "updated": "2026-11-27T18:45:13+00:00",
+  "updated": "2026-11-27T19:32:44+00:00",
   "year_of_inc": "2023"
  },
  "flourish": {
@@ -2741,7 +2741,7 @@
    "finance": 3,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "focus-financial": {
   "ats": "ashby",
@@ -2763,7 +2763,7 @@
    "engineering": 1,
    "people": 2
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "fortitude-gold": {
   "ats_checked": "2026-11-27",
@@ -2781,7 +2781,7 @@
   ],
   "stage_est": "Series A",
   "state": "CO",
-  "updated": "2026-11-27T18:45:02+00:00"
+  "updated": "2026-11-27T19:32:29+00:00"
  },
  "fortress-investment-group": {
   "first_seen": "2026-11-27T04:43:13+00:00",
@@ -2790,7 +2790,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "forward-financing": {
   "ats": "ashby",
@@ -2820,7 +2820,7 @@
    "sales": 7,
    "security_it": 9
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "fourth-day-broadway": {
   "ats_checked": "2026-11-27",
@@ -2838,7 +2838,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T18:45:13+00:00",
+  "updated": "2026-11-27T19:32:44+00:00",
   "year_of_inc": "2026"
  },
  "freemarket": {
@@ -2848,7 +2848,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T18:45:39+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "freetrade": {
   "ats": "ashby",
@@ -2872,7 +2872,7 @@
    "marketing": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:35+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  },
  "from-the-farm": {
   "ats_checked": "2026-11-27",
@@ -2890,7 +2890,7 @@
   ],
   "stage_est": "Seed",
   "state": "DE",
-  "updated": "2026-11-27T18:45:02+00:00",
+  "updated": "2026-11-27T19:32:30+00:00",
   "year_of_inc": "2026"
  },
  "frontrace": {
@@ -2909,7 +2909,7 @@
   ],
   "stage_est": "Series A",
   "state": "FL",
-  "updated": "2026-11-27T18:45:13+00:00",
+  "updated": "2026-11-27T19:32:45+00:00",
   "year_of_inc": "2024"
  },
  "ft-partners": {
@@ -2938,7 +2938,7 @@
    "people": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:38+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "fundingcircle": {
   "ats": "ashby",
@@ -2963,7 +2963,7 @@
    "operations": 1,
    "sales": 5
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "fundrise": {
   "ats": "lever",
@@ -2984,7 +2984,7 @@
   "team_counts": {
    "data": 1
   },
-  "updated": "2026-11-27T18:45:27+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "fynancial": {
   "ats_checked": "2026-11-27",
@@ -3002,7 +3002,7 @@
   ],
   "stage_est": "Series A",
   "state": "KY",
-  "updated": "2026-11-27T18:44:53+00:00",
+  "updated": "2026-11-27T19:32:06+00:00",
   "year_of_inc": "2026"
  },
  "galvanize-therapeutics": {
@@ -3069,7 +3069,7 @@
    "sales": 1,
    "security_it": 3
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "general-inference": {
   "ats_checked": "2026-11-27",
@@ -3087,7 +3087,7 @@
   ],
   "stage_est": "Series A",
   "state": "DE",
-  "updated": "2026-11-27T18:45:20+00:00",
+  "updated": "2026-11-27T19:32:52+00:00",
   "year_of_inc": "2026"
  },
  "generate-capital": {
@@ -3117,7 +3117,7 @@
    "people": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "glasshat-ai": {
   "ats_checked": "2026-11-27",
@@ -3167,7 +3167,7 @@
    "operations": 3,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "gradies": {
   "ats_checked": "2026-11-27",
@@ -3185,7 +3185,7 @@
   ],
   "stage_est": "Seed",
   "state": "NJ",
-  "updated": "2026-11-27T18:45:02+00:00",
+  "updated": "2026-11-27T19:32:31+00:00",
   "year_of_inc": "2026"
  },
  "grittgene-therapeutics": {
@@ -3204,7 +3204,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:44:54+00:00",
+  "updated": "2026-11-27T19:32:07+00:00",
   "year_of_inc": "2022"
  },
  "guidepoint": {
@@ -3237,7 +3237,7 @@
    "sales": 8,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "gusto": {
   "ats": "greenhouse",
@@ -3263,15 +3263,15 @@
    "customer": 3,
    "data": 10,
    "engineering": 22,
-   "finance": 3,
+   "finance": 2,
    "legal": 3,
    "marketing": 6,
    "operations": 1,
-   "people": 11,
+   "people": 12,
    "sales": 11,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "hanover-park": {
   "ats": "ashby",
@@ -3296,7 +3296,7 @@
    "people": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "highbeam": {
   "ats": "ashby",
@@ -3321,7 +3321,7 @@
    "marketing": 2,
    "operations": 1
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "highnote": {
   "ats": "greenhouse",
@@ -3347,7 +3347,7 @@
    "finance": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "hill-country-foodworks": {
   "ats_checked": "2026-11-27",
@@ -3402,7 +3402,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:45:02+00:00",
+  "updated": "2026-11-27T19:32:32+00:00",
   "year_of_inc": "2026"
  },
  "hps-investment-partners": {
@@ -3421,7 +3421,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "human-biotech": {
   "ats_checked": "2026-11-27",
@@ -3465,7 +3465,7 @@
    "marketing": 1,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "iex": {
   "ats": "greenhouse",
@@ -3491,7 +3491,7 @@
    "data": 1,
    "engineering": 6
   },
-  "updated": "2026-11-27T18:45:42+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "increase": {
   "ats": "lever",
@@ -3506,7 +3506,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:27+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "indranet": {
   "ats_checked": "2026-11-27",
@@ -3566,7 +3566,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T18:45:14+00:00",
+  "updated": "2026-11-27T19:32:45+00:00",
   "year_of_inc": "2025"
  },
  "inkind-cards": {
@@ -3585,7 +3585,7 @@
   ],
   "stage_est": "Series C+",
   "state": "TX",
-  "updated": "2026-11-27T18:45:03+00:00"
+  "updated": "2026-11-27T19:32:33+00:00"
  },
  "international-environmental-standards": {
   "ats_checked": "2026-11-27",
@@ -3637,7 +3637,7 @@
    "sales": 4,
    "security_it": 15
   },
-  "updated": "2026-11-27T18:45:42+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "january": {
   "ats": "ashby",
@@ -3665,7 +3665,7 @@
    "sales": 1,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "jingling-pockets-ltd-liability": {
   "ats_checked": "2026-11-27",
@@ -3683,7 +3683,7 @@
   ],
   "stage_est": "Seed",
   "state": "NY",
-  "updated": "2026-11-27T18:45:14+00:00",
+  "updated": "2026-11-27T19:32:45+00:00",
   "year_of_inc": "2026"
  },
  "juniper-square": {
@@ -3717,7 +3717,7 @@
    "sales": 5,
    "security_it": 5
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "kaliber-labs": {
   "ats_checked": "2026-11-27",
@@ -3735,7 +3735,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:45:15+00:00"
+  "updated": "2026-11-27T19:32:46+00:00"
  },
  "kalshi": {
   "ats": "greenhouse",
@@ -3766,7 +3766,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "kapitus": {
   "ats": "greenhouse",
@@ -3795,7 +3795,7 @@
    "marketing": 1,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:39+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "keep-warm": {
   "ats_checked": "2026-11-27",
@@ -3813,7 +3813,7 @@
   ],
   "stage_est": "Seed",
   "state": "CT",
-  "updated": "2026-11-27T18:45:03+00:00",
+  "updated": "2026-11-27T19:32:34+00:00",
   "year_of_inc": "2026"
  },
  "knot": {
@@ -3837,7 +3837,7 @@
    "operations": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "knowrisk": {
   "ats_checked": "2026-11-27",
@@ -3885,7 +3885,7 @@
    "legal": 5,
    "people": 4
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:21+00:00"
  },
  "kura-oncology": {
   "ats": "greenhouse",
@@ -3956,7 +3956,7 @@
   "team_counts": {
    "marketing": 2
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "langchain": {
   "ats": "ashby",
@@ -3988,7 +3988,7 @@
    "sales": 33,
    "security_it": 4
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "laza-medical": {
   "ats_checked": "2026-11-27",
@@ -4028,7 +4028,7 @@
   "team_counts": {
    "marketing": 1
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:21+00:00"
  },
  "ledge": {
   "ats": "ashby",
@@ -4053,7 +4053,7 @@
    "engineering": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:32+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "lemfi": {
   "ats": "ashby",
@@ -4082,7 +4082,7 @@
    "marketing": 10,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "lendable": {
   "ats": "ashby",
@@ -4116,7 +4116,7 @@
    "sales": 2,
    "security_it": 3
   },
-  "updated": "2026-11-27T18:45:35+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  },
  "lifesci-advisors": {
   "ats": "lever",
@@ -4141,7 +4141,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "lincoln-international": {
   "ats": "greenhouse",
@@ -4171,7 +4171,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "linework-usa": {
   "ats_checked": "2026-11-27",
@@ -4236,7 +4236,7 @@
    "operations": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:21+00:00"
  },
  "liontree": {
   "ats": "greenhouse",
@@ -4255,7 +4255,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "lithic": {
   "ats": "greenhouse",
@@ -4281,7 +4281,7 @@
    "finance": 2,
    "operations": 1
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "loancore": {
   "ats": "greenhouse",
@@ -4296,7 +4296,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "lunar": {
   "ats": "ashby",
@@ -4321,7 +4321,7 @@
    "engineering": 7,
    "operations": 4
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "lyzr": {
   "ats": "ashby",
@@ -4369,7 +4369,7 @@
   ],
   "stage_est": "Seed",
   "state": "ME",
-  "updated": "2026-11-27T18:45:15+00:00",
+  "updated": "2026-11-27T19:32:47+00:00",
   "year_of_inc": "2026"
  },
  "manifest-financial": {
@@ -4388,7 +4388,7 @@
   ],
   "stage_est": "Series A",
   "state": "TX",
-  "updated": "2026-11-27T18:45:22+00:00",
+  "updated": "2026-11-27T19:32:54+00:00",
   "year_of_inc": "2023"
  },
  "maple-privacy-labs": {
@@ -4407,7 +4407,7 @@
   ],
   "stage_est": "Series A",
   "state": "TX",
-  "updated": "2026-11-27T18:45:22+00:00",
+  "updated": "2026-11-27T19:32:53+00:00",
   "year_of_inc": "2023"
  },
  "matchpoint-therapeutics": {
@@ -4426,7 +4426,7 @@
   ],
   "stage_est": "Series C+",
   "state": "MA",
-  "updated": "2026-11-27T18:45:23+00:00",
+  "updated": "2026-11-27T19:32:54+00:00",
   "year_of_inc": "2021"
  },
  "maven-app": {
@@ -4445,7 +4445,7 @@
   ],
   "stage_est": "Series A",
   "state": "DE",
-  "updated": "2026-11-27T18:45:15+00:00",
+  "updated": "2026-11-27T19:32:47+00:00",
   "year_of_inc": "2026"
  },
  "melio": {
@@ -4461,7 +4461,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "meow": {
   "ats": "ashby",
@@ -4486,7 +4486,7 @@
    "operations": 2,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "mercury": {
   "ats": "greenhouse",
@@ -4518,7 +4518,7 @@
    "people": 8,
    "sales": 6
   },
-  "updated": "2026-11-27T18:45:25+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "mesh": {
   "ats": "greenhouse",
@@ -4547,7 +4547,7 @@
    "legal": 1,
    "sales": 6
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "metaview": {
   "ats": "ashby",
@@ -4578,7 +4578,7 @@
    "people": 4,
    "sales": 17
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "middesk": {
   "ats": "ashby",
@@ -4606,7 +4606,7 @@
    "operations": 1,
    "sales": 5
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "million-dollar-hot-dog-ltd-liability": {
   "ats_checked": "2026-11-27",
@@ -4646,7 +4646,7 @@
   "team_counts": {
    "engineering": 1
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "mkdc": {
   "ats_checked": "2026-11-27",
@@ -4684,7 +4684,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "modern-treasury": {
   "ats": "ashby",
@@ -4710,7 +4710,7 @@
    "finance": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:27+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "modulr-finance": {
   "ats": "greenhouse",
@@ -4740,7 +4740,7 @@
    "people": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "molekule-group-inc-de": {
   "ats_checked": "2026-11-27",
@@ -4784,7 +4784,7 @@
    "people": 1,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "moneybox": {
   "ats": "ashby",
@@ -4811,7 +4811,7 @@
    "operations": 1,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  },
  "monzo": {
   "ats": "greenhouse",
@@ -4842,7 +4842,7 @@
    "sales": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "moonfare": {
   "ats": "greenhouse",
@@ -4871,7 +4871,7 @@
    "people": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "mortgage-hawaii": {
   "ats_checked": "2026-11-27",
@@ -4912,7 +4912,7 @@
    "engineering": 1,
    "marketing": 1
   },
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "mosaic-biosciences": {
   "ats_checked": "2026-11-27",
@@ -4961,7 +4961,7 @@
    "sales": 12,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "mta-acquisitions": {
   "ats_checked": "2026-11-27",
@@ -4998,7 +4998,7 @@
   ],
   "stage_est": "Seed",
   "state": "MT",
-  "updated": "2026-11-27T18:45:22+00:00",
+  "updated": "2026-11-27T19:32:54+00:00",
   "year_of_inc": "2022"
  },
  "narmi": {
@@ -5014,7 +5014,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:42+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "natter": {
   "ats": "ashby",
@@ -5041,7 +5041,7 @@
    "marketing": 1,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "newton-golf": {
   "ats_checked": "2026-11-27",
@@ -5059,7 +5059,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:45:23+00:00"
+  "updated": "2026-11-27T19:32:55+00:00"
  },
  "next-robot": {
   "ats_checked": "2026-11-27",
@@ -5077,7 +5077,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T18:45:18+00:00",
+  "updated": "2026-11-27T19:32:50+00:00",
   "year_of_inc": "2023"
  },
  "nexus-networks": {
@@ -5115,7 +5115,7 @@
   ],
   "stage_est": "Series B",
   "state": "DE",
-  "updated": "2026-11-27T18:45:23+00:00",
+  "updated": "2026-11-27T19:32:54+00:00",
   "year_of_inc": "2024"
  },
  "north-central-florida-surgicenter": {
@@ -5158,7 +5158,7 @@
    "finance": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "novapharm-enterprises": {
   "ats_checked": "2026-11-27",
@@ -5176,7 +5176,7 @@
   ],
   "stage_est": "Series B",
   "state": "FL",
-  "updated": "2026-11-27T18:44:55+00:00",
+  "updated": "2026-11-27T19:32:12+00:00",
   "year_of_inc": "2025"
  },
  "novo": {
@@ -5201,7 +5201,7 @@
    "engineering": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "nphase": {
   "ats_checked": "2026-11-27",
@@ -5236,7 +5236,7 @@
   ],
   "name": "Nubank",
   "news_checked": "2026-11-27",
-  "open_roles": 107,
+  "open_roles": 106,
   "size_est": "500+",
   "sources": [
    "watchlist"
@@ -5250,9 +5250,9 @@
    "operations": 1,
    "people": 7,
    "sales": 1,
-   "security_it": 9
+   "security_it": 8
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "numeric": {
   "ats": "ashby",
@@ -5283,7 +5283,7 @@
    "people": 1,
    "sales": 7
   },
-  "updated": "2026-11-27T18:45:32+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "oak-hill-advisors": {
   "ats": "greenhouse",
@@ -5307,7 +5307,7 @@
    "operations": 1,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "obsidian-sensors": {
   "ats_checked": "2026-11-27",
@@ -5325,7 +5325,7 @@
   ],
   "stage_est": "Series B",
   "state": "CA",
-  "updated": "2026-11-27T18:45:16+00:00"
+  "updated": "2026-11-27T19:32:47+00:00"
  },
  "ocrolus": {
   "ats": "greenhouse",
@@ -5351,7 +5351,7 @@
    "people": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:21+00:00"
  },
  "omnea": {
   "ats": "ashby",
@@ -5384,7 +5384,7 @@
    "sales": 30,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "omniloy": {
   "ats_checked": "2026-11-27",
@@ -5402,7 +5402,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T18:45:16+00:00",
+  "updated": "2026-11-27T19:32:47+00:00",
   "year_of_inc": "2024"
  },
  "onrails-technologies": {
@@ -5458,7 +5458,7 @@
   ],
   "stage_est": "Seed",
   "state": "NY",
-  "updated": "2026-11-27T18:45:05+00:00",
+  "updated": "2026-11-27T19:32:36+00:00",
   "year_of_inc": "2025"
  },
  "oscilar": {
@@ -5489,7 +5489,7 @@
    "people": 1,
    "sales": 4
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "otto-dms": {
   "ats_checked": "2026-11-27",
@@ -5507,7 +5507,7 @@
   ],
   "stage_est": "Seed",
   "state": "FL",
-  "updated": "2026-11-27T18:44:56+00:00",
+  "updated": "2026-11-27T19:32:14+00:00",
   "year_of_inc": "2023"
  },
  "outpost": {
@@ -5538,7 +5538,7 @@
    "operations": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "pacific-thermae-group": {
   "ats_checked": "2026-11-27",
@@ -5556,7 +5556,7 @@
   ],
   "stage_est": "Series A",
   "state": "WA",
-  "updated": "2026-11-27T18:44:56+00:00",
+  "updated": "2026-11-27T19:32:15+00:00",
   "year_of_inc": "2025"
  },
  "paddle": {
@@ -5587,7 +5587,7 @@
    "sales": 2,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "palmetto-clean-technology": {
   "ats": "greenhouse",
@@ -5619,7 +5619,7 @@
    "people": 2,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "pantheon": {
   "ats": "greenhouse",
@@ -5644,7 +5644,7 @@
    "data": 1,
    "legal": 2
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:21+00:00"
  },
  "parafin": {
   "ats": "ashby",
@@ -5659,7 +5659,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "pathos-ai": {
   "ats_checked": "2026-11-27",
@@ -5707,7 +5707,7 @@
    "people": 3,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "paxos": {
   "ats": "ashby",
@@ -5738,7 +5738,7 @@
    "marketing": 1,
    "security_it": 4
   },
-  "updated": "2026-11-27T18:45:32+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "pdt-partners": {
   "ats": "greenhouse",
@@ -5765,7 +5765,7 @@
    "operations": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "permutive": {
   "ats": "ashby",
@@ -5788,7 +5788,7 @@
    "customer": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "perpay": {
   "ats": "greenhouse",
@@ -5814,7 +5814,7 @@
   ],
   "stage_est": "Series C+",
   "state": "PA",
-  "updated": "2026-11-27T18:45:23+00:00"
+  "updated": "2026-11-27T19:32:56+00:00"
  },
  "persona": {
   "ats": "ashby",
@@ -5841,7 +5841,7 @@
    "operations": 2,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "pfdselect-medical-receivables-1024": {
   "ats_checked": "2026-11-27",
@@ -5859,7 +5859,7 @@
   ],
   "stage_est": "Series A",
   "state": "NV",
-  "updated": "2026-11-27T18:45:23+00:00",
+  "updated": "2026-11-27T19:32:55+00:00",
   "year_of_inc": "2026"
  },
  "physical-dream": {
@@ -5878,7 +5878,7 @@
   ],
   "stage_est": "Seed",
   "state": "CT",
-  "updated": "2026-11-27T18:45:05+00:00",
+  "updated": "2026-11-27T19:32:36+00:00",
   "year_of_inc": "2024"
  },
  "pickup-health": {
@@ -5930,7 +5930,7 @@
    "people": 9,
    "sales": 36
   },
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "pipe17": {
   "ats": "greenhouse",
@@ -5956,7 +5956,7 @@
   ],
   "stage_est": "Series A",
   "state": "WA",
-  "updated": "2026-11-27T18:44:57+00:00"
+  "updated": "2026-11-27T19:32:16+00:00"
  },
  "plaid": {
   "ats": "ashby",
@@ -5990,7 +5990,7 @@
    "sales": 28,
    "security_it": 7
   },
-  "updated": "2026-11-27T18:45:25+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "pleo": {
   "ats": "ashby",
@@ -6022,7 +6022,7 @@
    "people": 2,
    "sales": 8
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "pliant": {
   "ats": "ashby",
@@ -6053,7 +6053,7 @@
    "sales": 5,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:43+00:00"
+  "updated": "2026-11-27T19:33:14+00:00"
  },
  "pointone": {
   "ats": "ashby",
@@ -6079,7 +6079,7 @@
    "sales": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "pointskash": {
   "ats_checked": "2026-11-27",
@@ -6097,7 +6097,7 @@
   ],
   "stage_est": "Series B",
   "state": "AZ",
-  "updated": "2026-11-27T18:45:23+00:00"
+  "updated": "2026-11-27T19:32:56+00:00"
  },
  "polymarket": {
   "ats": "ashby",
@@ -6127,7 +6127,7 @@
    "operations": 2,
    "people": 2
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "population-stewardship-01-06": {
   "ats_checked": "2026-11-27",
@@ -6145,7 +6145,7 @@
   ],
   "stage_est": "Series C+",
   "state": "TX",
-  "updated": "2026-11-27T18:45:24+00:00",
+  "updated": "2026-11-27T19:32:56+00:00",
   "year_of_inc": "2026"
  },
  "power-elements": {
@@ -6164,7 +6164,7 @@
   ],
   "stage_est": "Series C+",
   "state": "TX",
-  "updated": "2026-11-27T18:45:05+00:00",
+  "updated": "2026-11-27T19:32:36+00:00",
   "year_of_inc": "2026"
  },
  "primer": {
@@ -6190,7 +6190,7 @@
   "team_counts": {
    "people": 1
   },
-  "updated": "2026-11-27T18:45:35+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  },
  "profound": {
   "ats": "ashby",
@@ -6223,7 +6223,7 @@
    "sales": 15,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "project-charlie-holdco": {
   "ats_checked": "2026-11-27",
@@ -6241,7 +6241,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T18:44:57+00:00",
+  "updated": "2026-11-27T19:32:17+00:00",
   "year_of_inc": "2026"
  },
  "public": {
@@ -6266,7 +6266,7 @@
    "legal": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:26+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "rad-technologies": {
   "ats_checked": "2026-11-27",
@@ -6284,7 +6284,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T18:45:05+00:00"
+  "updated": "2026-11-27T19:32:36+00:00"
  },
  "rain": {
   "ats": "ashby",
@@ -6317,7 +6317,7 @@
    "sales": 5,
    "security_it": 5
   },
-  "updated": "2026-11-27T18:45:42+00:00"
+  "updated": "2026-11-27T19:33:13+00:00"
  },
  "raine": {
   "ats": "lever",
@@ -6335,7 +6335,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "ramp": {
   "ats": "ashby",
@@ -6369,7 +6369,7 @@
    "sales": 40,
    "security_it": 6
   },
-  "updated": "2026-11-27T18:45:25+00:00"
+  "updated": "2026-11-27T19:33:00+00:00"
  },
  "range": {
   "ats": "greenhouse",
@@ -6391,7 +6391,7 @@
    "engineering": 3,
    "finance": 1
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "reach-neuro": {
   "ats_checked": "2026-11-27",
@@ -6429,7 +6429,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "rho": {
   "ats": "ashby",
@@ -6462,7 +6462,7 @@
    "sales": 10,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "ridgeline": {
   "ats": "greenhouse",
@@ -6494,7 +6494,7 @@
    "sales": 5,
    "security_it": 3
   },
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "riemann-computing": {
   "ats_checked": "2026-11-27",
@@ -6512,7 +6512,7 @@
   ],
   "stage_est": "Seed",
   "state": "MI",
-  "updated": "2026-11-27T18:45:05+00:00"
+  "updated": "2026-11-27T19:32:37+00:00"
  },
  "rillet": {
   "ats": "ashby",
@@ -6544,7 +6544,7 @@
    "sales": 9,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:32+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "rise-works": {
   "ats_checked": "2026-11-27",
@@ -6562,7 +6562,7 @@
   ],
   "stage_est": "Seed",
   "state": "OH",
-  "updated": "2026-11-27T18:45:16+00:00"
+  "updated": "2026-11-27T19:32:48+00:00"
  },
  "robinhood": {
   "ats": "greenhouse",
@@ -6596,7 +6596,7 @@
    "sales": 1,
    "security_it": 6
   },
-  "updated": "2026-11-27T18:45:26+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "robotic-research-opco": {
   "ats_checked": "2026-11-27",
@@ -6614,7 +6614,7 @@
   ],
   "stage_est": "Series C+",
   "state": "MD",
-  "updated": "2026-11-27T18:44:57+00:00",
+  "updated": "2026-11-27T19:32:18+00:00",
   "year_of_inc": "2021"
  },
  "rocked": {
@@ -6633,7 +6633,7 @@
   ],
   "stage_est": "Series A",
   "state": "FL",
-  "updated": "2026-11-27T18:44:57+00:00"
+  "updated": "2026-11-27T19:32:18+00:00"
  },
  "rogo": {
   "ats": "ashby",
@@ -6667,7 +6667,7 @@
    "sales": 19,
    "security_it": 7
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "runwise": {
   "ats": "greenhouse",
@@ -6691,7 +6691,7 @@
   "team_counts": {
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "safe-oil": {
   "ats_checked": "2026-11-27",
@@ -6757,7 +6757,7 @@
   ],
   "stage_est": "Seed",
   "state": "NY",
-  "updated": "2026-11-27T18:44:58+00:00",
+  "updated": "2026-11-27T19:32:19+00:00",
   "year_of_inc": "2026"
  },
  "sardine": {
@@ -6789,7 +6789,7 @@
    "sales": 12,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "savlamar": {
   "ats_checked": "2026-11-27",
@@ -6839,7 +6839,7 @@
    "people": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "schonfeld": {
   "ats": "greenhouse",
@@ -6869,7 +6869,7 @@
    "operations": 3,
    "people": 2
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "seaboard-assets": {
   "ats_checked": "2026-11-27",
@@ -6887,7 +6887,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T18:45:17+00:00"
+  "updated": "2026-11-27T19:32:48+00:00"
  },
  "secondappraisal": {
   "ats_checked": "2026-11-27",
@@ -6952,7 +6952,7 @@
    "operations": 2,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:38+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "sofi": {
   "ats": "greenhouse",
@@ -6986,7 +6986,7 @@
    "sales": 1,
    "security_it": 3
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "solar-landscape": {
   "ats": "lever",
@@ -7014,7 +7014,7 @@
    "legal": 1,
    "operations": 3
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "somewhere-in-the-city-ltd-liability": {
   "ats_checked": "2026-11-27",
@@ -7054,7 +7054,7 @@
   "team_counts": {
    "engineering": 2
   },
-  "updated": "2026-11-27T18:45:49+00:00"
+  "updated": "2026-11-27T19:33:18+00:00"
  },
  "spade": {
   "ats": "ashby",
@@ -7067,6 +7067,7 @@
    "Remote (US/Canada)"
   ],
   "name": "Spade",
+  "news_checked": "2026-11-27",
   "open_roles": 11,
   "size_est": "50-200",
   "sources": [
@@ -7078,7 +7079,7 @@
    "marketing": 1,
    "sales": 4
   },
-  "updated": "2026-11-27T18:45:38+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "spakl-tech": {
   "ats_checked": "2026-11-27",
@@ -7134,7 +7135,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:45:06+00:00"
+  "updated": "2026-11-27T19:32:38+00:00"
  },
  "stash": {
   "ats": "ashby",
@@ -7149,7 +7150,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "stax": {
   "ats": "lever",
@@ -7164,7 +7165,7 @@
    "watchlist"
   ],
   "team_counts": {},
-  "updated": "2026-11-27T18:45:38+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "stensul": {
   "ats": "ashby",
@@ -7179,6 +7180,7 @@
    "argentina | Buenos Aires"
   ],
   "name": "Stensul",
+  "news_checked": "2026-11-27",
   "open_roles": 8,
   "size_est": "50-200",
   "sources": [
@@ -7189,7 +7191,7 @@
    "engineering": 2,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "stepstone-group": {
   "ats": "greenhouse",
@@ -7205,6 +7207,7 @@
    "Cleveland"
   ],
   "name": "StepStone Group",
+  "news_checked": "2026-11-27",
   "open_roles": 64,
   "size_est": "500+",
   "sources": [
@@ -7213,14 +7216,14 @@
   "team_counts": {
    "customer": 3,
    "data": 11,
-   "engineering": 5,
+   "engineering": 4,
    "finance": 8,
    "legal": 2,
    "marketing": 2,
-   "operations": 1,
+   "operations": 2,
    "sales": 4
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:20+00:00"
  },
  "stereotaxis": {
   "ats_checked": "2026-11-27",
@@ -7256,7 +7259,7 @@
   ],
   "stage_est": "Series B",
   "state": "FL",
-  "updated": "2026-11-27T18:45:06+00:00"
+  "updated": "2026-11-27T19:32:38+00:00"
  },
  "strake": {
   "ats_checked": "2026-11-27",
@@ -7274,7 +7277,7 @@
   ],
   "stage_est": "Seed",
   "state": "NV",
-  "updated": "2026-11-27T18:45:06+00:00",
+  "updated": "2026-11-27T19:32:38+00:00",
   "year_of_inc": "2026"
  },
  "strategic-ai-private-opportunities": {
@@ -7310,6 +7313,7 @@
    "Auckland, New Zealand"
   ],
   "name": "Stripe",
+  "news_checked": "2026-11-27",
   "open_roles": 768,
   "size_est": "500+",
   "sources": [
@@ -7318,16 +7322,16 @@
   "team_counts": {
    "customer": 43,
    "data": 56,
-   "engineering": 155,
-   "finance": 28,
+   "engineering": 154,
+   "finance": 27,
    "legal": 3,
    "marketing": 37,
-   "operations": 35,
+   "operations": 36,
    "people": 26,
    "sales": 198,
    "security_it": 27
   },
-  "updated": "2026-11-27T18:45:25+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "summit-brewing": {
   "ats_checked": "2026-11-27",
@@ -7345,7 +7349,7 @@
   ],
   "stage_est": "Seed",
   "state": "MN",
-  "updated": "2026-11-27T18:45:06+00:00"
+  "updated": "2026-11-27T19:32:37+00:00"
  },
  "summit-wold-investment": {
   "ats_checked": "2026-11-27",
@@ -7382,7 +7386,7 @@
   ],
   "stage_est": "Seed",
   "state": "MN",
-  "updated": "2026-11-27T18:44:58+00:00",
+  "updated": "2026-11-27T19:32:19+00:00",
   "year_of_inc": "2023"
  },
  "swarmia": {
@@ -7397,6 +7401,7 @@
    "New York"
   ],
   "name": "Swarmia",
+  "news_checked": "2026-11-27",
   "open_roles": 6,
   "size_est": "50-200",
   "sources": [
@@ -7408,7 +7413,7 @@
    "engineering": 1,
    "sales": 2
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "synctera": {
   "ats": "ashby",
@@ -7420,6 +7425,7 @@
    "United States (Remote) | Canada (Remote)"
   ],
   "name": "Synctera",
+  "news_checked": "2026-11-27",
   "open_roles": 1,
   "size_est": "under 50",
   "sources": [
@@ -7428,7 +7434,7 @@
   "team_counts": {
    "data": 1
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "szns-labs": {
   "ats_checked": "2026-11-27",
@@ -7439,6 +7445,7 @@
   "industry": "Other Technology",
   "legal_name": "SZNS Labs, Inc.",
   "name": "SZNS Labs",
+  "news_checked": "2026-11-27",
   "revenue_range": "Decline to Disclose",
   "sources": [
    "formd"
@@ -7457,6 +7464,7 @@
    "New York City, NY"
   ],
   "name": "Tabs",
+  "news_checked": "2026-11-27",
   "open_roles": 25,
   "size_est": "200-500",
   "sources": [
@@ -7470,7 +7478,7 @@
    "people": 2,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:32+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "tempo-xyz": {
   "ats": "ashby",
@@ -7486,6 +7494,7 @@
    "San Francisco Office"
   ],
   "name": "tempo-xyz",
+  "news_checked": "2026-11-27",
   "open_roles": 11,
   "size_est": "50-200",
   "sources": [
@@ -7497,7 +7506,7 @@
    "people": 1,
    "security_it": 3
   },
-  "updated": "2026-11-27T18:45:44+00:00"
+  "updated": "2026-11-27T19:33:15+00:00"
  },
  "tendrils-compute": {
   "ats_checked": "2026-11-27",
@@ -7515,7 +7524,7 @@
   ],
   "stage_est": "Series B",
   "state": "OR",
-  "updated": "2026-11-27T18:45:24+00:00",
+  "updated": "2026-11-27T19:32:58+00:00",
   "year_of_inc": "2025"
  },
  "thoro": {
@@ -7549,6 +7558,7 @@
    "United States, New York, New York City"
   ],
   "name": "Thought Machine",
+  "news_checked": "2026-11-27",
   "open_roles": 35,
   "size_est": "200-500",
   "sources": [
@@ -7560,7 +7570,7 @@
    "operations": 1,
    "security_it": 8
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "tide": {
   "ats": "greenhouse",
@@ -7576,6 +7586,7 @@
    "India, Delhi NCR"
   ],
   "name": "Tide",
+  "news_checked": "2026-11-27",
   "open_roles": 94,
   "size_est": "500+",
   "sources": [
@@ -7592,7 +7603,7 @@
    "sales": 3,
    "security_it": 11
   },
-  "updated": "2026-11-27T18:45:35+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  },
  "tiger-global": {
   "ats": "ashby",
@@ -7604,6 +7615,7 @@
    "San Francisco"
   ],
   "name": "Tiger Global",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
@@ -7612,7 +7624,7 @@
   "team_counts": {
    "engineering": 4
   },
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "titan": {
   "ats": "ashby",
@@ -7624,6 +7636,7 @@
    "New York "
   ],
   "name": "Titan",
+  "news_checked": "2026-11-27",
   "open_roles": 7,
   "size_est": "50-200",
   "sources": [
@@ -7632,7 +7645,7 @@
   "team_counts": {
    "engineering": 4
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "toast": {
   "ats": "greenhouse",
@@ -7648,6 +7661,7 @@
    "Arlington, TX "
   ],
   "name": "Toast",
+  "news_checked": "2026-11-27",
   "open_roles": 299,
   "size_est": "500+",
   "sources": [
@@ -7665,7 +7679,7 @@
    "sales": 189,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "tracksuit": {
   "ats": "ashby",
@@ -7681,6 +7695,7 @@
    "New York, United States"
   ],
   "name": "Tracksuit",
+  "news_checked": "2026-11-27",
   "open_roles": 19,
   "size_est": "50-200",
   "sources": [
@@ -7691,7 +7706,7 @@
    "engineering": 2,
    "sales": 14
   },
-  "updated": "2026-11-27T18:45:47+00:00"
+  "updated": "2026-11-27T19:33:16+00:00"
  },
  "trading-212": {
   "ats": "ashby",
@@ -7707,6 +7722,7 @@
    "London"
   ],
   "name": "Trading 212",
+  "news_checked": "2026-11-27",
   "open_roles": 39,
   "size_est": "200-500",
   "sources": [
@@ -7720,7 +7736,7 @@
    "operations": 1,
    "people": 1
   },
-  "updated": "2026-11-27T18:45:36+00:00"
+  "updated": "2026-11-27T19:33:07+00:00"
  },
  "treasury-prime": {
   "ats": "greenhouse",
@@ -7733,6 +7749,7 @@
    "San Francisco, California / Remote US / Remote Canada"
   ],
   "name": "Treasury Prime",
+  "news_checked": "2026-11-27",
   "open_roles": 3,
   "size_est": "under 50",
   "sources": [
@@ -7741,7 +7758,7 @@
   "team_counts": {
    "engineering": 2
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "truelayer": {
   "ats": "ashby",
@@ -7755,6 +7772,7 @@
    "United Kingdom"
   ],
   "name": "TrueLayer",
+  "news_checked": "2026-11-27",
   "open_roles": 5,
   "size_est": "under 50",
   "sources": [
@@ -7765,7 +7783,7 @@
    "engineering": 1,
    "finance": 2
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "tydal-technologies": {
   "ats_checked": "2026-11-27",
@@ -7783,7 +7801,7 @@
   ],
   "stage_est": "Seed",
   "state": "MA",
-  "updated": "2026-11-27T18:45:24+00:00",
+  "updated": "2026-11-27T19:32:58+00:00",
   "year_of_inc": "2025"
  },
  "unit": {
@@ -7796,6 +7814,7 @@
    "Tel Aviv Office"
   ],
   "name": "Unit",
+  "news_checked": "2026-11-27",
   "open_roles": 1,
   "size_est": "under 50",
   "sources": [
@@ -7804,7 +7823,7 @@
   "team_counts": {
    "engineering": 1
   },
-  "updated": "2026-11-27T18:45:28+00:00"
+  "updated": "2026-11-27T19:33:02+00:00"
  },
  "univital": {
   "ats_checked": "2026-11-27",
@@ -7839,6 +7858,7 @@
    "Canada (Remote)"
   ],
   "name": "Upgrade",
+  "news_checked": "2026-11-27",
   "open_roles": 30,
   "size_est": "200-500",
   "sources": [
@@ -7852,7 +7872,7 @@
    "operations": 1,
    "sales": 3
   },
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "upwell-cosmetics": {
   "ats_checked": "2026-11-27",
@@ -7870,7 +7890,7 @@
   ],
   "stage_est": "Series A",
   "state": "MA",
-  "updated": "2026-11-27T18:45:25+00:00"
+  "updated": "2026-11-27T19:32:59+00:00"
  },
  "valon": {
   "ats": "ashby",
@@ -7886,6 +7906,7 @@
    "Remote"
   ],
   "name": "Valon",
+  "news_checked": "2026-11-27",
   "open_roles": 29,
   "size_est": "200-500",
   "sources": [
@@ -7901,7 +7922,7 @@
    "sales": 3,
    "security_it": 2
   },
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:03+00:00"
  },
  "valor-scientific": {
   "ats_checked": "2026-11-27",
@@ -7919,7 +7940,7 @@
   ],
   "stage_est": "Seed",
   "state": "AL",
-  "updated": "2026-11-27T18:44:59+00:00",
+  "updated": "2026-11-27T19:32:22+00:00",
   "year_of_inc": "2025"
  },
  "vanta": {
@@ -7936,6 +7957,7 @@
    "Remote - UK | London, UK"
   ],
   "name": "Vanta",
+  "news_checked": "2026-11-27",
   "open_roles": 61,
   "size_est": "500+",
   "sources": [
@@ -7950,7 +7972,7 @@
    "sales": 23,
    "security_it": 4
   },
-  "updated": "2026-11-27T18:45:29+00:00"
+  "updated": "2026-11-27T19:33:04+00:00"
  },
  "visaic": {
   "ats_checked": "2026-11-27",
@@ -7968,7 +7990,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T18:44:59+00:00"
+  "updated": "2026-11-27T19:32:22+00:00"
  },
  "vise": {
   "ats": "ashby",
@@ -7980,6 +8002,7 @@
    "New York, NY"
   ],
   "name": "Vise",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
@@ -7993,7 +8016,7 @@
    "people": 2,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:37+00:00"
+  "updated": "2026-11-27T19:33:08+00:00"
  },
  "warp": {
   "ats": "ashby",
@@ -8005,6 +8028,7 @@
    "New York"
   ],
   "name": "Warp",
+  "news_checked": "2026-11-27",
   "open_roles": 19,
   "size_est": "50-200",
   "sources": [
@@ -8017,7 +8041,7 @@
    "sales": 6,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:48+00:00"
+  "updated": "2026-11-27T19:33:17+00:00"
  },
  "wealthfront": {
   "ats": "lever",
@@ -8033,6 +8057,7 @@
    "Palo Alto, CA (Open to US-based Remote) | Austin, TX | San Antonio, TX"
   ],
   "name": "Wealthfront",
+  "news_checked": "2026-11-27",
   "open_roles": 19,
   "size_est": "50-200",
   "sources": [
@@ -8046,7 +8071,7 @@
    "people": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:26+00:00"
+  "updated": "2026-11-27T19:33:01+00:00"
  },
  "wealthsimple": {
   "ats": "ashby",
@@ -8062,6 +8087,7 @@
    "Toronto Headquarters"
   ],
   "name": "Wealthsimple",
+  "news_checked": "2026-11-27",
   "open_roles": 36,
   "size_est": "200-500",
   "sources": [
@@ -8078,7 +8104,7 @@
    "sales": 2,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:38+00:00"
+  "updated": "2026-11-27T19:33:09+00:00"
  },
  "william-blair": {
   "ats": "greenhouse",
@@ -8094,6 +8120,7 @@
    "Boston, Massachusetts"
   ],
   "name": "William Blair",
+  "news_checked": "2026-11-27",
   "open_roles": 48,
   "size_est": "200-500",
   "sources": [
@@ -8108,7 +8135,7 @@
    "sales": 1,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:50+00:00"
+  "updated": "2026-11-27T19:33:19+00:00"
  },
  "wise": {
   "ats": "greenhouse",
@@ -8124,6 +8151,7 @@
    "Detroit, Michigan"
   ],
   "name": "Wise",
+  "news_checked": "2026-11-27",
   "open_roles": 18,
   "size_est": "50-200",
   "sources": [
@@ -8132,7 +8160,7 @@
   "team_counts": {
    "sales": 18
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:05+00:00"
  },
  "xatek": {
   "ats_checked": "2026-11-27",
@@ -8150,7 +8178,7 @@
   ],
   "stage_est": "Series A",
   "state": "OH",
-  "updated": "2026-11-27T18:45:18+00:00"
+  "updated": "2026-11-27T19:32:49+00:00"
  },
  "zamorak": {
   "ats_checked": "2026-11-27",
@@ -8168,7 +8196,7 @@
   ],
   "stage_est": "Seed",
   "state": "PA",
-  "updated": "2026-11-27T18:45:18+00:00",
+  "updated": "2026-11-27T19:32:49+00:00",
   "year_of_inc": "2026"
  },
  "zeely": {
@@ -8197,7 +8225,7 @@
   ],
   "stage_est": "Series B",
   "state": "DE",
-  "updated": "2026-11-27T18:45:25+00:00",
+  "updated": "2026-11-27T19:33:00+00:00",
   "year_of_inc": "2021"
  },
  "zip-security": {
@@ -8213,6 +8241,7 @@
    "Washington, D.C. | New York City"
   ],
   "name": "Zip Security",
+  "news_checked": "2026-11-27",
   "open_roles": 5,
   "size_est": "under 50",
   "sources": [
@@ -8224,7 +8253,7 @@
    "marketing": 1,
    "sales": 1
   },
-  "updated": "2026-11-27T18:45:51+00:00"
+  "updated": "2026-11-27T19:33:21+00:00"
  },
  "zopa": {
   "ats": "lever",
@@ -8238,6 +8267,7 @@
    "Manchester | London"
   ],
   "name": "Zopa",
+  "news_checked": "2026-11-27",
   "open_roles": 32,
   "size_est": "200-500",
   "sources": [
@@ -8252,6 +8282,6 @@
    "sales": 4,
    "security_it": 1
   },
-  "updated": "2026-11-27T18:45:34+00:00"
+  "updated": "2026-11-27T19:33:06+00:00"
  }
 }

@@ -9,12 +9,18 @@
    "Remote"
   ],
   "name": "Acorns",
+  "news_checked": "2026-11-27",
   "open_roles": 8,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "engineering": 2,
+   "finance": 1,
+   "marketing": 4
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "addepar1": {
   "ats": "greenhouse",
@@ -30,12 +36,24 @@
    "New York, NY; Remote, USA"
   ],
   "name": "addepar1",
-  "open_roles": 120,
+  "news_checked": "2026-11-27",
+  "open_roles": 119,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "customer": 9,
+   "data": 40,
+   "engineering": 23,
+   "finance": 3,
+   "marketing": 6,
+   "operations": 2,
+   "people": 3,
+   "sales": 12,
+   "security_it": 3
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "addition-wealth": {
   "ats": "lever",
@@ -51,12 +69,16 @@
    "New York, NY"
   ],
   "name": "Addition Wealth",
+  "news_checked": "2026-11-27",
   "open_roles": 9,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:08+00:00"
+  "team_counts": {
+   "engineering": 1
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "affirm": {
   "ats": "greenhouse",
@@ -72,12 +94,25 @@
    "Remote Poland"
   ],
   "name": "Affirm",
-  "open_roles": 216,
+  "news_checked": "2026-11-27",
+  "open_roles": 218,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 22,
+   "engineering": 98,
+   "finance": 4,
+   "legal": 4,
+   "marketing": 15,
+   "operations": 8,
+   "people": 3,
+   "sales": 7,
+   "security_it": 17
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "after-services": {
   "ats_checked": "2026-11-27",
@@ -95,7 +130,7 @@
   ],
   "stage_est": "Seed",
   "state": "UT",
-  "updated": "2026-11-27T04:41:53+00:00"
+  "updated": "2026-11-27T18:44:59+00:00"
  },
  "agnitioai-technologies": {
   "ats_checked": "2026-11-27",
@@ -113,7 +148,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:41:44+00:00",
+  "updated": "2026-11-27T18:44:51+00:00",
   "year_of_inc": "2024"
  },
  "airwallex": {
@@ -123,7 +158,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "allica-bank": {
   "ats": "ashby",
@@ -139,12 +174,20 @@
    "Glasgow"
   ],
   "name": "Allica Bank",
-  "open_roles": 33,
+  "news_checked": "2026-11-27",
+  "open_roles": 35,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "finance": 5,
+   "marketing": 4,
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "alljoined": {
   "ats": "ashby",
@@ -170,7 +213,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T04:42:02+00:00",
+  "updated": "2026-11-27T18:45:09+00:00",
   "year_of_inc": "2023"
  },
  "alloy": {
@@ -187,12 +230,21 @@
    "Remote, United States"
   ],
   "name": "Alloy",
+  "news_checked": "2026-11-27",
   "open_roles": 34,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:50+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 3,
+   "engineering": 11,
+   "operations": 1,
+   "sales": 6,
+   "security_it": 4
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "alpaca": {
   "ats": "greenhouse",
@@ -208,12 +260,23 @@
    "Remote"
   ],
   "name": "Alpaca",
-  "open_roles": 69,
+  "news_checked": "2026-11-27",
+  "open_roles": 68,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 9,
+   "engineering": 26,
+   "finance": 1,
+   "marketing": 2,
+   "operations": 8,
+   "sales": 1,
+   "security_it": 6
+  },
+  "updated": "2026-11-27T18:45:27+00:00"
  },
  "alphasense": {
   "ats": "greenhouse",
@@ -229,12 +292,25 @@
    "Helsinki, Uusimaa, Finland"
   ],
   "name": "AlphaSense",
-  "open_roles": 169,
+  "news_checked": "2026-11-27",
+  "open_roles": 165,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 8,
+   "data": 13,
+   "engineering": 30,
+   "finance": 3,
+   "legal": 1,
+   "marketing": 11,
+   "operations": 1,
+   "people": 8,
+   "sales": 54,
+   "security_it": 7
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "altido-therapeutics": {
   "ats_checked": "2026-11-27",
@@ -252,7 +328,7 @@
   ],
   "stage_est": "Series B",
   "state": "MA",
-  "updated": "2026-11-27T04:42:03+00:00",
+  "updated": "2026-11-27T18:45:09+00:00",
   "year_of_inc": "2024"
  },
  "altruist": {
@@ -269,12 +345,21 @@
    "Remote (Alabama, Georgia, Florida only)"
   ],
   "name": "Altruist",
+  "news_checked": "2026-11-27",
   "open_roles": 63,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 7,
+   "data": 7,
+   "engineering": 21,
+   "people": 2,
+   "sales": 9,
+   "security_it": 7
+  },
+  "updated": "2026-11-27T18:45:27+00:00"
  },
  "ampera-inc-ga": {
   "ats_checked": "2026-11-27",
@@ -292,7 +377,7 @@
   ],
   "stage_est": "Seed",
   "state": "GA",
-  "updated": "2026-11-27T04:42:14+00:00",
+  "updated": "2026-11-27T18:45:19+00:00",
   "year_of_inc": "2026"
  },
  "amperage-infrastructure": {
@@ -328,12 +413,20 @@
    "United States | Canada | Cayman Islands | Singapore"
   ],
   "name": "Anchorage Digital",
+  "news_checked": "2026-11-27",
   "open_roles": 19,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:00+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "finance": 1,
+   "legal": 2,
+   "operations": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:32+00:00"
  },
  "ansa-biotechnologies": {
   "ats": "greenhouse",
@@ -377,12 +470,22 @@
    "North Carolina"
   ],
   "name": "Antares Capital",
+  "news_checked": "2026-11-27",
   "open_roles": 84,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "engineering": 58,
+   "finance": 2,
+   "legal": 1,
+   "operations": 1,
+   "people": 1,
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "apex-er-iii": {
   "ats_checked": "2026-11-27",
@@ -419,7 +522,7 @@
   ],
   "stage_est": "Seed",
   "state": "FL",
-  "updated": "2026-11-27T04:42:03+00:00",
+  "updated": "2026-11-27T18:45:09+00:00",
   "year_of_inc": "2023"
  },
  "apri-foundation": {
@@ -457,7 +560,7 @@
   ],
   "stage_est": "Seed",
   "state": "WA",
-  "updated": "2026-11-27T04:41:44+00:00"
+  "updated": "2026-11-27T18:44:51+00:00"
  },
  "arbor-realty": {
   "ats": "ashby",
@@ -469,12 +572,16 @@
    "Boston | Remote, near Boston | Remote, near DC | Austin"
   ],
   "name": "Arbor Realty",
+  "news_checked": "2026-11-27",
   "open_roles": 1,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "engineering": 1
+  },
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "arca": {
   "ats": "ashby",
@@ -486,12 +593,19 @@
    "New York"
   ],
   "name": "Arca",
+  "news_checked": "2026-11-27",
   "open_roles": 14,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "finance": 1,
+   "marketing": 4,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "arch": {
   "ats": "ashby",
@@ -503,12 +617,18 @@
    "San Francisco"
   ],
   "name": "Arch",
+  "news_checked": "2026-11-27",
   "open_roles": 6,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "arena-investors": {
   "ats": "ashby",
@@ -521,12 +641,21 @@
    "SF Bay Area | New York"
   ],
   "name": "Arena Investors",
+  "news_checked": "2026-11-27",
   "open_roles": 21,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "data": 5,
+   "engineering": 4,
+   "marketing": 3,
+   "operations": 1,
+   "people": 2,
+   "security_it": 4
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "arriba-foods": {
   "ats_checked": "2026-11-27",
@@ -559,12 +688,21 @@
    "United States"
   ],
   "name": "Atomic Invest",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 1,
+   "engineering": 3,
+   "finance": 1,
+   "legal": 1,
+   "operations": 3,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:27+00:00"
  },
  "attain": {
   "ats": "greenhouse",
@@ -580,12 +718,21 @@
    "Chicago, IL; Redwood City, CA"
   ],
   "name": "Attain",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "data": 4,
+   "engineering": 3,
+   "finance": 2,
+   "legal": 1,
+   "people": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "aurary-lab": {
   "ats_checked": "2026-11-27",
@@ -603,7 +750,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:42:03+00:00",
+  "updated": "2026-11-27T18:45:10+00:00",
   "year_of_inc": "2026"
  },
  "baron-capital": {
@@ -616,12 +763,17 @@
    "New York, New York"
   ],
   "name": "Baron Capital",
+  "news_checked": "2026-11-27",
   "open_roles": 8,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "marketing": 1,
+   "operations": 1
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "baryons": {
   "ats_checked": "2026-11-27",
@@ -655,12 +807,21 @@
    "San Francisco, California"
   ],
   "name": "Baselayer",
+  "news_checked": "2026-11-27",
   "open_roles": 16,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "finance": 1,
+   "marketing": 1,
+   "people": 1,
+   "sales": 5,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "bebemos": {
   "ats_checked": "2026-11-27",
@@ -678,7 +839,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T04:41:53+00:00",
+  "updated": "2026-11-27T18:45:00+00:00",
   "year_of_inc": "2024"
  },
  "betterment": {
@@ -691,12 +852,23 @@
    "Betterment HQ - New York City"
   ],
   "name": "Betterment",
-  "open_roles": 23,
+  "news_checked": "2026-11-27",
+  "open_roles": 22,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 5,
+   "finance": 1,
+   "marketing": 3,
+   "operations": 1,
+   "people": 1,
+   "sales": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:26+00:00"
  },
  "blend": {
   "ats": "greenhouse",
@@ -709,12 +881,21 @@
    "United States"
   ],
   "name": "Blend",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 1,
+   "engineering": 3,
+   "finance": 3,
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "blitzoo": {
   "ats_checked": "2026-11-27",
@@ -732,7 +913,7 @@
   ],
   "stage_est": "Series A",
   "state": "MN",
-  "updated": "2026-11-27T04:42:14+00:00",
+  "updated": "2026-11-27T18:45:19+00:00",
   "year_of_inc": "2024"
  },
  "blockworks": {
@@ -747,12 +928,17 @@
    "Remote - US"
   ],
   "name": "Blockworks",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "data": 1,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "bloom-surgical": {
   "ats_checked": "2026-11-27",
@@ -770,7 +956,7 @@
   ],
   "stage_est": "Seed",
   "state": "UT",
-  "updated": "2026-11-27T04:41:45+00:00"
+  "updated": "2026-11-27T18:44:51+00:00"
  },
  "brex": {
   "ats": "greenhouse",
@@ -786,12 +972,25 @@
    "San Francisco, California, United States"
   ],
   "name": "Brex",
+  "news_checked": "2026-11-27",
   "open_roles": 266,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 14,
+   "data": 14,
+   "engineering": 40,
+   "finance": 9,
+   "legal": 8,
+   "marketing": 40,
+   "operations": 14,
+   "people": 18,
+   "sales": 54,
+   "security_it": 9
+  },
+  "updated": "2026-11-27T18:45:25+00:00"
  },
  "bridgewater-associates": {
   "ats": "greenhouse",
@@ -807,12 +1006,18 @@
    "Westport, CT "
   ],
   "name": "Bridgewater Associates",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "data": 2,
+   "operations": 2,
+   "people": 2
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "brightai": {
   "ats": "greenhouse",
@@ -841,7 +1046,7 @@
   ],
   "stage_est": "Series C+",
   "state": "CA",
-  "updated": "2026-11-27T04:42:14+00:00"
+  "updated": "2026-11-27T18:45:19+00:00"
  },
  "brigit": {
   "ats": "ashby",
@@ -857,12 +1062,20 @@
    "San Francisco (Hybrid) | New York City (Hybrid) | Remote"
   ],
   "name": "Brigit",
+  "news_checked": "2026-11-27",
   "open_roles": 14,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:08+00:00"
+  "team_counts": {
+   "data": 3,
+   "engineering": 4,
+   "marketing": 3,
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:42+00:00"
  },
  "broccoli-intelligence": {
   "ats_checked": "2026-11-27",
@@ -895,7 +1108,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "cais": {
   "ats": "greenhouse",
@@ -911,12 +1125,22 @@
    "New York, New York"
   ],
   "name": "CAIS",
+  "news_checked": "2026-11-27",
   "open_roles": 23,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "data": 3,
+   "engineering": 2,
+   "finance": 1,
+   "marketing": 2,
+   "people": 1,
+   "sales": 1,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "campfire": {
   "ats": "ashby",
@@ -932,12 +1156,24 @@
    "Remote | San Francisco"
   ],
   "name": "Campfire",
+  "news_checked": "2026-11-27",
   "open_roles": 49,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:00+00:00"
+  "team_counts": {
+   "customer": 11,
+   "data": 2,
+   "engineering": 4,
+   "finance": 1,
+   "marketing": 7,
+   "operations": 1,
+   "people": 2,
+   "sales": 14,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:32+00:00"
  },
  "capchase": {
   "ats": "ashby",
@@ -953,12 +1189,19 @@
    "Guatemala | Argentina | Mexico | Chile | Costa Rica | Colombia | Latin America"
   ],
   "name": "Capchase",
+  "news_checked": "2026-11-27",
   "open_roles": 10,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 1,
+   "engineering": 1,
+   "operations": 3,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "capi-money": {
   "first_seen": "2026-11-27T04:43:09+00:00",
@@ -967,7 +1210,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "capital-on-tap": {
   "ats": "greenhouse",
@@ -983,12 +1226,20 @@
    "London"
   ],
   "name": "Capital on Tap",
-  "open_roles": 33,
+  "news_checked": "2026-11-27",
+  "open_roles": 34,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:05+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 19,
+   "finance": 1,
+   "operations": 2,
+   "sales": 5
+  },
+  "updated": "2026-11-27T18:45:39+00:00"
  },
  "carta": {
   "ats": "greenhouse",
@@ -1004,12 +1255,23 @@
    "Hamilton, NJ; Sandy, Utah; Seattle, Washington"
   ],
   "name": "Carta",
-  "open_roles": 81,
+  "news_checked": "2026-11-27",
+  "open_roles": 82,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 3,
+   "engineering": 7,
+   "finance": 15,
+   "legal": 26,
+   "marketing": 5,
+   "operations": 2,
+   "people": 1,
+   "sales": 13
+  },
+  "updated": "2026-11-27T18:45:26+00:00"
  },
  "cega-innovations": {
   "ats_checked": "2026-11-27",
@@ -1045,7 +1307,7 @@
   ],
   "stage_est": "Series A",
   "state": "FL",
-  "updated": "2026-11-27T04:41:45+00:00",
+  "updated": "2026-11-27T18:44:52+00:00",
   "year_of_inc": "2022"
  },
  "chainalysis-careers": {
@@ -1062,12 +1324,23 @@
    "Dubai"
   ],
   "name": "chainalysis-careers",
+  "news_checked": "2026-11-27",
   "open_roles": 50,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 11,
+   "finance": 1,
+   "marketing": 5,
+   "operations": 1,
+   "people": 2,
+   "sales": 9,
+   "security_it": 3
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "checkout-com": {
   "ats": "ashby",
@@ -1083,12 +1356,25 @@
    "Atlanta | San Francisco"
   ],
   "name": "checkout.com",
-  "open_roles": 159,
+  "news_checked": "2026-11-27",
+  "open_roles": 158,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "customer": 7,
+   "data": 5,
+   "engineering": 26,
+   "finance": 7,
+   "legal": 8,
+   "marketing": 12,
+   "operations": 6,
+   "people": 9,
+   "sales": 21,
+   "security_it": 6
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "chime": {
   "ats": "greenhouse",
@@ -1104,12 +1390,23 @@
    "New York, NY, USA; San Francisco, CA, USA"
   ],
   "name": "Chime",
-  "open_roles": 77,
+  "news_checked": "2026-11-27",
+  "open_roles": 76,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "data": 18,
+   "engineering": 13,
+   "finance": 3,
+   "legal": 2,
+   "marketing": 14,
+   "operations": 2,
+   "people": 4,
+   "security_it": 4
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "chronograph": {
   "ats": "greenhouse",
@@ -1124,12 +1421,19 @@
    "Singapore"
   ],
   "name": "Chronograph",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 4,
+   "engineering": 1,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "city-light-studios": {
   "ats_checked": "2026-11-27",
@@ -1147,7 +1451,7 @@
   ],
   "stage_est": "Series A",
   "state": "MD",
-  "updated": "2026-11-27T04:42:05+00:00",
+  "updated": "2026-11-27T18:45:11+00:00",
   "year_of_inc": "2026"
  },
  "claria-medical": {
@@ -1166,7 +1470,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T04:41:54+00:00"
+  "updated": "2026-11-27T18:45:00+00:00"
  },
  "clear-street": {
   "ats": "greenhouse",
@@ -1182,12 +1486,22 @@
    "New York Or Chicago"
   ],
   "name": "Clear Street",
-  "open_roles": 32,
+  "news_checked": "2026-11-27",
+  "open_roles": 31,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 5,
+   "engineering": 9,
+   "finance": 2,
+   "legal": 1,
+   "operations": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "clearwater-analytics": {
   "ats": "greenhouse",
@@ -1203,12 +1517,16 @@
    "Pune India "
   ],
   "name": "Clearwater Analytics",
+  "news_checked": "2026-11-27",
   "open_roles": 16,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "engineering": 8
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "cleo": {
   "ats": "greenhouse",
@@ -1224,12 +1542,20 @@
    "Remote - USA"
   ],
   "name": "Cleo",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 2,
+   "engineering": 2,
+   "marketing": 2,
+   "sales": 5,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:35+00:00"
  },
  "climate-scale": {
   "ats_checked": "2026-11-27",
@@ -1247,7 +1573,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:42:05+00:00",
+  "updated": "2026-11-27T18:45:11+00:00",
   "year_of_inc": "2024"
  },
  "clubhouse-ctv": {
@@ -1266,7 +1592,7 @@
   ],
   "stage_est": "Seed",
   "state": "NC",
-  "updated": "2026-11-27T04:42:05+00:00",
+  "updated": "2026-11-27T18:45:11+00:00",
   "year_of_inc": "2026"
  },
  "coinbase": {
@@ -1283,12 +1609,25 @@
    "Hybrid - New York, NY"
   ],
   "name": "Coinbase",
+  "news_checked": "2026-11-27",
   "open_roles": 256,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "customer": 9,
+   "data": 21,
+   "engineering": 72,
+   "finance": 14,
+   "legal": 3,
+   "marketing": 8,
+   "operations": 12,
+   "people": 3,
+   "sales": 8,
+   "security_it": 15
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "coinflow": {
   "ats": "ashby",
@@ -1301,12 +1640,21 @@
    "Europe"
   ],
   "name": "Coinflow",
+  "news_checked": "2026-11-27",
   "open_roles": 18,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:04+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 3,
+   "engineering": 4,
+   "finance": 1,
+   "operations": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:38+00:00"
  },
  "column": {
   "ats": "ashby",
@@ -1322,12 +1670,21 @@
    "Tashkent, UZ"
   ],
   "name": "Column",
+  "news_checked": "2026-11-27",
   "open_roles": 23,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:50+00:00"
+  "team_counts": {
+   "engineering": 4,
+   "finance": 1,
+   "legal": 2,
+   "marketing": 3,
+   "operations": 3,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:27+00:00"
  },
  "compact-medical": {
   "ats_checked": "2026-11-27",
@@ -1345,7 +1702,7 @@
   ],
   "stage_est": "Seed",
   "state": "IN",
-  "updated": "2026-11-27T04:42:14+00:00",
+  "updated": "2026-11-27T18:45:20+00:00",
   "year_of_inc": "2021"
  },
  "compound-planning": {
@@ -1358,12 +1715,17 @@
    "Remote"
   ],
   "name": "Compound Planning",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "marketing": 1,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "coral-mountain-opco": {
   "ats_checked": "2026-11-27",
@@ -1381,7 +1743,7 @@
   ],
   "stage_est": "Series C+",
   "state": "CA",
-  "updated": "2026-11-27T04:42:05+00:00",
+  "updated": "2026-11-27T18:45:11+00:00",
   "year_of_inc": "2026"
  },
  "corvita": {
@@ -1400,7 +1762,7 @@
   ],
   "stage_est": "Seed",
   "state": "OH",
-  "updated": "2026-11-27T04:41:54+00:00",
+  "updated": "2026-11-27T18:45:01+00:00",
   "year_of_inc": "2024"
  },
  "cosmoserve-space": {
@@ -1438,7 +1800,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:41:46+00:00",
+  "updated": "2026-11-27T18:44:52+00:00",
   "year_of_inc": "2026"
  },
  "crypto-insights-group": {
@@ -1470,12 +1832,17 @@
    "Remote (US)"
   ],
   "name": "Current",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "custom-trucks-nw": {
   "ats_checked": "2026-11-27",
@@ -1520,7 +1887,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T04:42:06+00:00"
+  "updated": "2026-11-27T18:45:11+00:00"
  },
  "dandy": {
   "ats": "ashby",
@@ -1536,12 +1903,24 @@
    "Germany - Berlin"
   ],
   "name": "Dandy",
-  "open_roles": 76,
+  "news_checked": "2026-11-27",
+  "open_roles": 77,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "customer": 8,
+   "data": 1,
+   "engineering": 3,
+   "finance": 6,
+   "legal": 1,
+   "marketing": 2,
+   "operations": 3,
+   "people": 1,
+   "sales": 29
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "dave": {
   "ats": "ashby",
@@ -1553,12 +1932,18 @@
    "United States"
   ],
   "name": "Dave",
+  "news_checked": "2026-11-27",
   "open_roles": 9,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "data": 4,
+   "engineering": 1,
+   "legal": 2
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "deel": {
   "ats": "ashby",
@@ -1572,7 +1957,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "deep-cogito": {
   "ats_checked": "2026-11-27",
@@ -1590,7 +1976,7 @@
   ],
   "stage_est": "Series C+",
   "state": "CA",
-  "updated": "2026-11-27T04:42:06+00:00",
+  "updated": "2026-11-27T18:45:12+00:00",
   "year_of_inc": "2024"
  },
  "deepsigma": {
@@ -1609,7 +1995,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T04:41:46+00:00",
+  "updated": "2026-11-27T18:44:52+00:00",
   "year_of_inc": "2026"
  },
  "doctome": {
@@ -1628,7 +2014,7 @@
   ],
   "stage_est": "Series A",
   "state": "WA",
-  "updated": "2026-11-27T04:41:54+00:00"
+  "updated": "2026-11-27T18:45:01+00:00"
  },
  "ducera-partners": {
   "ats": "greenhouse",
@@ -1647,7 +2033,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "dune-research": {
   "ats_checked": "2026-11-27",
@@ -1665,7 +2052,7 @@
   ],
   "stage_est": "Series B",
   "state": "CA",
-  "updated": "2026-11-27T04:41:55+00:00",
+  "updated": "2026-11-27T18:45:01+00:00",
   "year_of_inc": "2026"
  },
  "eagle-point-credit": {
@@ -1678,12 +2065,17 @@
    "New York City"
   ],
   "name": "Eagle Point Credit",
+  "news_checked": "2026-11-27",
   "open_roles": 7,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "earthx": {
   "ats_checked": "2026-11-27",
@@ -1718,12 +2110,24 @@
    "Barcelona"
   ],
   "name": "Ebury",
-  "open_roles": 174,
+  "news_checked": "2026-11-27",
+  "open_roles": 170,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 5,
+   "data": 8,
+   "engineering": 32,
+   "finance": 11,
+   "legal": 2,
+   "operations": 2,
+   "people": 3,
+   "sales": 50,
+   "security_it": 9
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "ecolectro": {
   "ats_checked": "2026-11-27",
@@ -1741,7 +2145,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T04:41:55+00:00"
+  "updated": "2026-11-27T18:45:01+00:00"
  },
  "eliseai": {
   "ats": "ashby",
@@ -1757,12 +2161,25 @@
    "New York City | Boston"
   ],
   "name": "EliseAI",
+  "news_checked": "2026-11-27",
   "open_roles": 106,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 3,
+   "engineering": 14,
+   "finance": 5,
+   "legal": 2,
+   "marketing": 7,
+   "operations": 13,
+   "people": 4,
+   "sales": 22,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "elligint-health": {
   "ats": "greenhouse",
@@ -1805,12 +2222,21 @@
    "London | San Francisco | New York"
   ],
   "name": "Encord",
+  "news_checked": "2026-11-27",
   "open_roles": 32,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "data": 4,
+   "engineering": 12,
+   "finance": 1,
+   "marketing": 2,
+   "sales": 5,
+   "security_it": 4
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "endosure": {
   "ats_checked": "2026-11-27",
@@ -1844,12 +2270,18 @@
    "Singapore"
   ],
   "name": "Engineers Gate",
+  "news_checked": "2026-11-27",
   "open_roles": 9,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 3,
+   "finance": 1
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "ennabl": {
   "ats_checked": "2026-11-27",
@@ -1867,7 +2299,7 @@
   ],
   "stage_est": "Seed",
   "state": "CT",
-  "updated": "2026-11-27T04:42:15+00:00"
+  "updated": "2026-11-27T18:45:20+00:00"
  },
  "epb-ii": {
   "ats_checked": "2026-11-27",
@@ -1942,7 +2374,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:41:46+00:00",
+  "updated": "2026-11-27T18:44:53+00:00",
   "year_of_inc": "2024"
  },
  "ethic": {
@@ -1960,7 +2392,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "evervault": {
   "ats": "ashby",
@@ -1973,12 +2406,19 @@
    "New York"
   ],
   "name": "Evervault",
+  "news_checked": "2026-11-27",
   "open_roles": 6,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 2,
+   "sales": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "exponential-platform": {
   "ats_checked": "2026-11-27",
@@ -1996,7 +2436,7 @@
   ],
   "stage_est": "Series A",
   "state": "NJ",
-  "updated": "2026-11-27T04:41:46+00:00",
+  "updated": "2026-11-27T18:44:53+00:00",
   "year_of_inc": "2024"
  },
  "extend-enterprises": {
@@ -2029,7 +2469,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "fairground-labs": {
   "ats": "ashby",
@@ -2042,12 +2483,20 @@
    "New York City"
   ],
   "name": "Fairground Labs",
-  "open_roles": 8,
+  "news_checked": "2026-11-27",
+  "open_roles": 7,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "finance": 1,
+   "marketing": 1,
+   "operations": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "fanaty": {
   "ats_checked": "2026-11-27",
@@ -2083,7 +2532,7 @@
   ],
   "stage_est": "Series C+",
   "state": "GA",
-  "updated": "2026-11-27T04:42:06+00:00",
+  "updated": "2026-11-27T18:45:12+00:00",
   "year_of_inc": "2026"
  },
  "feedback-technologies": {
@@ -2102,7 +2551,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:42:07+00:00",
+  "updated": "2026-11-27T18:45:12+00:00",
   "year_of_inc": "2026"
  },
  "figure": {
@@ -2119,12 +2568,23 @@
    "New York, NY; San Francisco, CA"
   ],
   "name": "Figure",
+  "news_checked": "2026-11-27",
   "open_roles": 30,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 3,
+   "engineering": 1,
+   "finance": 2,
+   "legal": 2,
+   "operations": 2,
+   "people": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "finch-legal": {
   "ats": "ashby",
@@ -2168,12 +2628,21 @@
    "San Francisco | Toronto | Vancouver | Orlando | Remote"
   ],
   "name": "Finix",
+  "news_checked": "2026-11-27",
   "open_roles": 25,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "legal": 1,
+   "marketing": 3,
+   "people": 2,
+   "sales": 7,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "flex": {
   "ats": "greenhouse",
@@ -2189,12 +2658,23 @@
    "New York, NY; San Francisco, CA"
   ],
   "name": "Flex",
-  "open_roles": 39,
+  "news_checked": "2026-11-27",
+  "open_roles": 38,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:05+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 3,
+   "engineering": 5,
+   "finance": 1,
+   "legal": 1,
+   "operations": 4,
+   "people": 1,
+   "sales": 7
+  },
+  "updated": "2026-11-27T18:45:39+00:00"
  },
  "flipturn": {
   "ats": "ashby",
@@ -2207,12 +2687,17 @@
    "Remote (US) | Austin, TX | New York City"
   ],
   "name": "Flipturn",
+  "news_checked": "2026-11-27",
   "open_roles": 2,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "marketing": 1
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "flo-technology": {
   "ats_checked": "2026-11-27",
@@ -2230,7 +2715,7 @@
   ],
   "stage_est": "Seed",
   "state": "NV",
-  "updated": "2026-11-27T04:42:07+00:00",
+  "updated": "2026-11-27T18:45:13+00:00",
   "year_of_inc": "2023"
  },
  "flourish": {
@@ -2245,12 +2730,18 @@
    "Remote"
   ],
   "name": "Flourish",
+  "news_checked": "2026-11-27",
   "open_roles": 7,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "customer": 1,
+   "finance": 3,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "focus-financial": {
   "ats": "ashby",
@@ -2262,12 +2753,17 @@
    "Remote"
   ],
   "name": "Focus Financial",
+  "news_checked": "2026-11-27",
   "open_roles": 3,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "people": 2
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "fortitude-gold": {
   "ats_checked": "2026-11-27",
@@ -2285,7 +2781,7 @@
   ],
   "stage_est": "Series A",
   "state": "CO",
-  "updated": "2026-11-27T04:41:55+00:00"
+  "updated": "2026-11-27T18:45:02+00:00"
  },
  "fortress-investment-group": {
   "first_seen": "2026-11-27T04:43:13+00:00",
@@ -2294,7 +2790,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "forward-financing": {
   "ats": "ashby",
@@ -2310,12 +2806,21 @@
    "Remote - Ontario | Remote - Alberta, Canada"
   ],
   "name": "Forward Financing",
+  "news_checked": "2026-11-27",
   "open_roles": 28,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 2,
+   "engineering": 3,
+   "people": 1,
+   "sales": 7,
+   "security_it": 9
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "fourth-day-broadway": {
   "ats_checked": "2026-11-27",
@@ -2333,7 +2838,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T04:42:07+00:00",
+  "updated": "2026-11-27T18:45:13+00:00",
   "year_of_inc": "2026"
  },
  "freemarket": {
@@ -2343,7 +2848,7 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:05+00:00"
+  "updated": "2026-11-27T18:45:39+00:00"
  },
  "freetrade": {
   "ats": "ashby",
@@ -2356,12 +2861,18 @@
    "London "
   ],
   "name": "Freetrade",
+  "news_checked": "2026-11-27",
   "open_roles": 6,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "marketing": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:35+00:00"
  },
  "from-the-farm": {
   "ats_checked": "2026-11-27",
@@ -2379,7 +2890,7 @@
   ],
   "stage_est": "Seed",
   "state": "DE",
-  "updated": "2026-11-27T04:41:55+00:00",
+  "updated": "2026-11-27T18:45:02+00:00",
   "year_of_inc": "2026"
  },
  "frontrace": {
@@ -2398,7 +2909,7 @@
   ],
   "stage_est": "Series A",
   "state": "FL",
-  "updated": "2026-11-27T04:42:08+00:00",
+  "updated": "2026-11-27T18:45:13+00:00",
   "year_of_inc": "2024"
  },
  "ft-partners": {
@@ -2415,12 +2926,19 @@
    "San Francisco"
   ],
   "name": "FT Partners",
+  "news_checked": "2026-11-27",
   "open_roles": 23,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:05+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "marketing": 1,
+   "people": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:38+00:00"
  },
  "fundingcircle": {
   "ats": "ashby",
@@ -2432,12 +2950,20 @@
    "London"
   ],
   "name": "fundingcircle",
+  "news_checked": "2026-11-27",
   "open_roles": 20,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "data": 4,
+   "engineering": 3,
+   "marketing": 1,
+   "operations": 1,
+   "sales": 5
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "fundrise": {
   "ats": "lever",
@@ -2449,12 +2975,16 @@
    "United States"
   ],
   "name": "Fundrise",
+  "news_checked": "2026-11-27",
   "open_roles": 1,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "data": 1
+  },
+  "updated": "2026-11-27T18:45:27+00:00"
  },
  "fynancial": {
   "ats_checked": "2026-11-27",
@@ -2472,7 +3002,7 @@
   ],
   "stage_est": "Series A",
   "state": "KY",
-  "updated": "2026-11-27T04:41:47+00:00",
+  "updated": "2026-11-27T18:44:53+00:00",
   "year_of_inc": "2026"
  },
  "galvanize-therapeutics": {
@@ -2525,12 +3055,21 @@
    "Singapore, Singapore"
   ],
   "name": "Gemini",
+  "news_checked": "2026-11-27",
   "open_roles": 22,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 8,
+   "marketing": 1,
+   "operations": 1,
+   "sales": 1,
+   "security_it": 3
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "general-inference": {
   "ats_checked": "2026-11-27",
@@ -2548,7 +3087,7 @@
   ],
   "stage_est": "Series A",
   "state": "DE",
-  "updated": "2026-11-27T04:42:15+00:00",
+  "updated": "2026-11-27T18:45:20+00:00",
   "year_of_inc": "2026"
  },
  "generate-capital": {
@@ -2565,12 +3104,20 @@
    "San Francisco, CA - Hybrid"
   ],
   "name": "Generate Capital",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "data": 1,
+   "finance": 5,
+   "legal": 1,
+   "people": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "glasshat-ai": {
   "ats_checked": "2026-11-27",
@@ -2605,12 +3152,22 @@
    "Riga, Latvia"
   ],
   "name": "GoCardless",
+  "news_checked": "2026-11-27",
   "open_roles": 23,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 8,
+   "engineering": 7,
+   "finance": 2,
+   "legal": 1,
+   "operations": 3,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "gradies": {
   "ats_checked": "2026-11-27",
@@ -2628,7 +3185,7 @@
   ],
   "stage_est": "Seed",
   "state": "NJ",
-  "updated": "2026-11-27T04:41:56+00:00",
+  "updated": "2026-11-27T18:45:02+00:00",
   "year_of_inc": "2026"
  },
  "grittgene-therapeutics": {
@@ -2647,7 +3204,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:41:47+00:00",
+  "updated": "2026-11-27T18:44:54+00:00",
   "year_of_inc": "2022"
  },
  "guidepoint": {
@@ -2664,12 +3221,23 @@
    "Gurugram, Haryana, India; Mumbai, Maharashtra, India; Pune, Maharashtra, India"
   ],
   "name": "Guidepoint",
+  "news_checked": "2026-11-27",
   "open_roles": 105,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "data": 6,
+   "engineering": 2,
+   "finance": 1,
+   "legal": 1,
+   "marketing": 2,
+   "people": 8,
+   "sales": 8,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "gusto": {
   "ats": "greenhouse",
@@ -2685,12 +3253,25 @@
    "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote"
   ],
   "name": "Gusto",
+  "news_checked": "2026-11-27",
   "open_roles": 86,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 3,
+   "data": 10,
+   "engineering": 22,
+   "finance": 3,
+   "legal": 3,
+   "marketing": 6,
+   "operations": 1,
+   "people": 11,
+   "sales": 11,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "hanover-park": {
   "ats": "ashby",
@@ -2702,12 +3283,20 @@
    "New York City"
   ],
   "name": "hanover-park",
+  "news_checked": "2026-11-27",
   "open_roles": 10,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "finance": 2,
+   "operations": 1,
+   "people": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "highbeam": {
   "ats": "ashby",
@@ -2720,12 +3309,19 @@
    "New York | Toronto"
   ],
   "name": "highbeam",
+  "news_checked": "2026-11-27",
   "open_roles": 9,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 1,
+   "marketing": 2,
+   "operations": 1
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "highnote": {
   "ats": "greenhouse",
@@ -2739,12 +3335,19 @@
    "San Francisco, California "
   ],
   "name": "Highnote",
+  "news_checked": "2026-11-27",
   "open_roles": 6,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 1,
+   "finance": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "hill-country-foodworks": {
   "ats_checked": "2026-11-27",
@@ -2799,7 +3402,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:41:56+00:00",
+  "updated": "2026-11-27T18:45:02+00:00",
   "year_of_inc": "2026"
  },
  "hps-investment-partners": {
@@ -2817,7 +3420,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "human-biotech": {
   "ats_checked": "2026-11-27",
@@ -2850,12 +3454,18 @@
    "San Francisco, California, United States"
   ],
   "name": "ICONIQ",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "legal": 1,
+   "marketing": 1,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "iex": {
   "ats": "greenhouse",
@@ -2871,12 +3481,17 @@
    "Remote - Must reside in California or Oregon"
   ],
   "name": "IEX",
+  "news_checked": "2026-11-27",
   "open_roles": 8,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:08+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 6
+  },
+  "updated": "2026-11-27T18:45:42+00:00"
  },
  "increase": {
   "ats": "lever",
@@ -2890,7 +3505,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:49+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:27+00:00"
  },
  "indranet": {
   "ats_checked": "2026-11-27",
@@ -2950,7 +3566,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T04:42:08+00:00",
+  "updated": "2026-11-27T18:45:14+00:00",
   "year_of_inc": "2025"
  },
  "inkind-cards": {
@@ -2969,7 +3585,7 @@
   ],
   "stage_est": "Series C+",
   "state": "TX",
-  "updated": "2026-11-27T04:41:56+00:00"
+  "updated": "2026-11-27T18:45:03+00:00"
  },
  "international-environmental-standards": {
   "ats_checked": "2026-11-27",
@@ -3003,12 +3619,25 @@
    "New York, New York, United States"
   ],
   "name": "Jane Street",
+  "news_checked": "2026-11-27",
   "open_roles": 219,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:08+00:00"
+  "team_counts": {
+   "customer": 3,
+   "data": 36,
+   "engineering": 82,
+   "finance": 8,
+   "legal": 2,
+   "marketing": 4,
+   "operations": 6,
+   "people": 8,
+   "sales": 4,
+   "security_it": 15
+  },
+  "updated": "2026-11-27T18:45:42+00:00"
  },
  "january": {
   "ats": "ashby",
@@ -3021,12 +3650,22 @@
    "New York City | Remote"
   ],
   "name": "January",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 2,
+   "marketing": 1,
+   "operations": 2,
+   "people": 2,
+   "sales": 1,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "jingling-pockets-ltd-liability": {
   "ats_checked": "2026-11-27",
@@ -3044,7 +3683,7 @@
   ],
   "stage_est": "Seed",
   "state": "NY",
-  "updated": "2026-11-27T04:42:08+00:00",
+  "updated": "2026-11-27T18:45:14+00:00",
   "year_of_inc": "2026"
  },
  "juniper-square": {
@@ -3061,12 +3700,24 @@
    "India | Bangalore Office"
   ],
   "name": "Juniper Square",
-  "open_roles": 50,
+  "news_checked": "2026-11-27",
+  "open_roles": 49,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 3,
+   "data": 2,
+   "engineering": 9,
+   "finance": 9,
+   "legal": 1,
+   "marketing": 3,
+   "people": 2,
+   "sales": 5,
+   "security_it": 5
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "kaliber-labs": {
   "ats_checked": "2026-11-27",
@@ -3084,7 +3735,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:42:09+00:00"
+  "updated": "2026-11-27T18:45:15+00:00"
  },
  "kalshi": {
   "ats": "greenhouse",
@@ -3098,12 +3749,24 @@
    "New York, New York, United States"
   ],
   "name": "Kalshi",
+  "news_checked": "2026-11-27",
   "open_roles": 28,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 8,
+   "finance": 3,
+   "legal": 2,
+   "marketing": 4,
+   "operations": 2,
+   "people": 1,
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "kapitus": {
   "ats": "greenhouse",
@@ -3119,12 +3782,20 @@
    "Virginia - Remote, Arlington, VA, Maryland - Hybrid, Washington DC - Hybrid"
   ],
   "name": "Kapitus",
+  "news_checked": "2026-11-27",
   "open_roles": 27,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:05+00:00"
+  "team_counts": {
+   "data": 6,
+   "engineering": 4,
+   "legal": 3,
+   "marketing": 1,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:39+00:00"
  },
  "keep-warm": {
   "ats_checked": "2026-11-27",
@@ -3142,7 +3813,7 @@
   ],
   "stage_est": "Seed",
   "state": "CT",
-  "updated": "2026-11-27T04:41:57+00:00",
+  "updated": "2026-11-27T18:45:03+00:00",
   "year_of_inc": "2026"
  },
  "knot": {
@@ -3155,12 +3826,18 @@
    "New York, NY"
   ],
   "name": "Knot",
+  "news_checked": "2026-11-27",
   "open_roles": 11,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "engineering": 5,
+   "operations": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "knowrisk": {
   "ats_checked": "2026-11-27",
@@ -3195,12 +3872,20 @@
    "Dublin"
   ],
   "name": "Kroll Bond Rating Agency (KBRA)",
+  "news_checked": "2026-11-27",
   "open_roles": 60,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 1,
+   "finance": 6,
+   "legal": 5,
+   "people": 4
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "kura-oncology": {
   "ats": "greenhouse",
@@ -3262,12 +3947,16 @@
    "Austin, Texas (US Remote Available) | United States / Remote"
   ],
   "name": "Ladder Capital",
+  "news_checked": "2026-11-27",
   "open_roles": 3,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "marketing": 2
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "langchain": {
   "ats": "ashby",
@@ -3283,12 +3972,23 @@
    "Boston, MA"
   ],
   "name": "LangChain",
+  "news_checked": "2026-11-27",
   "open_roles": 100,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 11,
+   "engineering": 21,
+   "marketing": 3,
+   "operations": 3,
+   "people": 3,
+   "sales": 33,
+   "security_it": 4
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "laza-medical": {
   "ats_checked": "2026-11-27",
@@ -3319,12 +4019,16 @@
    "New York, New York"
   ],
   "name": "Lead Edge Capital",
+  "news_checked": "2026-11-27",
   "open_roles": 2,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "marketing": 1
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "ledge": {
   "ats": "ashby",
@@ -3337,12 +4041,19 @@
    "Tel Aviv"
   ],
   "name": "Ledge",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:00+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 1,
+   "engineering": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:32+00:00"
  },
  "lemfi": {
   "ats": "ashby",
@@ -3358,12 +4069,20 @@
    "Italy"
   ],
   "name": "LemFi",
+  "news_checked": "2026-11-27",
   "open_roles": 32,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "finance": 5,
+   "legal": 3,
+   "marketing": 10,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "lendable": {
   "ats": "ashby",
@@ -3379,12 +4098,25 @@
    "Mexico City, Mexico"
   ],
   "name": "Lendable",
-  "open_roles": 65,
+  "news_checked": "2026-11-27",
+  "open_roles": 62,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 5,
+   "engineering": 11,
+   "finance": 4,
+   "legal": 1,
+   "marketing": 6,
+   "operations": 5,
+   "people": 2,
+   "sales": 2,
+   "security_it": 3
+  },
+  "updated": "2026-11-27T18:45:35+00:00"
  },
  "lifesci-advisors": {
   "ats": "lever",
@@ -3399,12 +4131,17 @@
    "New York, NY | San Diego, CA"
   ],
   "name": "LifeSci Advisors",
+  "news_checked": "2026-11-27",
   "open_roles": 10,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "lincoln-international": {
   "ats": "greenhouse",
@@ -3420,12 +4157,21 @@
    "Chicago, IL; New York, NY; Los Angeles, CA"
   ],
   "name": "Lincoln International",
-  "open_roles": 40,
+  "news_checked": "2026-11-27",
+  "open_roles": 44,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "data": 1,
+   "finance": 5,
+   "marketing": 2,
+   "people": 5,
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "linework-usa": {
   "ats_checked": "2026-11-27",
@@ -3478,12 +4224,19 @@
    "San Francisco | New York City"
   ],
   "name": "Linq",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "engineering": 2,
+   "marketing": 1,
+   "operations": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "liontree": {
   "ats": "greenhouse",
@@ -3501,7 +4254,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "lithic": {
   "ats": "greenhouse",
@@ -3515,12 +4269,19 @@
    "Remote "
   ],
   "name": "Lithic",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 5,
+   "finance": 2,
+   "operations": 1
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "loancore": {
   "ats": "greenhouse",
@@ -3534,7 +4295,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "lunar": {
   "ats": "ashby",
@@ -3549,12 +4311,17 @@
    "San Francisco"
   ],
   "name": "Lunar",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "engineering": 7,
+   "operations": 4
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "lyzr": {
   "ats": "ashby",
@@ -3602,7 +4369,7 @@
   ],
   "stage_est": "Seed",
   "state": "ME",
-  "updated": "2026-11-27T04:42:10+00:00",
+  "updated": "2026-11-27T18:45:15+00:00",
   "year_of_inc": "2026"
  },
  "manifest-financial": {
@@ -3621,7 +4388,7 @@
   ],
   "stage_est": "Series A",
   "state": "TX",
-  "updated": "2026-11-27T04:42:17+00:00",
+  "updated": "2026-11-27T18:45:22+00:00",
   "year_of_inc": "2023"
  },
  "maple-privacy-labs": {
@@ -3640,7 +4407,7 @@
   ],
   "stage_est": "Series A",
   "state": "TX",
-  "updated": "2026-11-27T04:42:17+00:00",
+  "updated": "2026-11-27T18:45:22+00:00",
   "year_of_inc": "2023"
  },
  "matchpoint-therapeutics": {
@@ -3659,7 +4426,7 @@
   ],
   "stage_est": "Series C+",
   "state": "MA",
-  "updated": "2026-11-27T04:42:17+00:00",
+  "updated": "2026-11-27T18:45:23+00:00",
   "year_of_inc": "2021"
  },
  "maven-app": {
@@ -3678,7 +4445,7 @@
   ],
   "stage_est": "Series A",
   "state": "DE",
-  "updated": "2026-11-27T04:42:10+00:00",
+  "updated": "2026-11-27T18:45:15+00:00",
   "year_of_inc": "2026"
  },
  "melio": {
@@ -3693,7 +4460,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "meow": {
   "ats": "ashby",
@@ -3706,12 +4474,19 @@
    "New York City"
   ],
   "name": "Meow",
+  "news_checked": "2026-11-27",
   "open_roles": 11,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "engineering": 2,
+   "finance": 2,
+   "operations": 2,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "mercury": {
   "ats": "greenhouse",
@@ -3727,12 +4502,23 @@
    "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States"
   ],
   "name": "Mercury",
+  "news_checked": "2026-11-27",
   "open_roles": 68,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 7,
+   "engineering": 14,
+   "legal": 2,
+   "marketing": 5,
+   "operations": 3,
+   "people": 8,
+   "sales": 6
+  },
+  "updated": "2026-11-27T18:45:25+00:00"
  },
  "mesh": {
   "ats": "greenhouse",
@@ -3748,12 +4534,20 @@
    "LATAM - Remote"
   ],
   "name": "Mesh",
+  "news_checked": "2026-11-27",
   "open_roles": 25,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 11,
+   "finance": 2,
+   "legal": 1,
+   "sales": 6
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "metaview": {
   "ats": "ashby",
@@ -3769,12 +4563,22 @@
    "San Francisco | New York City"
   ],
   "name": "Metaview",
+  "news_checked": "2026-11-27",
   "open_roles": 38,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "customer": 1,
+   "engineering": 2,
+   "finance": 1,
+   "marketing": 3,
+   "operations": 1,
+   "people": 4,
+   "sales": 17
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "middesk": {
   "ats": "ashby",
@@ -3789,12 +4593,20 @@
    "San Francisco | New York"
   ],
   "name": "Middesk",
+  "news_checked": "2026-11-27",
   "open_roles": 17,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 4,
+   "marketing": 3,
+   "operations": 1,
+   "sales": 5
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "million-dollar-hot-dog-ltd-liability": {
   "ats_checked": "2026-11-27",
@@ -3825,12 +4637,16 @@
    "New York"
   ],
   "name": "MIO Partners",
+  "news_checked": "2026-11-27",
   "open_roles": 2,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "engineering": 1
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "mkdc": {
   "ats_checked": "2026-11-27",
@@ -3867,7 +4683,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "modern-treasury": {
   "ats": "ashby",
@@ -3882,12 +4699,18 @@
    "San Francisco | New York | Remote"
   ],
   "name": "Modern Treasury",
+  "news_checked": "2026-11-27",
   "open_roles": 6,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:49+00:00"
+  "team_counts": {
+   "engineering": 2,
+   "finance": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:27+00:00"
  },
  "modulr-finance": {
   "ats": "greenhouse",
@@ -3903,12 +4726,21 @@
    "Pune"
   ],
   "name": "Modulr Finance",
+  "news_checked": "2026-11-27",
   "open_roles": 18,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "finance": 2,
+   "marketing": 2,
+   "operations": 1,
+   "people": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "molekule-group-inc-de": {
   "ats_checked": "2026-11-27",
@@ -3939,12 +4771,20 @@
    "New York, NY"
   ],
   "name": "Moment",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "engineering": 5,
+   "marketing": 2,
+   "operations": 1,
+   "people": 1,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "moneybox": {
   "ats": "ashby",
@@ -3958,12 +4798,20 @@
    "Remote"
   ],
   "name": "Moneybox",
-  "open_roles": 17,
+  "news_checked": "2026-11-27",
+  "open_roles": 18,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 3,
+   "engineering": 3,
+   "operations": 1,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "monzo": {
   "ats": "greenhouse",
@@ -3979,12 +4827,22 @@
    "Cardiff, London or Remote (UK); London"
   ],
   "name": "Monzo",
-  "open_roles": 58,
+  "news_checked": "2026-11-27",
+  "open_roles": 57,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "data": 11,
+   "engineering": 13,
+   "finance": 4,
+   "marketing": 7,
+   "operations": 4,
+   "sales": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "moonfare": {
   "ats": "greenhouse",
@@ -4000,12 +4858,20 @@
    "Munich, Germany"
   ],
   "name": "Moonfare",
+  "news_checked": "2026-11-27",
   "open_roles": 18,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "legal": 2,
+   "marketing": 2,
+   "operations": 2,
+   "people": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "mortgage-hawaii": {
   "ats_checked": "2026-11-27",
@@ -4036,12 +4902,17 @@
    "New York City"
   ],
   "name": "Mosaic",
+  "news_checked": "2026-11-27",
   "open_roles": 5,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:52+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "marketing": 1
+  },
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "mosaic-biosciences": {
   "ats_checked": "2026-11-27",
@@ -4075,12 +4946,22 @@
    "Berlin | Warsaw | London | Amsterdam"
   ],
   "name": "moss",
-  "open_roles": 32,
+  "news_checked": "2026-11-27",
+  "open_roles": 34,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "customer": 5,
+   "data": 1,
+   "engineering": 4,
+   "finance": 4,
+   "people": 2,
+   "sales": 12,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "mta-acquisitions": {
   "ats_checked": "2026-11-27",
@@ -4117,7 +4998,7 @@
   ],
   "stage_est": "Seed",
   "state": "MT",
-  "updated": "2026-11-27T04:42:17+00:00",
+  "updated": "2026-11-27T18:45:22+00:00",
   "year_of_inc": "2022"
  },
  "narmi": {
@@ -4132,7 +5013,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:08+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:42+00:00"
  },
  "natter": {
   "ats": "ashby",
@@ -4147,12 +5029,19 @@
    "US - East Coast | Chicago | Washington D.C."
   ],
   "name": "Natter",
+  "news_checked": "2026-11-27",
   "open_roles": 7,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "customer": 2,
+   "engineering": 1,
+   "marketing": 1,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "newton-golf": {
   "ats_checked": "2026-11-27",
@@ -4170,7 +5059,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:42:18+00:00"
+  "updated": "2026-11-27T18:45:23+00:00"
  },
  "next-robot": {
   "ats_checked": "2026-11-27",
@@ -4188,7 +5077,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T04:42:13+00:00",
+  "updated": "2026-11-27T18:45:18+00:00",
   "year_of_inc": "2023"
  },
  "nexus-networks": {
@@ -4226,7 +5115,7 @@
   ],
   "stage_est": "Series B",
   "state": "DE",
-  "updated": "2026-11-27T04:42:17+00:00",
+  "updated": "2026-11-27T18:45:23+00:00",
   "year_of_inc": "2024"
  },
  "north-central-florida-surgicenter": {
@@ -4259,12 +5148,17 @@
    "UK - Remote"
   ],
   "name": "Nory",
+  "news_checked": "2026-11-27",
   "open_roles": 3,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "finance": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "novapharm-enterprises": {
   "ats_checked": "2026-11-27",
@@ -4282,7 +5176,7 @@
   ],
   "stage_est": "Series B",
   "state": "FL",
-  "updated": "2026-11-27T04:41:49+00:00",
+  "updated": "2026-11-27T18:44:55+00:00",
   "year_of_inc": "2025"
  },
  "novo": {
@@ -4297,12 +5191,17 @@
    "Remote"
   ],
   "name": "Novo",
+  "news_checked": "2026-11-27",
   "open_roles": 3,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "nphase": {
   "ats_checked": "2026-11-27",
@@ -4336,12 +5235,24 @@
    "Miami"
   ],
   "name": "Nubank",
-  "open_roles": 109,
+  "news_checked": "2026-11-27",
+  "open_roles": 107,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "data": 7,
+   "engineering": 23,
+   "finance": 10,
+   "legal": 5,
+   "marketing": 3,
+   "operations": 1,
+   "people": 7,
+   "sales": 1,
+   "security_it": 9
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "numeric": {
   "ats": "ashby",
@@ -4357,12 +5268,22 @@
    "San Francisco | New York"
   ],
   "name": "Numeric",
+  "news_checked": "2026-11-27",
   "open_roles": 25,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:00+00:00"
+  "team_counts": {
+   "customer": 3,
+   "data": 3,
+   "engineering": 6,
+   "finance": 1,
+   "marketing": 2,
+   "people": 1,
+   "sales": 7
+  },
+  "updated": "2026-11-27T18:45:32+00:00"
  },
  "oak-hill-advisors": {
   "ats": "greenhouse",
@@ -4376,12 +5297,17 @@
    "New York, NY, USA"
   ],
   "name": "Oak Hill Advisors",
+  "news_checked": "2026-11-27",
   "open_roles": 6,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "operations": 1,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "obsidian-sensors": {
   "ats_checked": "2026-11-27",
@@ -4399,7 +5325,7 @@
   ],
   "stage_est": "Series B",
   "state": "CA",
-  "updated": "2026-11-27T04:42:11+00:00"
+  "updated": "2026-11-27T18:45:16+00:00"
  },
  "ocrolus": {
   "ats": "greenhouse",
@@ -4413,12 +5339,19 @@
    "Remote - US"
   ],
   "name": "Ocrolus",
+  "news_checked": "2026-11-27",
   "open_roles": 5,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 1,
+   "people": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "omnea": {
   "ats": "ashby",
@@ -4434,12 +5367,24 @@
    "London"
   ],
   "name": "Omnea",
+  "news_checked": "2026-11-27",
   "open_roles": 67,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 6,
+   "engineering": 6,
+   "legal": 3,
+   "marketing": 2,
+   "operations": 1,
+   "people": 1,
+   "sales": 30,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "omniloy": {
   "ats_checked": "2026-11-27",
@@ -4457,7 +5402,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T04:42:11+00:00",
+  "updated": "2026-11-27T18:45:16+00:00",
   "year_of_inc": "2024"
  },
  "onrails-technologies": {
@@ -4513,7 +5458,7 @@
   ],
   "stage_est": "Seed",
   "state": "NY",
-  "updated": "2026-11-27T04:41:58+00:00",
+  "updated": "2026-11-27T18:45:05+00:00",
   "year_of_inc": "2025"
  },
  "oscilar": {
@@ -4530,12 +5475,21 @@
    "Remote - India"
   ],
   "name": "oscilar",
+  "news_checked": "2026-11-27",
   "open_roles": 25,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 4,
+   "engineering": 6,
+   "marketing": 7,
+   "people": 1,
+   "sales": 4
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "otto-dms": {
   "ats_checked": "2026-11-27",
@@ -4553,7 +5507,7 @@
   ],
   "stage_est": "Seed",
   "state": "FL",
-  "updated": "2026-11-27T04:41:50+00:00",
+  "updated": "2026-11-27T18:44:56+00:00",
   "year_of_inc": "2023"
  },
  "outpost": {
@@ -4570,12 +5524,21 @@
    "Seattle"
   ],
   "name": "Outpost",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "customer": 1,
+   "engineering": 1,
+   "legal": 1,
+   "marketing": 1,
+   "operations": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "pacific-thermae-group": {
   "ats_checked": "2026-11-27",
@@ -4593,7 +5556,7 @@
   ],
   "stage_est": "Series A",
   "state": "WA",
-  "updated": "2026-11-27T04:41:50+00:00",
+  "updated": "2026-11-27T18:44:56+00:00",
   "year_of_inc": "2025"
  },
  "paddle": {
@@ -4610,12 +5573,21 @@
    "UK"
   ],
   "name": "Paddle",
-  "open_roles": 15,
+  "news_checked": "2026-11-27",
+  "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "data": 4,
+   "engineering": 2,
+   "legal": 1,
+   "marketing": 1,
+   "sales": 2,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "palmetto-clean-technology": {
   "ats": "greenhouse",
@@ -4631,12 +5603,23 @@
    "New York, NY, USA; Remote - United States"
   ],
   "name": "Palmetto Clean Technology",
+  "news_checked": "2026-11-27",
   "open_roles": 22,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 3,
+   "engineering": 1,
+   "finance": 3,
+   "marketing": 1,
+   "operations": 2,
+   "people": 2,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "pantheon": {
   "ats": "greenhouse",
@@ -4651,12 +5634,17 @@
    "Singapore"
   ],
   "name": "Pantheon",
+  "news_checked": "2026-11-27",
   "open_roles": 10,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "data": 1,
+   "legal": 2
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "parafin": {
   "ats": "ashby",
@@ -4670,7 +5658,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "pathos-ai": {
   "ats_checked": "2026-11-27",
@@ -4704,12 +5693,21 @@
    "San Francisco, CA & New York, NY & Salt Lake City, UT"
   ],
   "name": "Pave",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 3,
+   "engineering": 3,
+   "finance": 1,
+   "people": 3,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "paxos": {
   "ats": "ashby",
@@ -4725,12 +5723,22 @@
    "Remote - United States"
   ],
   "name": "Paxos",
+  "news_checked": "2026-11-27",
   "open_roles": 25,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:00+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 1,
+   "engineering": 3,
+   "finance": 2,
+   "legal": 2,
+   "marketing": 1,
+   "security_it": 4
+  },
+  "updated": "2026-11-27T18:45:32+00:00"
  },
  "pdt-partners": {
   "ats": "greenhouse",
@@ -4744,12 +5752,20 @@
    "New York, NY"
   ],
   "name": "PDT Partners",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 5,
+   "finance": 2,
+   "operations": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "permutive": {
   "ats": "ashby",
@@ -4762,12 +5778,17 @@
    "New York, New York, United States"
   ],
   "name": "Permutive",
+  "news_checked": "2026-11-27",
   "open_roles": 2,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "customer": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "perpay": {
   "ats": "greenhouse",
@@ -4793,7 +5814,7 @@
   ],
   "stage_est": "Series C+",
   "state": "PA",
-  "updated": "2026-11-27T04:42:18+00:00"
+  "updated": "2026-11-27T18:45:23+00:00"
  },
  "persona": {
   "ats": "ashby",
@@ -4808,12 +5829,19 @@
    "San Francisco | New York"
   ],
   "name": "Persona",
+  "news_checked": "2026-11-27",
   "open_roles": 13,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "engineering": 4,
+   "legal": 2,
+   "operations": 2,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "pfdselect-medical-receivables-1024": {
   "ats_checked": "2026-11-27",
@@ -4831,7 +5859,7 @@
   ],
   "stage_est": "Series A",
   "state": "NV",
-  "updated": "2026-11-27T04:42:18+00:00",
+  "updated": "2026-11-27T18:45:23+00:00",
   "year_of_inc": "2026"
  },
  "physical-dream": {
@@ -4850,7 +5878,7 @@
   ],
   "stage_est": "Seed",
   "state": "CT",
-  "updated": "2026-11-27T04:41:58+00:00",
+  "updated": "2026-11-27T18:45:05+00:00",
   "year_of_inc": "2024"
  },
  "pickup-health": {
@@ -4886,12 +5914,23 @@
    "France"
   ],
   "name": "Pigment",
-  "open_roles": 130,
+  "news_checked": "2026-11-27",
+  "open_roles": 128,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:52+00:00"
+  "team_counts": {
+   "customer": 13,
+   "data": 4,
+   "engineering": 24,
+   "finance": 2,
+   "marketing": 6,
+   "operations": 3,
+   "people": 9,
+   "sales": 36
+  },
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "pipe17": {
   "ats": "greenhouse",
@@ -4917,7 +5956,7 @@
   ],
   "stage_est": "Series A",
   "state": "WA",
-  "updated": "2026-11-27T04:41:50+00:00"
+  "updated": "2026-11-27T18:44:57+00:00"
  },
  "plaid": {
   "ats": "ashby",
@@ -4933,12 +5972,25 @@
    "New York City Office | New York City Office"
   ],
   "name": "Plaid",
+  "news_checked": "2026-11-27",
   "open_roles": 144,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 8,
+   "data": 23,
+   "engineering": 27,
+   "finance": 5,
+   "legal": 1,
+   "marketing": 10,
+   "operations": 4,
+   "people": 4,
+   "sales": 28,
+   "security_it": 7
+  },
+  "updated": "2026-11-27T18:45:25+00:00"
  },
  "pleo": {
   "ats": "ashby",
@@ -4954,12 +6006,23 @@
    "Copenhagen | Lisbon | London"
   ],
   "name": "Pleo",
-  "open_roles": 32,
+  "news_checked": "2026-11-27",
+  "open_roles": 29,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 7,
+   "data": 1,
+   "engineering": 2,
+   "finance": 1,
+   "legal": 1,
+   "marketing": 1,
+   "people": 2,
+   "sales": 8
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "pliant": {
   "ats": "ashby",
@@ -4975,12 +6038,22 @@
    "New York, United States (Hybrid)"
   ],
   "name": "Pliant",
+  "news_checked": "2026-11-27",
   "open_roles": 29,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:09+00:00"
+  "team_counts": {
+   "customer": 2,
+   "engineering": 4,
+   "finance": 1,
+   "marketing": 1,
+   "operations": 3,
+   "sales": 5,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:43+00:00"
  },
  "pointone": {
   "ats": "ashby",
@@ -4992,12 +6065,21 @@
    "New York City"
   ],
   "name": "PointOne",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "customer": 2,
+   "engineering": 6,
+   "marketing": 2,
+   "people": 2,
+   "sales": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "pointskash": {
   "ats_checked": "2026-11-27",
@@ -5015,7 +6097,7 @@
   ],
   "stage_est": "Series B",
   "state": "AZ",
-  "updated": "2026-11-27T04:42:18+00:00"
+  "updated": "2026-11-27T18:45:23+00:00"
  },
  "polymarket": {
   "ats": "ashby",
@@ -5029,12 +6111,23 @@
    "Remote"
   ],
   "name": "Polymarket",
+  "news_checked": "2026-11-27",
   "open_roles": 33,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 3,
+   "engineering": 5,
+   "finance": 2,
+   "legal": 3,
+   "marketing": 2,
+   "operations": 2,
+   "people": 2
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "population-stewardship-01-06": {
   "ats_checked": "2026-11-27",
@@ -5052,7 +6145,7 @@
   ],
   "stage_est": "Series C+",
   "state": "TX",
-  "updated": "2026-11-27T04:42:18+00:00",
+  "updated": "2026-11-27T18:45:24+00:00",
   "year_of_inc": "2026"
  },
  "power-elements": {
@@ -5071,7 +6164,7 @@
   ],
   "stage_est": "Series C+",
   "state": "TX",
-  "updated": "2026-11-27T04:41:59+00:00",
+  "updated": "2026-11-27T18:45:05+00:00",
   "year_of_inc": "2026"
  },
  "primer": {
@@ -5088,12 +6181,16 @@
    "Gainesville, Florida"
   ],
   "name": "Primer",
+  "news_checked": "2026-11-27",
   "open_roles": 15,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:35+00:00"
  },
  "profound": {
   "ats": "ashby",
@@ -5109,12 +6206,24 @@
    "New York, New York | London, England"
   ],
   "name": "Profound",
+  "news_checked": "2026-11-27",
   "open_roles": 90,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 6,
+   "engineering": 8,
+   "finance": 1,
+   "marketing": 9,
+   "operations": 7,
+   "people": 10,
+   "sales": 15,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "project-charlie-holdco": {
   "ats_checked": "2026-11-27",
@@ -5132,7 +6241,7 @@
   ],
   "stage_est": "Series A",
   "state": "NY",
-  "updated": "2026-11-27T04:41:51+00:00",
+  "updated": "2026-11-27T18:44:57+00:00",
   "year_of_inc": "2026"
  },
  "public": {
@@ -5145,12 +6254,19 @@
    "New York, New York"
   ],
   "name": "Public",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "data": 1,
+   "finance": 1,
+   "legal": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:26+00:00"
  },
  "rad-technologies": {
   "ats_checked": "2026-11-27",
@@ -5168,7 +6284,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T04:41:59+00:00"
+  "updated": "2026-11-27T18:45:05+00:00"
  },
  "rain": {
   "ats": "ashby",
@@ -5184,12 +6300,24 @@
    "New York, NY"
   ],
   "name": "Rain",
-  "open_roles": 47,
+  "news_checked": "2026-11-27",
+  "open_roles": 46,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:08+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 9,
+   "engineering": 8,
+   "legal": 2,
+   "marketing": 3,
+   "operations": 2,
+   "people": 1,
+   "sales": 5,
+   "security_it": 5
+  },
+  "updated": "2026-11-27T18:45:42+00:00"
  },
  "raine": {
   "ats": "lever",
@@ -5206,7 +6334,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "ramp": {
   "ats": "ashby",
@@ -5222,12 +6351,25 @@
    "New York, NY (HQ) | Remote (Canada) | San Francisco, CA | Remote (US)"
   ],
   "name": "Ramp",
+  "news_checked": "2026-11-27",
   "open_roles": 183,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 15,
+   "data": 11,
+   "engineering": 24,
+   "finance": 10,
+   "legal": 2,
+   "marketing": 11,
+   "operations": 8,
+   "people": 8,
+   "sales": 40,
+   "security_it": 6
+  },
+  "updated": "2026-11-27T18:45:25+00:00"
  },
  "range": {
   "ats": "greenhouse",
@@ -5239,14 +6381,20 @@
    "Toronto, ON, Canada"
   ],
   "name": "Range",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "engineering": 3,
+   "finance": 1
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "reach-neuro": {
+  "ats_checked": "2026-11-27",
   "cik": "1942277",
   "city": "Providence",
   "first_seen": "2026-11-27T04:42:46+00:00",
@@ -5254,6 +6402,7 @@
   "industry": "Other Health Care",
   "legal_name": "Reach Neuro, Inc.",
   "name": "Reach Neuro",
+  "news_checked": "2026-11-27",
   "revenue_range": "Decline to Disclose",
   "sources": [
    "formd"
@@ -5279,7 +6428,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "rho": {
   "ats": "ashby",
@@ -5295,12 +6445,24 @@
    "Miami"
   ],
   "name": "Rho",
-  "open_roles": 48,
+  "news_checked": "2026-11-27",
+  "open_roles": 49,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 2,
+   "engineering": 5,
+   "finance": 2,
+   "marketing": 4,
+   "operations": 1,
+   "people": 4,
+   "sales": 10,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "ridgeline": {
   "ats": "greenhouse",
@@ -5316,12 +6478,23 @@
    "New York, NY; Boston, MA; Washington, DC"
   ],
   "name": "Ridgeline",
+  "news_checked": "2026-11-27",
   "open_roles": 27,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:52+00:00"
+  "team_counts": {
+   "customer": 3,
+   "data": 5,
+   "engineering": 2,
+   "finance": 1,
+   "operations": 1,
+   "people": 1,
+   "sales": 5,
+   "security_it": 3
+  },
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "riemann-computing": {
   "ats_checked": "2026-11-27",
@@ -5339,7 +6512,7 @@
   ],
   "stage_est": "Seed",
   "state": "MI",
-  "updated": "2026-11-27T04:41:59+00:00"
+  "updated": "2026-11-27T18:45:05+00:00"
  },
  "rillet": {
   "ats": "ashby",
@@ -5355,12 +6528,23 @@
    "New York City | San Francisco"
   ],
   "name": "Rillet",
+  "news_checked": "2026-11-27",
   "open_roles": 45,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:00+00:00"
+  "team_counts": {
+   "customer": 5,
+   "data": 2,
+   "engineering": 6,
+   "finance": 6,
+   "marketing": 3,
+   "people": 2,
+   "sales": 9,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:32+00:00"
  },
  "rise-works": {
   "ats_checked": "2026-11-27",
@@ -5378,7 +6562,7 @@
   ],
   "stage_est": "Seed",
   "state": "OH",
-  "updated": "2026-11-27T04:42:12+00:00"
+  "updated": "2026-11-27T18:45:16+00:00"
  },
  "robinhood": {
   "ats": "greenhouse",
@@ -5394,12 +6578,25 @@
    "Bellevue, WA; Menlo Park, CA"
   ],
   "name": "Robinhood",
+  "news_checked": "2026-11-27",
   "open_roles": 161,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 14,
+   "data": 12,
+   "engineering": 52,
+   "finance": 8,
+   "legal": 4,
+   "marketing": 13,
+   "operations": 3,
+   "people": 6,
+   "sales": 1,
+   "security_it": 6
+  },
+  "updated": "2026-11-27T18:45:26+00:00"
  },
  "robotic-research-opco": {
   "ats_checked": "2026-11-27",
@@ -5417,7 +6614,7 @@
   ],
   "stage_est": "Series C+",
   "state": "MD",
-  "updated": "2026-11-27T04:41:51+00:00",
+  "updated": "2026-11-27T18:44:57+00:00",
   "year_of_inc": "2021"
  },
  "rocked": {
@@ -5436,7 +6633,7 @@
   ],
   "stage_est": "Series A",
   "state": "FL",
-  "updated": "2026-11-27T04:41:51+00:00"
+  "updated": "2026-11-27T18:44:57+00:00"
  },
  "rogo": {
   "ats": "ashby",
@@ -5452,12 +6649,25 @@
    "New York City | London | San Francisco"
   ],
   "name": "Rogo",
-  "open_roles": 102,
+  "news_checked": "2026-11-27",
+  "open_roles": 100,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 3,
+   "engineering": 13,
+   "finance": 5,
+   "legal": 2,
+   "marketing": 7,
+   "operations": 8,
+   "people": 6,
+   "sales": 19,
+   "security_it": 7
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "runwise": {
   "ats": "greenhouse",
@@ -5472,12 +6682,16 @@
    "New York, New York"
   ],
   "name": "Runwise",
+  "news_checked": "2026-11-27",
   "open_roles": 4,
   "size_est": "under 50",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "safe-oil": {
   "ats_checked": "2026-11-27",
@@ -5543,7 +6757,7 @@
   ],
   "stage_est": "Seed",
   "state": "NY",
-  "updated": "2026-11-27T04:41:51+00:00",
+  "updated": "2026-11-27T18:44:58+00:00",
   "year_of_inc": "2026"
  },
  "sardine": {
@@ -5560,14 +6774,25 @@
    "Europe | Poland "
   ],
   "name": "Sardine",
+  "news_checked": "2026-11-27",
   "open_roles": 40,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 2,
+   "engineering": 14,
+   "finance": 1,
+   "people": 1,
+   "sales": 12,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "savlamar": {
+  "ats_checked": "2026-11-27",
   "cik": "2164666",
   "city": "Hudsonville",
   "first_seen": "2026-11-27T04:42:47+00:00",
@@ -5575,6 +6800,7 @@
   "industry": "Manufacturing",
   "legal_name": "Savlamar, Inc.",
   "name": "Savlamar",
+  "news_checked": "2026-11-27",
   "revenue_range": "Decline to Disclose",
   "sources": [
    "formd"
@@ -5596,12 +6822,24 @@
    "Remote - US"
   ],
   "name": "Savvy Wealth",
+  "news_checked": "2026-11-27",
   "open_roles": 34,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 4,
+   "data": 1,
+   "engineering": 7,
+   "finance": 1,
+   "legal": 1,
+   "marketing": 3,
+   "operations": 3,
+   "people": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "schonfeld": {
   "ats": "greenhouse",
@@ -5617,12 +6855,21 @@
    "Miami, Florida, United States; New York, New York, United States"
   ],
   "name": "Schonfeld",
-  "open_roles": 67,
+  "news_checked": "2026-11-27",
+  "open_roles": 66,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 7,
+   "engineering": 9,
+   "finance": 1,
+   "operations": 3,
+   "people": 2
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "seaboard-assets": {
   "ats_checked": "2026-11-27",
@@ -5640,7 +6887,7 @@
   ],
   "stage_est": "Series A",
   "state": "CA",
-  "updated": "2026-11-27T04:42:12+00:00"
+  "updated": "2026-11-27T18:45:17+00:00"
  },
  "secondappraisal": {
   "ats_checked": "2026-11-27",
@@ -5662,6 +6909,7 @@
   "year_of_inc": "2025"
  },
  "sensetics": {
+  "ats_checked": "2026-11-27",
   "cik": "2159328",
   "city": "Princeton",
   "first_seen": "2026-11-27T04:42:47+00:00",
@@ -5669,6 +6917,7 @@
   "industry": "Other Technology",
   "legal_name": "Sensetics, Inc.",
   "name": "Sensetics",
+  "news_checked": "2026-11-27",
   "revenue_range": "Decline to Disclose",
   "sources": [
    "formd"
@@ -5691,12 +6940,19 @@
    "Salt Lake City (Hybrid)"
   ],
   "name": "Setpoint",
+  "news_checked": "2026-11-27",
   "open_roles": 7,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:05+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 1,
+   "operations": 2,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:38+00:00"
  },
  "sofi": {
   "ats": "greenhouse",
@@ -5712,12 +6968,25 @@
    "CA - San Francisco; NY - New York City; WA- Seattle"
   ],
   "name": "SoFi",
-  "open_roles": 58,
+  "news_checked": "2026-11-27",
+  "open_roles": 57,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 9,
+   "engineering": 4,
+   "finance": 4,
+   "legal": 2,
+   "marketing": 4,
+   "operations": 8,
+   "people": 2,
+   "sales": 1,
+   "security_it": 3
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "solar-landscape": {
   "ats": "lever",
@@ -5733,12 +7002,19 @@
    "Chicago, IL"
   ],
   "name": "Solar Landscape",
+  "news_checked": "2026-11-27",
   "open_roles": 18,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "finance": 1,
+   "legal": 1,
+   "operations": 3
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "somewhere-in-the-city-ltd-liability": {
   "ats_checked": "2026-11-27",
@@ -5769,12 +7045,16 @@
    "New York"
   ],
   "name": "Soros Fund Management",
+  "news_checked": "2026-11-27",
   "open_roles": 7,
   "size_est": "50-200",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "engineering": 2
+  },
+  "updated": "2026-11-27T18:45:49+00:00"
  },
  "spade": {
   "ats": "ashby",
@@ -5792,7 +7072,13 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:04+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 3,
+   "marketing": 1,
+   "sales": 4
+  },
+  "updated": "2026-11-27T18:45:38+00:00"
  },
  "spakl-tech": {
   "ats_checked": "2026-11-27",
@@ -5848,7 +7134,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:42:00+00:00"
+  "updated": "2026-11-27T18:45:06+00:00"
  },
  "stash": {
   "ats": "ashby",
@@ -5862,7 +7148,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "stax": {
   "ats": "lever",
@@ -5876,7 +7163,8 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:04+00:00"
+  "team_counts": {},
+  "updated": "2026-11-27T18:45:38+00:00"
  },
  "stensul": {
   "ats": "ashby",
@@ -5896,7 +7184,12 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "customer": 2,
+   "engineering": 2,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "stepstone-group": {
   "ats": "greenhouse",
@@ -5912,12 +7205,22 @@
    "Cleveland"
   ],
   "name": "StepStone Group",
-  "open_roles": 65,
+  "open_roles": 64,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "customer": 3,
+   "data": 11,
+   "engineering": 5,
+   "finance": 8,
+   "legal": 2,
+   "marketing": 2,
+   "operations": 1,
+   "sales": 4
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "stereotaxis": {
   "ats_checked": "2026-11-27",
@@ -5953,7 +7256,7 @@
   ],
   "stage_est": "Series B",
   "state": "FL",
-  "updated": "2026-11-27T04:42:00+00:00"
+  "updated": "2026-11-27T18:45:06+00:00"
  },
  "strake": {
   "ats_checked": "2026-11-27",
@@ -5971,7 +7274,7 @@
   ],
   "stage_est": "Seed",
   "state": "NV",
-  "updated": "2026-11-27T04:42:00+00:00",
+  "updated": "2026-11-27T18:45:06+00:00",
   "year_of_inc": "2026"
  },
  "strategic-ai-private-opportunities": {
@@ -6007,12 +7310,24 @@
    "Auckland, New Zealand"
   ],
   "name": "Stripe",
-  "open_roles": 767,
+  "open_roles": 768,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "customer": 43,
+   "data": 56,
+   "engineering": 155,
+   "finance": 28,
+   "legal": 3,
+   "marketing": 37,
+   "operations": 35,
+   "people": 26,
+   "sales": 198,
+   "security_it": 27
+  },
+  "updated": "2026-11-27T18:45:25+00:00"
  },
  "summit-brewing": {
   "ats_checked": "2026-11-27",
@@ -6030,7 +7345,7 @@
   ],
   "stage_est": "Seed",
   "state": "MN",
-  "updated": "2026-11-27T04:41:59+00:00"
+  "updated": "2026-11-27T18:45:06+00:00"
  },
  "summit-wold-investment": {
   "ats_checked": "2026-11-27",
@@ -6067,7 +7382,7 @@
   ],
   "stage_est": "Seed",
   "state": "MN",
-  "updated": "2026-11-27T04:41:52+00:00",
+  "updated": "2026-11-27T18:44:58+00:00",
   "year_of_inc": "2023"
  },
  "swarmia": {
@@ -6087,7 +7402,13 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 1,
+   "engineering": 1,
+   "sales": 2
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "synctera": {
   "ats": "ashby",
@@ -6104,9 +7425,13 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "data": 1
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "szns-labs": {
+  "ats_checked": "2026-11-27",
   "cik": "1864504",
   "city": "Reston",
   "first_seen": "2026-11-27T04:42:47+00:00",
@@ -6137,7 +7462,15 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:00+00:00"
+  "team_counts": {
+   "customer": 6,
+   "data": 1,
+   "engineering": 7,
+   "operations": 1,
+   "people": 2,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:32+00:00"
  },
  "tempo-xyz": {
   "ats": "ashby",
@@ -6158,7 +7491,13 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:10+00:00"
+  "team_counts": {
+   "customer": 1,
+   "engineering": 2,
+   "people": 1,
+   "security_it": 3
+  },
+  "updated": "2026-11-27T18:45:44+00:00"
  },
  "tendrils-compute": {
   "ats_checked": "2026-11-27",
@@ -6176,7 +7515,7 @@
   ],
   "stage_est": "Series B",
   "state": "OR",
-  "updated": "2026-11-27T04:42:19+00:00",
+  "updated": "2026-11-27T18:45:24+00:00",
   "year_of_inc": "2025"
  },
  "thoro": {
@@ -6210,12 +7549,18 @@
    "United States, New York, New York City"
   ],
   "name": "Thought Machine",
-  "open_roles": 34,
+  "open_roles": 35,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 2,
+   "engineering": 16,
+   "operations": 1,
+   "security_it": 8
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "tide": {
   "ats": "greenhouse",
@@ -6231,12 +7576,23 @@
    "India, Delhi NCR"
   ],
   "name": "Tide",
-  "open_roles": 92,
+  "open_roles": 94,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 4,
+   "engineering": 36,
+   "finance": 5,
+   "legal": 2,
+   "marketing": 1,
+   "people": 1,
+   "sales": 3,
+   "security_it": 11
+  },
+  "updated": "2026-11-27T18:45:35+00:00"
  },
  "tiger-global": {
   "ats": "ashby",
@@ -6253,7 +7609,10 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "engineering": 4
+  },
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "titan": {
   "ats": "ashby",
@@ -6270,7 +7629,10 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "engineering": 4
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "toast": {
   "ats": "greenhouse",
@@ -6286,12 +7648,24 @@
    "Arlington, TX "
   ],
   "name": "Toast",
-  "open_roles": 301,
+  "open_roles": 299,
   "size_est": "500+",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 2,
+   "data": 12,
+   "engineering": 60,
+   "finance": 8,
+   "legal": 1,
+   "marketing": 3,
+   "operations": 1,
+   "people": 5,
+   "sales": 189,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "tracksuit": {
   "ats": "ashby",
@@ -6312,7 +7686,12 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:11+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 2,
+   "sales": 14
+  },
+  "updated": "2026-11-27T18:45:47+00:00"
  },
  "trading-212": {
   "ats": "ashby",
@@ -6328,12 +7707,20 @@
    "London"
   ],
   "name": "Trading 212",
-  "open_roles": 42,
+  "open_roles": 39,
   "size_est": "200-500",
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:02+00:00"
+  "team_counts": {
+   "customer": 1,
+   "engineering": 13,
+   "finance": 1,
+   "marketing": 2,
+   "operations": 1,
+   "people": 1
+  },
+  "updated": "2026-11-27T18:45:36+00:00"
  },
  "treasury-prime": {
   "ats": "greenhouse",
@@ -6351,7 +7738,10 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "engineering": 2
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "truelayer": {
   "ats": "ashby",
@@ -6370,7 +7760,12 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "customer": 1,
+   "engineering": 1,
+   "finance": 2
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "tydal-technologies": {
   "ats_checked": "2026-11-27",
@@ -6388,7 +7783,7 @@
   ],
   "stage_est": "Seed",
   "state": "MA",
-  "updated": "2026-11-27T04:42:19+00:00",
+  "updated": "2026-11-27T18:45:24+00:00",
   "year_of_inc": "2025"
  },
  "unit": {
@@ -6406,7 +7801,10 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:50+00:00"
+  "team_counts": {
+   "engineering": 1
+  },
+  "updated": "2026-11-27T18:45:28+00:00"
  },
  "univital": {
   "ats_checked": "2026-11-27",
@@ -6446,7 +7844,15 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "data": 3,
+   "engineering": 7,
+   "finance": 1,
+   "marketing": 3,
+   "operations": 1,
+   "sales": 3
+  },
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "upwell-cosmetics": {
   "ats_checked": "2026-11-27",
@@ -6464,7 +7870,7 @@
   ],
   "stage_est": "Series A",
   "state": "MA",
-  "updated": "2026-11-27T04:42:19+00:00"
+  "updated": "2026-11-27T18:45:25+00:00"
  },
  "valon": {
   "ats": "ashby",
@@ -6485,7 +7891,17 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:51+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 2,
+   "engineering": 8,
+   "marketing": 1,
+   "operations": 2,
+   "people": 4,
+   "sales": 3,
+   "security_it": 2
+  },
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "valor-scientific": {
   "ats_checked": "2026-11-27",
@@ -6503,7 +7919,7 @@
   ],
   "stage_est": "Seed",
   "state": "AL",
-  "updated": "2026-11-27T04:41:52+00:00",
+  "updated": "2026-11-27T18:44:59+00:00",
   "year_of_inc": "2025"
  },
  "vanta": {
@@ -6525,7 +7941,16 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:52+00:00"
+  "team_counts": {
+   "customer": 5,
+   "data": 5,
+   "engineering": 13,
+   "marketing": 2,
+   "people": 1,
+   "sales": 23,
+   "security_it": 4
+  },
+  "updated": "2026-11-27T18:45:29+00:00"
  },
  "visaic": {
   "ats_checked": "2026-11-27",
@@ -6543,7 +7968,7 @@
   ],
   "stage_est": "Seed",
   "state": "CA",
-  "updated": "2026-11-27T04:41:52+00:00"
+  "updated": "2026-11-27T18:44:59+00:00"
  },
  "vise": {
   "ats": "ashby",
@@ -6560,7 +7985,15 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:03+00:00"
+  "team_counts": {
+   "engineering": 2,
+   "finance": 1,
+   "marketing": 3,
+   "operations": 1,
+   "people": 2,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:37+00:00"
  },
  "warp": {
   "ats": "ashby",
@@ -6577,7 +8010,14 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:12+00:00"
+  "team_counts": {
+   "engineering": 5,
+   "finance": 2,
+   "marketing": 3,
+   "sales": 6,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:48+00:00"
  },
  "wealthfront": {
   "ats": "lever",
@@ -6598,7 +8038,15 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:42:48+00:00"
+  "team_counts": {
+   "data": 1,
+   "engineering": 4,
+   "marketing": 2,
+   "operations": 3,
+   "people": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:26+00:00"
  },
  "wealthsimple": {
   "ats": "ashby",
@@ -6619,7 +8067,18 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:05+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 6,
+   "engineering": 2,
+   "finance": 2,
+   "marketing": 4,
+   "operations": 2,
+   "people": 4,
+   "sales": 2,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:38+00:00"
  },
  "william-blair": {
   "ats": "greenhouse",
@@ -6640,7 +8099,16 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:13+00:00"
+  "team_counts": {
+   "customer": 1,
+   "data": 4,
+   "engineering": 1,
+   "marketing": 5,
+   "operations": 2,
+   "sales": 1,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:50+00:00"
  },
  "wise": {
   "ats": "greenhouse",
@@ -6661,7 +8129,10 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "sales": 18
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  },
  "xatek": {
   "ats_checked": "2026-11-27",
@@ -6679,7 +8150,7 @@
   ],
   "stage_est": "Series A",
   "state": "OH",
-  "updated": "2026-11-27T04:42:13+00:00"
+  "updated": "2026-11-27T18:45:18+00:00"
  },
  "zamorak": {
   "ats_checked": "2026-11-27",
@@ -6697,7 +8168,7 @@
   ],
   "stage_est": "Seed",
   "state": "PA",
-  "updated": "2026-11-27T04:42:13+00:00",
+  "updated": "2026-11-27T18:45:18+00:00",
   "year_of_inc": "2026"
  },
  "zeely": {
@@ -6726,7 +8197,7 @@
   ],
   "stage_est": "Series B",
   "state": "DE",
-  "updated": "2026-11-27T04:42:20+00:00",
+  "updated": "2026-11-27T18:45:25+00:00",
   "year_of_inc": "2021"
  },
  "zip-security": {
@@ -6747,7 +8218,13 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:14+00:00"
+  "team_counts": {
+   "engineering": 1,
+   "finance": 1,
+   "marketing": 1,
+   "sales": 1
+  },
+  "updated": "2026-11-27T18:45:51+00:00"
  },
  "zopa": {
   "ats": "lever",
@@ -6766,6 +8243,15 @@
   "sources": [
    "watchlist"
   ],
-  "updated": "2026-11-27T04:43:01+00:00"
+  "team_counts": {
+   "data": 2,
+   "engineering": 11,
+   "finance": 2,
+   "marketing": 1,
+   "operations": 1,
+   "sales": 4,
+   "security_it": 1
+  },
+  "updated": "2026-11-27T18:45:34+00:00"
  }
 }

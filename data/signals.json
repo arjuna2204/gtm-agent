@@ -6889,7 +6889,10 @@
  "b46dd1b983d749cd": {
   "company_id": "kura-oncology",
   "data": {
-   "needs_check": true
+   "confirmed": true,
+   "needs_check": false,
+   "person": "Jennifer Fulk",
+   "role": "Chief Financial Officer"
   },
   "date": "2026-09-08",
   "detail": "Reported by Yahoo Finance",

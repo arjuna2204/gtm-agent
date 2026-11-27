@@ -1,0 +1,7224 @@
+{
+ "run_date": "2026-11-27",
+ "accounts": [
+  {
+   "company_id": "finch-legal",
+   "total": 85,
+   "fit": 40,
+   "timing": 35,
+   "strength": 10,
+   "parts": {
+    "industry": 15,
+    "size": 15,
+    "region": 10,
+    "raise": 20,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 10
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "Raised $75.5M of a $85.0M round (Form D), 23 days ago",
+    "hiring": "Hiring Assistant Controller",
+    "leader": "No new finance leader found",
+    "strength": "2 independent signal type(s)"
+   },
+   "signal_ids": [
+    "109a646cbb66e68a",
+    "73d15f451b9478f9"
+   ],
+   "has_timing_signal": true,
+   "rank": 1
+  },
+  {
+   "company_id": "kura-oncology",
+   "total": 80,
+   "fit": 40,
+   "timing": 30,
+   "strength": 10,
+   "parts": {
+    "industry": 15,
+    "size": 15,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 10,
+    "strength": 10
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "Raised $5.0M of a $25.0M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "Kura Oncology Appoints Jennifer Fulk as Chief Financial Officer - Yahoo Finance",
+    "strength": "2 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a56229c267b99700",
+    "b46dd1b983d749cd"
+   ],
+   "has_timing_signal": true,
+   "rank": 2
+  },
+  {
+   "company_id": "perpay",
+   "total": 78,
+   "fit": 40,
+   "timing": 28,
+   "strength": 10,
+   "parts": {
+    "industry": 15,
+    "size": 15,
+    "region": 10,
+    "raise": 20,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 10
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "Raised $21.7M of a $65.0M round (Form D), 22 days ago",
+    "hiring": "Hiring Finance Internship, Summer 2027, Junior Financial Analyst",
+    "leader": "No new finance leader found",
+    "strength": "2 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6f4437a434cceed6",
+    "0de9680b53a7ec87",
+    "527b21dccc465d78"
+   ],
+   "has_timing_signal": true,
+   "rank": 3
+  },
+  {
+   "company_id": "ansa-biotechnologies",
+   "total": 72,
+   "fit": 40,
+   "timing": 22,
+   "strength": 10,
+   "parts": {
+    "industry": 15,
+    "size": 15,
+    "region": 10,
+    "raise": 14,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 10
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "Raised $54.4M of a $71.9M round (Form D), 42 days ago",
+    "hiring": "Hiring Cost Accounting Manager",
+    "leader": "No new finance leader found",
+    "strength": "2 independent signal type(s)"
+   },
+   "signal_ids": [
+    "9e60ee9a84fc1914",
+    "0a78134c2c696f54"
+   ],
+   "has_timing_signal": true,
+   "rank": 4
+  },
+  {
+   "company_id": "lyzr",
+   "total": 65,
+   "fit": 40,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 15,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "Raised $12.9M of a $33.9M round (Form D), 24 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "ea6e4ce87474125a"
+   ],
+   "has_timing_signal": true,
+   "rank": 5
+  },
+  {
+   "company_id": "salespatriot",
+   "total": 65,
+   "fit": 40,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 15,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "Raised $20.0M (Form D), 25 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f66075afbfb3a57b"
+   ],
+   "has_timing_signal": true,
+   "rank": 6
+  },
+  {
+   "company_id": "zeely",
+   "total": 65,
+   "fit": 40,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 15,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "Raised $17.1M of a $40.0M round (Form D), 29 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "c2d7f368be3a92e3"
+   ],
+   "has_timing_signal": true,
+   "rank": 7
+  },
+  {
+   "company_id": "atomic-invest",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Financial Controller / Finance Partner / Project Manager in Finance",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "209c217dcf319c4c"
+   ],
+   "has_timing_signal": true,
+   "rank": 8
+  },
+  {
+   "company_id": "attain",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Controller",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "48488f4ba792eff6"
+   ],
+   "has_timing_signal": true,
+   "rank": 9
+  },
+  {
+   "company_id": "engineers-gate",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Assistant Controller",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "92c8293b1df6e875"
+   ],
+   "has_timing_signal": true,
+   "rank": 10
+  },
+  {
+   "company_id": "figure",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Manager of Treasury & Financial Operations",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f5da6603ff43d160"
+   ],
+   "has_timing_signal": true,
+   "rank": 11
+  },
+  {
+   "company_id": "flourish",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring FP&A Manager, Controller",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1c5b85cd8b59ef4f",
+    "3eef29a3d5ebd4c6"
+   ],
+   "has_timing_signal": true,
+   "rank": 12
+  },
+  {
+   "company_id": "generate-capital",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring VP, Sourcing & Procurement, Analyst, Treasury",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1cecb0ef7a75805c",
+    "f65c1dde8f9612ff"
+   ],
+   "has_timing_signal": true,
+   "rank": 13
+  },
+  {
+   "company_id": "hanover-park",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Fund Accountant (Associate, Controller, Director), Treasury Operations Associate",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "101f2481b0a99a31",
+    "6cb788d55c85a3f5"
+   ],
+   "has_timing_signal": true,
+   "rank": 14
+  },
+  {
+   "company_id": "highnote",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Head of Finance",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "dea161993a8fdfd6"
+   ],
+   "has_timing_signal": true,
+   "rank": 15
+  },
+  {
+   "company_id": "juniper-square",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Finance Director, R&D",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7e55454266c974ef"
+   ],
+   "has_timing_signal": true,
+   "rank": 16
+  },
+  {
+   "company_id": "kalshi",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Finance Operations",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "155900b0e1488660"
+   ],
+   "has_timing_signal": true,
+   "rank": 17
+  },
+  {
+   "company_id": "lincoln-international",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Controller, India",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "8e40bae2d683a86c"
+   ],
+   "has_timing_signal": true,
+   "rank": 18
+  },
+  {
+   "company_id": "lithic",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Treasury Operations Associate",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "fae27685672038cf"
+   ],
+   "has_timing_signal": true,
+   "rank": 19
+  },
+  {
+   "company_id": "meow",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Controller",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7c4b66b304ac4633"
+   ],
+   "has_timing_signal": true,
+   "rank": 20
+  },
+  {
+   "company_id": "modern-treasury",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring CFO/VP of Finance",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "eb1edd9effc998f5"
+   ],
+   "has_timing_signal": true,
+   "rank": 21
+  },
+  {
+   "company_id": "pdt-partners",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Procurement Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d2f8bd5774acb87a"
+   ],
+   "has_timing_signal": true,
+   "rank": 22
+  },
+  {
+   "company_id": "rho",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Treasury Advisor",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f598ca32bf801b83"
+   ],
+   "has_timing_signal": true,
+   "rank": 23
+  },
+  {
+   "company_id": "rillet",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Partnerships - Fractional CFO",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3b48aea54746c515"
+   ],
+   "has_timing_signal": true,
+   "rank": 24
+  },
+  {
+   "company_id": "upgrade",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Corporate FP&A Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4e0b16c83c8ddd4d"
+   ],
+   "has_timing_signal": true,
+   "rank": 25
+  },
+  {
+   "company_id": "warp",
+   "total": 53,
+   "fit": 33,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Head of Finance",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "cdf6601f44eb6ab5"
+   ],
+   "has_timing_signal": true,
+   "rank": 26
+  },
+  {
+   "company_id": "after-services",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.4M of a $3.5M round (Form D), 16 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "cb7db25040102e37"
+   ],
+   "has_timing_signal": true,
+   "rank": 27
+  },
+  {
+   "company_id": "altido-therapeutics",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $26.8M of a $45.6M round (Form D), 15 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3d9aec6c57d8d102"
+   ],
+   "has_timing_signal": true,
+   "rank": 28
+  },
+  {
+   "company_id": "ampera-inc-ga",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.0M (Form D), 21 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e8f832a0e11bfccc"
+   ],
+   "has_timing_signal": true,
+   "rank": 29
+  },
+  {
+   "company_id": "apolo-cloud",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.0M of a $2.0M round (Form D), 9 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "83404cee85843407"
+   ],
+   "has_timing_signal": true,
+   "rank": 30
+  },
+  {
+   "company_id": "aptevo-therapeutics",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Pharmaceuticals is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.0M (Form D), 16 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "fdbe504f24ba231d"
+   ],
+   "has_timing_signal": true,
+   "rank": 31
+  },
+  {
+   "company_id": "aurary-lab",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.0M of a $3.5M round (Form D), 16 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6d581ad50d25e87c"
+   ],
+   "has_timing_signal": true,
+   "rank": 32
+  },
+  {
+   "company_id": "baryons",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.8M of a $2.0M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "81b96baa6850cce9"
+   ],
+   "has_timing_signal": true,
+   "rank": 33
+  },
+  {
+   "company_id": "bebemos",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.2M of a $11.9M round (Form D), 16 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "b89c629077761395"
+   ],
+   "has_timing_signal": true,
+   "rank": 34
+  },
+  {
+   "company_id": "blitzoo",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.6M of a $5.0M round (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4b0378bf497d8aa3"
+   ],
+   "has_timing_signal": true,
+   "rank": 35
+  },
+  {
+   "company_id": "broccoli-intelligence",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $24.0M of a $30.0M round (Form D), 25 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7bc3ac5eec46edb5"
+   ],
+   "has_timing_signal": true,
+   "rank": 36
+  },
+  {
+   "company_id": "cega-innovations",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $5.0M round (Form D), 28 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "73aeaf2e9a1981c0"
+   ],
+   "has_timing_signal": true,
+   "rank": 37
+  },
+  {
+   "company_id": "city-light-studios",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $5.0M (Form D), 4 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a8bc4ebd7402f9e2"
+   ],
+   "has_timing_signal": true,
+   "rank": 38
+  },
+  {
+   "company_id": "claria-medical",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.1M of a $6.0M round (Form D), 14 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "2fd08af6e6780019"
+   ],
+   "has_timing_signal": true,
+   "rank": 39
+  },
+  {
+   "company_id": "climate-scale",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.6M (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "17517b969277b292"
+   ],
+   "has_timing_signal": true,
+   "rank": 40
+  },
+  {
+   "company_id": "clubhouse-ctv",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $4.0M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "c544c023d692cb3f"
+   ],
+   "has_timing_signal": true,
+   "rank": 41
+  },
+  {
+   "company_id": "compact-medical",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $2.6M round (Form D), 17 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3eac27017c6601c1"
+   ],
+   "has_timing_signal": true,
+   "rank": 42
+  },
+  {
+   "company_id": "corvita",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $1.1M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3336a3e9ed8470c3"
+   ],
+   "has_timing_signal": true,
+   "rank": 43
+  },
+  {
+   "company_id": "cosmoserve-space",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.3M of a $6.0M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4f386a0040b3f943"
+   ],
+   "has_timing_signal": true,
+   "rank": 44
+  },
+  {
+   "company_id": "counterfact-labs",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.0M (Form D), 29 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "bcce44eccc99be6c"
+   ],
+   "has_timing_signal": true,
+   "rank": 45
+  },
+  {
+   "company_id": "deep-cogito",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $58.7M of a $86.0M round (Form D), 11 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3a8bae48e72a8e6c"
+   ],
+   "has_timing_signal": true,
+   "rank": 46
+  },
+  {
+   "company_id": "deepsigma",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $10.0M round (Form D), 17 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "b1e0b3c3ce3b4ea4"
+   ],
+   "has_timing_signal": true,
+   "rank": 47
+  },
+  {
+   "company_id": "doctome",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $15.0M (Form D), 4 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "989a731ecf936644"
+   ],
+   "has_timing_signal": true,
+   "rank": 48
+  },
+  {
+   "company_id": "earthx",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $2.5M (Form D), 8 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d5684258df6c3fdd"
+   ],
+   "has_timing_signal": true,
+   "rank": 49
+  },
+  {
+   "company_id": "ecolectro",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $6.0M of a $7.1M round (Form D), 15 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a4fb0bcd45dece85"
+   ],
+   "has_timing_signal": true,
+   "rank": 50
+  },
+  {
+   "company_id": "endosure",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.3M of a $1.7M round (Form D), 24 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "491ac7b7906f6c30"
+   ],
+   "has_timing_signal": true,
+   "rank": 51
+  },
+  {
+   "company_id": "ennabl",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.0M (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "49ed8de6d9e12631"
+   ],
+   "has_timing_signal": true,
+   "rank": 52
+  },
+  {
+   "company_id": "esque-collective",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.0M (Form D), 14 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "06d2ba0a3f2d38c4"
+   ],
+   "has_timing_signal": true,
+   "rank": 53
+  },
+  {
+   "company_id": "exponential-platform",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $5.4M (Form D), 16 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7c8fe24cf14a4092"
+   ],
+   "has_timing_signal": true,
+   "rank": 54
+  },
+  {
+   "company_id": "feedback-technologies",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.2M (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3719413fbc6c2394"
+   ],
+   "has_timing_signal": true,
+   "rank": 55
+  },
+  {
+   "company_id": "flo-technology",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.0M of a $3.0M round (Form D), 28 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "82d301d7b0879295"
+   ],
+   "has_timing_signal": true,
+   "rank": 56
+  },
+  {
+   "company_id": "fortitude-gold",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $10.0M (Form D), 7 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6babb143d0c4c7a3"
+   ],
+   "has_timing_signal": true,
+   "rank": 57
+  },
+  {
+   "company_id": "from-the-farm",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.2M of a $1.2M round (Form D), 11 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "2c8ec6c25c059f76"
+   ],
+   "has_timing_signal": true,
+   "rank": 58
+  },
+  {
+   "company_id": "fynancial",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.5M of a $7.0M round (Form D), 17 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "13aaf1ebd57bd628"
+   ],
+   "has_timing_signal": true,
+   "rank": 59
+  },
+  {
+   "company_id": "galvanize-therapeutics",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $136.2M (Form D), 21 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "33407fecdd71be86"
+   ],
+   "has_timing_signal": true,
+   "rank": 60
+  },
+  {
+   "company_id": "glasshat-ai",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $4.0M (Form D), 24 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "45e55e42847d428a"
+   ],
+   "has_timing_signal": true,
+   "rank": 61
+  },
+  {
+   "company_id": "gradies",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.3M of a $1.4M round (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3bfd40f6ad3a9590"
+   ],
+   "has_timing_signal": true,
+   "rank": 62
+  },
+  {
+   "company_id": "grittgene-therapeutics",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.2M of a $1.0M round (Form D), 10 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "220757b6409dbdea"
+   ],
+   "has_timing_signal": true,
+   "rank": 63
+  },
+  {
+   "company_id": "human-biotech",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $6.6M of a $10.0M round (Form D), 25 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5dfe6fca667b792d"
+   ],
+   "has_timing_signal": true,
+   "rank": 64
+  },
+  {
+   "company_id": "infravana",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $6.7M (Form D), 14 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "2f9f89e28ad0362d"
+   ],
+   "has_timing_signal": true,
+   "rank": 65
+  },
+  {
+   "company_id": "inkind-cards",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $261.0M of a $271.0M round (Form D), 17 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "2476a87e55855832"
+   ],
+   "has_timing_signal": true,
+   "rank": 66
+  },
+  {
+   "company_id": "international-environmental-standards",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $7.0M of a $7.0M round (Form D), 17 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5cddd44e3114a0a3"
+   ],
+   "has_timing_signal": true,
+   "rank": 67
+  },
+  {
+   "company_id": "jingling-pockets-ltd-liability",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $3.0M (Form D), 4 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "875f4fd68e8fbacd"
+   ],
+   "has_timing_signal": true,
+   "rank": 68
+  },
+  {
+   "company_id": "knowrisk",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.6M of a $2.2M round (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "19b64be936512668"
+   ],
+   "has_timing_signal": true,
+   "rank": 69
+  },
+  {
+   "company_id": "kurd",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.0M of a $1.0M round (Form D), 28 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5525764da8e060b5"
+   ],
+   "has_timing_signal": true,
+   "rank": 70
+  },
+  {
+   "company_id": "laza-medical",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $70.5M of a $115.0M round (Form D), 23 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3e84bf83c688f249"
+   ],
+   "has_timing_signal": true,
+   "rank": 71
+  },
+  {
+   "company_id": "linnaeus-therapeutics",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.7M of a $10.0M round (Form D), 11 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "080f8ce98a1f53c3"
+   ],
+   "has_timing_signal": true,
+   "rank": 72
+  },
+  {
+   "company_id": "maven-app",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Computers is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $5.0M (Form D), 4 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f837a72aa0c06f26"
+   ],
+   "has_timing_signal": true,
+   "rank": 73
+  },
+  {
+   "company_id": "mkdc",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Computers is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.0M (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "df33c20153c1884a"
+   ],
+   "has_timing_signal": true,
+   "rank": 74
+  },
+  {
+   "company_id": "mta-acquisitions",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $341.9M (Form D), 23 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "246144a836e30211"
+   ],
+   "has_timing_signal": true,
+   "rank": 75
+  },
+  {
+   "company_id": "mtntough",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.2M (Form D), 15 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "2ebc93d65790ce4f"
+   ],
+   "has_timing_signal": true,
+   "rank": 76
+  },
+  {
+   "company_id": "newton-golf",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.5M of a $1.5M round (Form D), 21 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "af4ec1575433eab5"
+   ],
+   "has_timing_signal": true,
+   "rank": 77
+  },
+  {
+   "company_id": "nimble-precision",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $36.0M of a $55.0M round (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "8ea15c207d9895bd"
+   ],
+   "has_timing_signal": true,
+   "rank": 78
+  },
+  {
+   "company_id": "north-central-florida-surgicenter",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $3.6M (Form D), 8 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5eeaa808f427dc68"
+   ],
+   "has_timing_signal": true,
+   "rank": 79
+  },
+  {
+   "company_id": "novapharm-enterprises",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Pharmaceuticals is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $25.0M (Form D), 2 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1981b1c9444c0c19"
+   ],
+   "has_timing_signal": true,
+   "rank": 80
+  },
+  {
+   "company_id": "obsidian-sensors",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $41.3M of a $56.4M round (Form D), 21 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0c4035bdc3390981"
+   ],
+   "has_timing_signal": true,
+   "rank": 81
+  },
+  {
+   "company_id": "onrails-technologies",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $6.0M of a $7.0M round (Form D), 17 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "614d29ef2a24b1c1"
+   ],
+   "has_timing_signal": true,
+   "rank": 82
+  },
+  {
+   "company_id": "ophthalmology-surgery-center-of-dallas",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $3.5M (Form D), 8 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6c12601aa0a73031"
+   ],
+   "has_timing_signal": true,
+   "rank": 83
+  },
+  {
+   "company_id": "orchestra-health-technologies",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.1M of a $4.0M round (Form D), 15 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d7d659728bbfa8d1"
+   ],
+   "has_timing_signal": true,
+   "rank": 84
+  },
+  {
+   "company_id": "otto-dms",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.9M of a $1.0M round (Form D), 14 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "33e6200bd3c3e800"
+   ],
+   "has_timing_signal": true,
+   "rank": 85
+  },
+  {
+   "company_id": "pacific-thermae-group",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.6M of a $6.0M round (Form D), 5 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f32709eaffcf9b55"
+   ],
+   "has_timing_signal": true,
+   "rank": 86
+  },
+  {
+   "company_id": "physical-dream",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $1.5M round (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1ec7ce2b6fe592ae"
+   ],
+   "has_timing_signal": true,
+   "rank": 87
+  },
+  {
+   "company_id": "pickup-health",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $1.0M round (Form D), 24 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5ae6bfad8d7bdba1"
+   ],
+   "has_timing_signal": true,
+   "rank": 88
+  },
+  {
+   "company_id": "population-stewardship-01-06",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $90.0M (Form D), 7 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "8f5e3516d8e06e75"
+   ],
+   "has_timing_signal": true,
+   "rank": 89
+  },
+  {
+   "company_id": "power-elements",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $170.2M (Form D), 14 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7ed55a3adabca4f6"
+   ],
+   "has_timing_signal": true,
+   "rank": 90
+  },
+  {
+   "company_id": "project-charlie-holdco",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $6.2M (Form D), 24 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e2e1cb4a1dbf2272"
+   ],
+   "has_timing_signal": true,
+   "rank": 91
+  },
+  {
+   "company_id": "rad-technologies",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.8M of a $5.0M round (Form D), 11 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1c499e49fe7984ea"
+   ],
+   "has_timing_signal": true,
+   "rank": 92
+  },
+  {
+   "company_id": "reach-neuro",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.0M (Form D), 28 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "06d95c2c38d47e25"
+   ],
+   "has_timing_signal": true,
+   "rank": 93
+  },
+  {
+   "company_id": "riemann-computing",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Computers is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $3.5M (Form D), 3 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e059672f508728b5"
+   ],
+   "has_timing_signal": true,
+   "rank": 94
+  },
+  {
+   "company_id": "rise-works",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.8M of a $5.0M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "b856fd02e4091aff"
+   ],
+   "has_timing_signal": true,
+   "rank": 95
+  },
+  {
+   "company_id": "robotic-research-opco",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $45.0M of a $75.0M round (Form D), 10 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "10574cbe6cb1638c"
+   ],
+   "has_timing_signal": true,
+   "rank": 96
+  },
+  {
+   "company_id": "rocked",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $5.0M of a $18.0M round (Form D), 11 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "fe142321b301918f"
+   ],
+   "has_timing_signal": true,
+   "rank": 97
+  },
+  {
+   "company_id": "safe-oil",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.4M (Form D), 24 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1fd77b8ca928f6c5"
+   ],
+   "has_timing_signal": true,
+   "rank": 98
+  },
+  {
+   "company_id": "same-train-home-ltd-liability",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $3.7M (Form D), 2 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "547a4cd4b3bc76f6"
+   ],
+   "has_timing_signal": true,
+   "rank": 99
+  },
+  {
+   "company_id": "seaboard-assets",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $7.0M of a $15.0M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6832ba36afccfd55"
+   ],
+   "has_timing_signal": true,
+   "rank": 100
+  },
+  {
+   "company_id": "secondappraisal",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.0M of a $3.0M round (Form D), 10 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6ecb645c6f1fd16a"
+   ],
+   "has_timing_signal": true,
+   "rank": 101
+  },
+  {
+   "company_id": "sensetics",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $7.2M of a $10.0M round (Form D), 21 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "79bbe8b30a86e378"
+   ],
+   "has_timing_signal": true,
+   "rank": 102
+  },
+  {
+   "company_id": "somewhere-in-the-city-ltd-liability",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $22.0M (Form D), 9 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5dbdd3c5d55c3a7b"
+   ],
+   "has_timing_signal": true,
+   "rank": 103
+  },
+  {
+   "company_id": "spakl-tech",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $14.7M of a $17.4M round (Form D), 28 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "cd1c29bca0241421"
+   ],
+   "has_timing_signal": true,
+   "rank": 104
+  },
+  {
+   "company_id": "standard-cognition",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.0M (Form D), 17 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "773b20aacda626f5"
+   ],
+   "has_timing_signal": true,
+   "rank": 105
+  },
+  {
+   "company_id": "stereotaxis",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $12.0M of a $24.0M round (Form D), 18 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e4e644b862125bd2"
+   ],
+   "has_timing_signal": true,
+   "rank": 106
+  },
+  {
+   "company_id": "summit-brewing",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.5M of a $3.5M round (Form D), 14 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "be9203c460dcc8d2"
+   ],
+   "has_timing_signal": true,
+   "rank": 107
+  },
+  {
+   "company_id": "summit-wold-investment",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $5.2M (Form D), 14 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "ae3d8634a6004a61"
+   ],
+   "has_timing_signal": true,
+   "rank": 108
+  },
+  {
+   "company_id": "sunnydata",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.0M of a $2.0M round (Form D), 9 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "90d9c2a332af9760"
+   ],
+   "has_timing_signal": true,
+   "rank": 109
+  },
+  {
+   "company_id": "tendrils-compute",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $30.8M of a $31.9M round (Form D), 22 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0621a470482b82bc"
+   ],
+   "has_timing_signal": true,
+   "rank": 110
+  },
+  {
+   "company_id": "thoro",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $4.0M of a $15.0M round (Form D), 28 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "103784b18b6a20c4"
+   ],
+   "has_timing_signal": true,
+   "rank": 111
+  },
+  {
+   "company_id": "univital",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.1M of a $2.0M round (Form D), 21 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "12ab56f562d216ab"
+   ],
+   "has_timing_signal": true,
+   "rank": 112
+  },
+  {
+   "company_id": "valor-scientific",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.4M of a $2.0M round (Form D), 8 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a53deeafedfc6227"
+   ],
+   "has_timing_signal": true,
+   "rank": 113
+  },
+  {
+   "company_id": "zamorak",
+   "total": 50,
+   "fit": 25,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.0M of a $1.3M round (Form D), 20 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "811d2d9f0c48c600"
+   ],
+   "has_timing_signal": true,
+   "rank": 114
+  },
+  {
+   "company_id": "affirm",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Affirm Bank Treasury Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "adffdc918169952d"
+   ],
+   "has_timing_signal": true,
+   "rank": 115
+  },
+  {
+   "company_id": "antares-capital",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Controller",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7251e88ea557b4ef"
+   ],
+   "has_timing_signal": true,
+   "rank": 116
+  },
+  {
+   "company_id": "brex",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Travel & Expense (T&E) Manager, Travel & Expense (T&E) Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "00e6e4ad31322146",
+    "a7b9b626e56fad08"
+   ],
+   "has_timing_signal": true,
+   "rank": 117
+  },
+  {
+   "company_id": "carta",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Procurement Operations Specialist, Fund Controller - SBIC",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4a6f4497745449e1",
+    "4f3ee6ad04446059"
+   ],
+   "has_timing_signal": true,
+   "rank": 118
+  },
+  {
+   "company_id": "checkout-com",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Analyst, MENA Treasury, Manager, Treasury New Products (Crypto & Digital Assets Lead), Analyst, European Treasury",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1c406caff46cfdfb",
+    "8382218d61210c24",
+    "8622f6afb408d30d"
+   ],
+   "has_timing_signal": true,
+   "rank": 119
+  },
+  {
+   "company_id": "coinbase",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Head of Finance, Canada, Business Controller Intern",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "06029cdbc93f17c2",
+    "66e4a5e81f2b83f1"
+   ],
+   "has_timing_signal": true,
+   "rank": 120
+  },
+  {
+   "company_id": "guidepoint",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Travel & Expense Assistant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4d214a11567433c8"
+   ],
+   "has_timing_signal": true,
+   "rank": 121
+  },
+  {
+   "company_id": "jane-street",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Procurement Specialist, IT Services, Procurement Specialist, Procurement Specialist",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3fb65a9ca6c142e6",
+    "5df0c41ff1e0e4f8",
+    "bb7301dda909ba92"
+   ],
+   "has_timing_signal": true,
+   "rank": 122
+  },
+  {
+   "company_id": "kroll-bond-rating-agency-kbra",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Tax & Treasury - Manager (NY)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d4980568a3411fde"
+   ],
+   "has_timing_signal": true,
+   "rank": 123
+  },
+  {
+   "company_id": "nubank",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring FP&A Senior Specialist, Procurement Specialist, FP&A - Credit Products & Strategic Planning",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0f4fa5ef2da70b0f",
+    "1d3951c5f1c55eed",
+    "27a8c47642a4e1e2"
+   ],
+   "has_timing_signal": true,
+   "rank": 124
+  },
+  {
+   "company_id": "pigment",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring FP&A Model Builder",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6b088ff40eaca5af"
+   ],
+   "has_timing_signal": true,
+   "rank": 125
+  },
+  {
+   "company_id": "plaid",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Financial Analyst, FP&A",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6a31ea240dfe4743"
+   ],
+   "has_timing_signal": true,
+   "rank": 126
+  },
+  {
+   "company_id": "ramp",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Manager, Procurement Product Activation, Product Operations Specialist | Procurement, Enterprise Customer Activation Manager | Bill Pay & Procurement",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "551c3631bd9bd0e9",
+    "63f0533e813cc5e2",
+    "f3b1e3d094cee464"
+   ],
+   "has_timing_signal": true,
+   "rank": 127
+  },
+  {
+   "company_id": "rogo",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Procurement Lead, Director of Treasury",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "64a1d0526e165f11",
+    "7816f203b1a60a14"
+   ],
+   "has_timing_signal": true,
+   "rank": 128
+  },
+  {
+   "company_id": "schonfeld",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Product Controller",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e8dcd69323030aea"
+   ],
+   "has_timing_signal": true,
+   "rank": 129
+  },
+  {
+   "company_id": "stepstone-group",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Manager, Fund Accounting - Accounts Payable",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "050cad4176c9a49d"
+   ],
+   "has_timing_signal": true,
+   "rank": 130
+  },
+  {
+   "company_id": "stripe",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Treasury Specialist, Bridge Capital & Liquidity Risk \u2013 Digital Assets, Product Design Manager, Treasury, Accounts Payable Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "08681e024eba9da1",
+    "0f014aaa9dbac0a0",
+    "4220b708896d4208"
+   ],
+   "has_timing_signal": true,
+   "rank": 131
+  },
+  {
+   "company_id": "toast",
+   "total": 46,
+   "fit": 26,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Manager, Embedded Finance Operations",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "317482627d4bfe46"
+   ],
+   "has_timing_signal": true,
+   "rank": 132
+  },
+  {
+   "company_id": "anchorage-digital",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Member of Accounting, Regulated Trading & Derivatives",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d70a0033b8365a12"
+   ],
+   "has_timing_signal": true,
+   "rank": 133
+  },
+  {
+   "company_id": "arca",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Head of Tax",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "b5889dea6615cb89"
+   ],
+   "has_timing_signal": true,
+   "rank": 134
+  },
+  {
+   "company_id": "baselayer",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Finance & Operations Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "1b0568c4e632156a"
+   ],
+   "has_timing_signal": true,
+   "rank": 135
+  },
+  {
+   "company_id": "betterment",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Sr. Accountant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3c19b4d8d3a828d1"
+   ],
+   "has_timing_signal": true,
+   "rank": 136
+  },
+  {
+   "company_id": "blend",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Tax Director, Director of Revenue Accounting, Senior Manager, Technical Accounting",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6f3645decc2a6d9e",
+    "d27fbeed4156077f",
+    "d32ab9ecc3414a6a"
+   ],
+   "has_timing_signal": true,
+   "rank": 137
+  },
+  {
+   "company_id": "cais",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Revenue Accounting - Senior Associate",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "15150a36d836f991"
+   ],
+   "has_timing_signal": true,
+   "rank": 138
+  },
+  {
+   "company_id": "campfire",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Accounting Deployment Strategist",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e47142f2f3c6e375"
+   ],
+   "has_timing_signal": true,
+   "rank": 139
+  },
+  {
+   "company_id": "clear-street",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Associate, Internal Audit, Associate Director - International Tax",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7685f565ffe58598",
+    "e6b7da3a2f2a36a7"
+   ],
+   "has_timing_signal": true,
+   "rank": 140
+  },
+  {
+   "company_id": "coinflow",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Finance Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "c580caadeab4b155"
+   ],
+   "has_timing_signal": true,
+   "rank": 141
+  },
+  {
+   "company_id": "column",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Audit, Technology",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3976b7f263433267"
+   ],
+   "has_timing_signal": true,
+   "rank": 142
+  },
+  {
+   "company_id": "encord",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Financial Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a7d032bbbac5a694"
+   ],
+   "has_timing_signal": true,
+   "rank": 143
+  },
+  {
+   "company_id": "fairground-labs",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Finance & Strategy Lead",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "71daf8bd3628c7dd"
+   ],
+   "has_timing_signal": true,
+   "rank": 144
+  },
+  {
+   "company_id": "flex",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Manager, Corporate Accounting",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6eb85f947f59015e"
+   ],
+   "has_timing_signal": true,
+   "rank": 145
+  },
+  {
+   "company_id": "metaview",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Strategic Finance",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "19676bc298a0327b"
+   ],
+   "has_timing_signal": true,
+   "rank": 146
+  },
+  {
+   "company_id": "numeric",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Partner Manager, Accounting & Advisory",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "94a6d2fab142aa06"
+   ],
+   "has_timing_signal": true,
+   "rank": 147
+  },
+  {
+   "company_id": "palmetto-clean-technology",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Capital Markets Analyst - Project Finance, Capital Markets Associate, Structured Finance, Director/VP, Tax Equity Capital",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0674a7f52420bfbe",
+    "1b5564c5e8cd26d9",
+    "9669b1a4b89a0392"
+   ],
+   "has_timing_signal": true,
+   "rank": 148
+  },
+  {
+   "company_id": "pave",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Accountant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "bbbe0d321dabc795"
+   ],
+   "has_timing_signal": true,
+   "rank": 149
+  },
+  {
+   "company_id": "paxos",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Accountant, Corporate, Senior Revenue Accountant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "70618e2f3b82c32d",
+    "951790478dc58f86"
+   ],
+   "has_timing_signal": true,
+   "rank": 150
+  },
+  {
+   "company_id": "pliant",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Accountant (m/f/d)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a8225f86030844da"
+   ],
+   "has_timing_signal": true,
+   "rank": 151
+  },
+  {
+   "company_id": "polymarket",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Accounting Manager, Senior Accountant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "029818c68515113b",
+    "4c087f3413ca9ae2"
+   ],
+   "has_timing_signal": true,
+   "rank": 152
+  },
+  {
+   "company_id": "ridgeline",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Financial Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6f9d39c2e30cb90a"
+   ],
+   "has_timing_signal": true,
+   "rank": 153
+  },
+  {
+   "company_id": "savvy-wealth",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Director, Revenue Accounting",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "c8b5e6a11bd29266"
+   ],
+   "has_timing_signal": true,
+   "rank": 154
+  },
+  {
+   "company_id": "sofi",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Strategic Finance Manager, Credit Card, Payroll Specialist, Lead Product Tax Advisor",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0082ace600d3922c",
+    "69e74d1c51b676ef",
+    "70b43042c049ee7e"
+   ],
+   "has_timing_signal": true,
+   "rank": 155
+  },
+  {
+   "company_id": "solar-landscape",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Portfolio Accountant, Reporting & Compliance",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "edcb9e17a4e19cea"
+   ],
+   "has_timing_signal": true,
+   "rank": 156
+  },
+  {
+   "company_id": "vise",
+   "total": 46,
+   "fit": 33,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Accounting Lead",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "414584bea00d98cf"
+   ],
+   "has_timing_signal": true,
+   "rank": 157
+  },
+  {
+   "company_id": "agnitioai-technologies",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.3M of a $2.0M round (Form D), 30 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "34b747ef04045309"
+   ],
+   "has_timing_signal": true,
+   "rank": 158
+  },
+  {
+   "company_id": "celes-technologies",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $8.7M (Form D), 42 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d12388d934535ea7"
+   ],
+   "has_timing_signal": true,
+   "rank": 159
+  },
+  {
+   "company_id": "coral-mountain-opco",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.6M of a $97.5M round (Form D), 70 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "25cf080ef373ba88"
+   ],
+   "has_timing_signal": true,
+   "rank": 160
+  },
+  {
+   "company_id": "crypto-insights-group",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.8M of a $2.0M round (Form D), 56 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "c15815a866a0a3bf"
+   ],
+   "has_timing_signal": true,
+   "rank": 161
+  },
+  {
+   "company_id": "custom-trucks-nw",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.1M (Form D), 39 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "af064696bd3eb2dc"
+   ],
+   "has_timing_signal": true,
+   "rank": 162
+  },
+  {
+   "company_id": "dune-research",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $35.2M of a $44.2M round (Form D), 44 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "2432d743946c5b45"
+   ],
+   "has_timing_signal": true,
+   "rank": 163
+  },
+  {
+   "company_id": "epb-ii",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $127.1M (Form D), 56 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3678159b14e4b239"
+   ],
+   "has_timing_signal": true,
+   "rank": 164
+  },
+  {
+   "company_id": "epb3",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $15.5M (Form D), 41 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7eb9a22e86fda78c"
+   ],
+   "has_timing_signal": true,
+   "rank": 165
+  },
+  {
+   "company_id": "epb4",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $4.0M (Form D), 50 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f997ac5c7021763c"
+   ],
+   "has_timing_signal": true,
+   "rank": 166
+  },
+  {
+   "company_id": "extend-enterprises",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.1M of a $3.6M round (Form D), 64 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d7a4156f4a5168c3"
+   ],
+   "has_timing_signal": true,
+   "rank": 167
+  },
+  {
+   "company_id": "fanaty",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.0M of a $1.2M round (Form D), 57 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f1545d4a350fa4f6"
+   ],
+   "has_timing_signal": true,
+   "rank": 168
+  },
+  {
+   "company_id": "fourth-day-broadway",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.5M of a $7.0M round (Form D), 63 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d4a79a2c4322e061"
+   ],
+   "has_timing_signal": true,
+   "rank": 169
+  },
+  {
+   "company_id": "gamow-labs",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $10.0M (Form D), 79 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7715288225609b44"
+   ],
+   "has_timing_signal": true,
+   "rank": 170
+  },
+  {
+   "company_id": "general-inference",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Computers is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $4.5M of a $5.0M round (Form D), 45 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a79e37ebd39de4dc"
+   ],
+   "has_timing_signal": true,
+   "rank": 171
+  },
+  {
+   "company_id": "hill-country-foodworks",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.0M of a $1.8M round (Form D), 39 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "bea7479fee3afee2"
+   ],
+   "has_timing_signal": true,
+   "rank": 172
+  },
+  {
+   "company_id": "hot-steamy",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Restaurants is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.3M of a $2.2M round (Form D), 49 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d19ea9b6489ce059"
+   ],
+   "has_timing_signal": true,
+   "rank": 173
+  },
+  {
+   "company_id": "indranet",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $40.0M (Form D), 35 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4a1e3d2480163a54"
+   ],
+   "has_timing_signal": true,
+   "rank": 174
+  },
+  {
+   "company_id": "maine-advanced-systems-group",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.0M (Form D), 35 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f48f979a955bd951"
+   ],
+   "has_timing_signal": true,
+   "rank": 175
+  },
+  {
+   "company_id": "maple-privacy-labs",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $5.4M (Form D), 59 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "cebc46cc07474c79"
+   ],
+   "has_timing_signal": true,
+   "rank": 176
+  },
+  {
+   "company_id": "matchpoint-therapeutics",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Pharmaceuticals is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $68.4M of a $150.0M round (Form D), 57 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "89e302fd39c004d8"
+   ],
+   "has_timing_signal": true,
+   "rank": 177
+  },
+  {
+   "company_id": "million-dollar-hot-dog-ltd-liability",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.5M of a $6.0M round (Form D), 56 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "58d91464fa29a514"
+   ],
+   "has_timing_signal": true,
+   "rank": 178
+  },
+  {
+   "company_id": "molekule-group-inc-de",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Retailing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.4M (Form D), 44 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "44d99afcf6823eec"
+   ],
+   "has_timing_signal": true,
+   "rank": 179
+  },
+  {
+   "company_id": "mosaic-biosciences",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.0M (Form D), 44 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "ff7e5b03c67597bf"
+   ],
+   "has_timing_signal": true,
+   "rank": 180
+  },
+  {
+   "company_id": "nexus-networks",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $47.1M of a $47.5M round (Form D), 42 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "fa62c9f5e3b4e887"
+   ],
+   "has_timing_signal": true,
+   "rank": 181
+  },
+  {
+   "company_id": "nphase",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $15.0M of a $30.0M round (Form D), 45 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "ab4a796998775b9a"
+   ],
+   "has_timing_signal": true,
+   "rank": 182
+  },
+  {
+   "company_id": "omniloy",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $9.6M (Form D), 32 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "60167994b1d02f39"
+   ],
+   "has_timing_signal": true,
+   "rank": 183
+  },
+  {
+   "company_id": "savlamar",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.5M of a $6.1M round (Form D), 35 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4b2546206fbcc8c7"
+   ],
+   "has_timing_signal": true,
+   "rank": 184
+  },
+  {
+   "company_id": "spencer-investco",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Health Care is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $10.0M of a $11.0M round (Form D), 37 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "765c88507275a3d8"
+   ],
+   "has_timing_signal": true,
+   "rank": 185
+  },
+  {
+   "company_id": "strake",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.9M of a $3.0M round (Form D), 38 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "29fa6c78df2b414f"
+   ],
+   "has_timing_signal": true,
+   "rank": 186
+  },
+  {
+   "company_id": "strategic-ai-private-opportunities",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $4.3M (Form D), 50 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a6851c60e9af1245"
+   ],
+   "has_timing_signal": true,
+   "rank": 187
+  },
+  {
+   "company_id": "tydal-technologies",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $2.0M of a $2.0M round (Form D), 36 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "ca510cda884754e7"
+   ],
+   "has_timing_signal": true,
+   "rank": 188
+  },
+  {
+   "company_id": "upwell-cosmetics",
+   "total": 44,
+   "fit": 25,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $5.5M (Form D), 35 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0d79e62d1a3a78b0"
+   ],
+   "has_timing_signal": true,
+   "rank": 189
+  },
+  {
+   "company_id": "alljoined",
+   "total": 44,
+   "fit": 33,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 8,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "About under 50 people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "Raised $16.2M of a $18.7M round (Form D), 113 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "93e9919c0b6681e6"
+   ],
+   "has_timing_signal": true,
+   "rank": 190
+  },
+  {
+   "company_id": "pipe17",
+   "total": 44,
+   "fit": 33,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 8,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "About under 50 people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "Raised $5.0M of a $8.0M round (Form D), 99 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f2b468f881f81cb1"
+   ],
+   "has_timing_signal": true,
+   "rank": 191
+  },
+  {
+   "company_id": "apex-er-iii",
+   "total": 43,
+   "fit": 18,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Hospitals and Physicians: partial credit",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $1.6M (Form D), 9 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4611a94d8077f7b8"
+   ],
+   "has_timing_signal": true,
+   "rank": 192
+  },
+  {
+   "company_id": "apri-foundation",
+   "total": 43,
+   "fit": 18,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Banking and Financial Services: partial credit",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $10.0M (Form D), 9 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "6753aee74e642944"
+   ],
+   "has_timing_signal": true,
+   "rank": 193
+  },
+  {
+   "company_id": "manifest-financial",
+   "total": 43,
+   "fit": 18,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Banking and Financial Services: partial credit",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $4.5M of a $10.0M round (Form D), 21 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "9570cd46eb672224"
+   ],
+   "has_timing_signal": true,
+   "rank": 194
+  },
+  {
+   "company_id": "mortgage-hawaii",
+   "total": 43,
+   "fit": 18,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Banking and Financial Services: partial credit",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $2.0M (Form D), 9 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "230329b993e4b697"
+   ],
+   "has_timing_signal": true,
+   "rank": 195
+  },
+  {
+   "company_id": "pfdselect-medical-receivables-1024",
+   "total": 43,
+   "fit": 18,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Banking and Financial Services: partial credit",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $10.0M (Form D), 7 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "15df2e400eadbdf6"
+   ],
+   "has_timing_signal": true,
+   "rank": 196
+  },
+  {
+   "company_id": "pointskash",
+   "total": 43,
+   "fit": 18,
+   "timing": 20,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 0,
+    "region": 10,
+    "raise": 20,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Banking and Financial Services: partial credit",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raising up to $30.0M (Form D), 7 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "64859c91521f149f"
+   ],
+   "has_timing_signal": true,
+   "rank": 197
+  },
+  {
+   "company_id": "acorns",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Manager, Sourcing & Procurement",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5b3ccc88ad5c25c8"
+   ],
+   "has_timing_signal": true,
+   "rank": 198
+  },
+  {
+   "company_id": "gocardless",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Procurement Sourcing Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4c10af77b7460045"
+   ],
+   "has_timing_signal": true,
+   "rank": 199
+  },
+  {
+   "company_id": "lemfi",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring European Entity Controller, UK Entity Controller, FP&A Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "748c114ec669f5c6",
+    "b419f5831235d250",
+    "c36a804832d3a133"
+   ],
+   "has_timing_signal": true,
+   "rank": 200
+  },
+  {
+   "company_id": "mesh",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Treasury Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e5cc3ce6ed8d838b"
+   ],
+   "has_timing_signal": true,
+   "rank": 201
+  },
+  {
+   "company_id": "monzo",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Treasury Product Control Analyst, Senior Treasury Capital Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "31283e5ac10a9b5a",
+    "b0b05e064b35dc0b"
+   ],
+   "has_timing_signal": true,
+   "rank": 202
+  },
+  {
+   "company_id": "moss",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring (Senior) FP&A Manager (f/m/d)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "17746efe194a77ae"
+   ],
+   "has_timing_signal": true,
+   "rank": 203
+  },
+  {
+   "company_id": "trading-212",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Treasury Manager (Liquidity)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7ce2547b49da40f8"
+   ],
+   "has_timing_signal": true,
+   "rank": 204
+  },
+  {
+   "company_id": "wealthsimple",
+   "total": 43,
+   "fit": 23,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Manager, Treasury Cash & Settlements",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5046822b1629da2a"
+   ],
+   "has_timing_signal": true,
+   "rank": 205
+  },
+  {
+   "company_id": "addepar1",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Manager, Finance Systems, Accounting Manager- EMEA, Senior Finance Planning & Pigment Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "54199aca717ada2d",
+    "643507735643da9d",
+    "f282fa1b9cf828f6"
+   ],
+   "has_timing_signal": true,
+   "rank": 206
+  },
+  {
+   "company_id": "chime",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Strategic Finance Manager, Senior Associate, Strategic Finance, Senior Associate, Strategic Finance (Growth)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4ea07ab9a1bfa3c6",
+    "bbf3c69ac40de555",
+    "e6870e45552c756b"
+   ],
+   "has_timing_signal": true,
+   "rank": 207
+  },
+  {
+   "company_id": "eliseai",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Deployment Manager, Finance Transformation | Housing, Client Success, Property Accounting | Housing, Deployment Lead, Finance Transformation | Housing",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "5ba7889f3bf01e5b",
+    "7dfe474f96c5f14b",
+    "b69216c779a7ed52"
+   ],
+   "has_timing_signal": true,
+   "rank": 208
+  },
+  {
+   "company_id": "gusto",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Product Counsel, Payroll and Fintech, Senior Product Design Manager, Payroll, Tax Resolution Advocate",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "059e1d6e4a110aa1",
+    "08d77ac82bae6dea",
+    "8a02ef2753d8db8f"
+   ],
+   "has_timing_signal": true,
+   "rank": 209
+  },
+  {
+   "company_id": "nory",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About under 50 people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Payroll Onboarding Specialist (Contract)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d38374bbce1a54c0"
+   ],
+   "has_timing_signal": true,
+   "rank": 210
+  },
+  {
+   "company_id": "profound",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Strategic Finance & Operations",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "e6bfdf523d18245a"
+   ],
+   "has_timing_signal": true,
+   "rank": 211
+  },
+  {
+   "company_id": "public",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About under 50 people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Accounting Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0316989ed6e16729"
+   ],
+   "has_timing_signal": true,
+   "rank": 212
+  },
+  {
+   "company_id": "robinhood",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Internal Audit Senior Associate, Corporate Finance Intern (Summer 2027), Indirect Tax Senior Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0a3748b0acd7a565",
+    "4d6e5162df36fb53",
+    "646baf4ce14e2f67"
+   ],
+   "has_timing_signal": true,
+   "rank": 213
+  },
+  {
+   "company_id": "zip-security",
+   "total": 39,
+   "fit": 26,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 10,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About under 50 people, next to the target range (estimate)",
+    "region": "US-based",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Accountant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "b6eeb37f4490ba0a"
+   ],
+   "has_timing_signal": true,
+   "rank": 214
+  },
+  {
+   "company_id": "stewards",
+   "total": 37,
+   "fit": 18,
+   "timing": 14,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 0,
+    "region": 10,
+    "raise": 14,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Banking and Financial Services: partial credit",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $6.0M of a $22.0M round (Form D), 30 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "49f0a5ad6fa4c062"
+   ],
+   "has_timing_signal": true,
+   "rank": 215
+  },
+  {
+   "company_id": "alphasense",
+   "total": 36,
+   "fit": 16,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Analyst, FP&A",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4b3e8ec74c1d882c"
+   ],
+   "has_timing_signal": true,
+   "rank": 216
+  },
+  {
+   "company_id": "dandy",
+   "total": 36,
+   "fit": 16,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Procurement Lead",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "cad70b014d92d5d3"
+   ],
+   "has_timing_signal": true,
+   "rank": 217
+  },
+  {
+   "company_id": "ebury",
+   "total": 36,
+   "fit": 16,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Internal Audit Manager \u2013 Treasury, FX, Payments & Financial Controls",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "d57e23f2d9d9681c"
+   ],
+   "has_timing_signal": true,
+   "rank": 218
+  },
+  {
+   "company_id": "lendable",
+   "total": 36,
+   "fit": 16,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Head of Treasury, Treasury Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0c40172db4425e0e",
+    "e1632ba5684945f2"
+   ],
+   "has_timing_signal": true,
+   "rank": 219
+  },
+  {
+   "company_id": "range",
+   "total": 36,
+   "fit": 16,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About under 50 people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Director, FP&A",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "9af9ff74799442fb"
+   ],
+   "has_timing_signal": true,
+   "rank": 220
+  },
+  {
+   "company_id": "tide",
+   "total": 36,
+   "fit": 16,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring FP&A Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "17fad39bc3ec3a6e"
+   ],
+   "has_timing_signal": true,
+   "rank": 221
+  },
+  {
+   "company_id": "truelayer",
+   "total": 36,
+   "fit": 16,
+   "timing": 15,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 15,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About under 50 people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Head of Finance (PCF 11) & Head of Safeguarding (PCF 56)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "a8df38530b8f49d3"
+   ],
+   "has_timing_signal": true,
+   "rank": 222
+  },
+  {
+   "company_id": "allica-bank",
+   "total": 36,
+   "fit": 23,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Business Development Manager - Bridging Finance - South West & Wales, Direct Asset Finance Specialist, Business Development Manager - Bridging Finance - Midlands",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3b1f67a07f959a88",
+    "405c639699c1e280",
+    "58b03efed04d8854"
+   ],
+   "has_timing_signal": true,
+   "rank": 223
+  },
+  {
+   "company_id": "capital-on-tap",
+   "total": 36,
+   "fit": 23,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Tax Manager",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "18b082b77eab46a3"
+   ],
+   "has_timing_signal": true,
+   "rank": 224
+  },
+  {
+   "company_id": "chainalysis-careers",
+   "total": 36,
+   "fit": 23,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Manager, Strategic Finance",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "8a41be90fe562b68"
+   ],
+   "has_timing_signal": true,
+   "rank": 225
+  },
+  {
+   "company_id": "modulr-finance",
+   "total": 36,
+   "fit": 23,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 50-200 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Financial Accountant, Senior Financial Accountant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "00e956857955c18c",
+    "6d0e276a8f605641"
+   ],
+   "has_timing_signal": true,
+   "rank": 226
+  },
+  {
+   "company_id": "pleo",
+   "total": 36,
+   "fit": 23,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Billing Operations Analyst (Maternity Cover)",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "decb5260aa06ed0d"
+   ],
+   "has_timing_signal": true,
+   "rank": 227
+  },
+  {
+   "company_id": "sardine",
+   "total": 36,
+   "fit": 23,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Payroll Specialist - US/Canada",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "46f173f2ebe9564c"
+   ],
+   "has_timing_signal": true,
+   "rank": 228
+  },
+  {
+   "company_id": "zopa",
+   "total": 36,
+   "fit": 23,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 15,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 200-500 people (estimated from open roles)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Technical Accountant, Finance Systems Analyst",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "36f813f188f2f4c3",
+    "6265d46b454046f1"
+   ],
+   "has_timing_signal": true,
+   "rank": 229
+  },
+  {
+   "company_id": "amperage-infrastructure",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $19.1M of a $22.1M round (Form D), 126 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "98fac55744dcc701"
+   ],
+   "has_timing_signal": true,
+   "rank": 230
+  },
+  {
+   "company_id": "arriba-foods",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Manufacturing is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.4M of a $4.0M round (Form D), 94 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f0d6f68f787c0547"
+   ],
+   "has_timing_signal": true,
+   "rank": 231
+  },
+  {
+   "company_id": "bloom-surgical",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.0M (Form D), 122 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "047de7f49a4895cc"
+   ],
+   "has_timing_signal": true,
+   "rank": 232
+  },
+  {
+   "company_id": "fcre-tech-park-i",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $0.5M of a $100.0M round (Form D), 157 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "f25c2e2dd7460816"
+   ],
+   "has_timing_signal": true,
+   "rank": 233
+  },
+  {
+   "company_id": "frontrace",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $1.1M of a $5.0M round (Form D), 136 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "0281e8622d2a7061"
+   ],
+   "has_timing_signal": true,
+   "rank": 234
+  },
+  {
+   "company_id": "linework-usa",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $326.0M (Form D), 98 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4bedc9ad0b72663a"
+   ],
+   "has_timing_signal": true,
+   "rank": 235
+  },
+  {
+   "company_id": "pathos-ai",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $237.5M of a $300.0M round (Form D), 98 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "4a78932b2b6b980f"
+   ],
+   "has_timing_signal": true,
+   "rank": 236
+  },
+  {
+   "company_id": "szns-labs",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Other Technology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $4.8M (Form D), 93 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "7368ae6b80d62a45"
+   ],
+   "has_timing_signal": true,
+   "rank": 237
+  },
+  {
+   "company_id": "xatek",
+   "total": 36,
+   "fit": 25,
+   "timing": 6,
+   "strength": 5,
+   "parts": {
+    "industry": 15,
+    "size": 0,
+    "region": 10,
+    "raise": 6,
+    "hiring": 0,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Biotechnology is a target industry",
+    "size": "Size unknown or outside range",
+    "region": "US-based",
+    "raise": "Raised $3.5M of a $6.0M round (Form D), 162 days ago",
+    "hiring": "No open finance roles",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "3ecd4fd87e2dcc81"
+   ],
+   "has_timing_signal": true,
+   "rank": 238
+  },
+  {
+   "company_id": "alpaca",
+   "total": 29,
+   "fit": 16,
+   "timing": 8,
+   "strength": 5,
+   "parts": {
+    "industry": 8,
+    "size": 8,
+    "region": 0,
+    "raise": 0,
+    "hiring": 8,
+    "leader": 0,
+    "strength": 5
+   },
+   "reasons": {
+    "industry": "Industry unknown: partial credit",
+    "size": "About 500+ people, next to the target range (estimate)",
+    "region": "No US location found",
+    "raise": "No raise in the funding window",
+    "hiring": "Hiring Senior Accountant",
+    "leader": "No new finance leader found",
+    "strength": "1 independent signal type(s)"
+   },
+   "signal_ids": [
+    "284b0b2143d17854"
+   ],
+   "has_timing_signal": true,
+   "rank": 239
+  }
+ ]
+}

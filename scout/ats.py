@@ -24,7 +24,7 @@ FINANCE_ROLES = re.compile(
     r"revenue accountant|staff accountant|controller)\b", re.I)
 # Titles that contain finance words but are about the product, not the company's own finance team.
 NOT_INTERNAL = re.compile(
-    r"\b(engineer|engineering|developer|software|product manager|designer|sales|account executive|"
+    r"\b(engineer|engineering|developer|software|product manager|designer|design|sales|account executive|"
     r"customer success|solutions|implementation|support|recruit|marketing|data scientist)\b", re.I)
 
 
@@ -72,6 +72,10 @@ TEAM_KEY = re.compile(r"\b(operations|ops|enablement|platform|infrastructure|dev
                       r"benefits|demand gen\w*|data engineer|analytics engineer|procurement)\b", re.I)
 
 
+OPS_ROLE = re.compile(r"\b(operations|bizops|chief of staff)\b", re.I)
+ENG_ROLE = re.compile(r"\b(engineer|developer|devops|sre|architect|programmer)\b", re.I)
+
+
 def classify_team(title):
     """Return (team, is_key_role) or (None, False). Key roles = leaders and the people who
     run a team's tools and processes: the hires that come right before a team buys software."""
@@ -83,6 +87,9 @@ def classify_team(title):
         return "finance", fin == "stack"
     for team, pat in TEAMS:
         if pat.search(t):
+            # "Director of Operations (Product, Engineering...)" is an operations job, not an engineering one
+            if team == "engineering" and OPS_ROLE.search(t) and not ENG_ROLE.search(t):
+                team = "operations"
             return team, bool(LEAD.search(t) or TEAM_KEY.search(t))
     return None, False
 

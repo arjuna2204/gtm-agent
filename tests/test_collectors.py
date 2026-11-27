@@ -92,7 +92,10 @@ class TestATS(unittest.TestCase):
                  "Head of People": ("people", True), "Security Engineer": ("security_it", True),
                  "Data Engineer": ("data", True), "Customer Success Manager": ("customer", True),
                  "General Counsel": ("legal", False), "Sales Engineer": ("sales", False),
-                 "Software Engineering Intern": (None, False), "Chef": (None, False)}
+                 "Software Engineering Intern": (None, False), "Chef": (None, False),
+                 "Product Design Manager, Treasury": (None, False),
+                 "Director of Operations (Product, Engineering & Technical Solutions)": ("operations", True),
+                 "Platform Operations Engineer": ("engineering", True)}
         for title, want in cases.items():
             self.assertEqual(ats.classify_team(title), want, title)
 

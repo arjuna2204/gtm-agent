@@ -1,6 +1,6 @@
-data/
-tests/
-scout/
-config/
-*.py
-.github/
+/data/
+/tests/
+/scout/
+/config/
+/*.py
+/.github/

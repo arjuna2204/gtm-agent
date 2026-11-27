@@ -22,7 +22,8 @@ US_STATES = set("AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD 
 US_LOC = re.compile(r"\b(united states|usa|u\.s\.|remote[ -]?(us|usa)|new york|san francisco|los angeles|chicago|boston|"
                     r"austin|seattle|miami|denver|atlanta|washington,? dc|nyc|sf bay|" + "|".join(
                         f", {s}" for s in US_STATES) + r")\b", re.I)
-HIRING_FRESH_DAYS = 21  # a role counts only if it was still on the board this recently
+HIRING_FRESH_DAYS = 21
+HIRING_MAX_AGE_DAYS = 120  # a role posted long ago and still open is a weak "now" signal  # a role counts only if it was still on the board this recently
 
 
 def load_profile(path=ROOT / "config" / "profile.json"):
@@ -65,7 +66,8 @@ def score_company(c, sigs, profile, today=None):
 
     fresh_cut = (today - timedelta(days=HIRING_FRESH_DAYS)).isoformat()
     raises = [s for s in sigs if s["type"] == "raise"]
-    hires = [s for s in sigs if s["type"] == "hiring" and s.get("last_seen", "")[:10] >= fresh_cut]
+    hires = [s for s in sigs if s["type"] == "hiring" and s.get("last_seen", "")[:10] >= fresh_cut
+             and (_days_since(s["date"], today) or 0) <= HIRING_MAX_AGE_DAYS]
     leaders = [s for s in sigs if s["type"] == "leader" and s["data"].get("confirmed") is True
                and (_days_since(s["date"], today) or 999) <= 120]
 

@@ -60,6 +60,12 @@ class TestScore(unittest.TestCase):
         rows = score.score_all(self.s, self.profile, TODAY)
         self.assertEqual(rows[0]["parts"]["hiring"], 0)
 
+    def test_old_posting_ignored(self):
+        for sig in self.s.signals.values():
+            if sig["type"] == "hiring":
+                sig["date"] = "2025-01-01"
+        self.assertEqual(score.score_all(self.s, self.profile, TODAY)[0]["parts"]["hiring"], 0)
+
     def test_unconfirmed_leader_not_counted(self):
         for sig in self.s.signals.values():
             if sig["type"] == "leader":

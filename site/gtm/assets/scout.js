@@ -6,6 +6,7 @@ export const TEAM_LABELS = {
   security_it: "Security & IT", people: "People & HR", customer: "Customer success", operations: "Operations", legal: "Legal",
 };
 
+export const HIRING_MAX_AGE_DAYS = 120;
 export const BANDS = ["under 50", "50-200", "200-500", "500+"];
 const STAGE_TO_BAND = { "Seed": "under 50", "Series A": "50-200", "Series B": "50-200", "Series C+": "200-500" };
 const US_STATES = new Set("AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY".split(" "));
@@ -90,7 +91,8 @@ export function scoreCompany(c, product, buyer, today = Date.now()) {
     }
   }
 
-  const hires = c.signals.filter(s => s.type === "hiring" && teams.has(s.team));
+  // a role posted long ago and still open is a weak "now" signal
+  const hires = c.signals.filter(s => s.type === "hiring" && teams.has(s.team) && (daysSince(s.date, today) ?? 0) <= HIRING_MAX_AGE_DAYS);
   const key = hires.filter(s => s.key);
   const pick = (key.length ? key : hires).slice(0, 3);
   parts.hiring = key.length ? 15 : hires.length ? 8 : 0;
